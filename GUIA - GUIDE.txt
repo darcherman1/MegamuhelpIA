@@ -1,0 +1,77 @@
+# PORTUGUESE
+
+GUIA RÁPIDO - BOT MEGAMU (TWITCH & CONSOLE)
+Este guia prático explica como configurar, instalar dependências e utilizar o seu bot de assistente do MEGAMU.
+
+1. REQUISITOS E INSTALAÇÃO
+Certifique-sea de ter o Python instalado no seu computador. No terminal (CMD ou VS Code), instale as bibliotecas necessárias usando o arquivo requirements.txt:
+
+Bash
+pip install -r requirements.txt
+2. CONFIGURAÇÃO INICIAL
+Abra o arquivo principal do bot (IA megamu.py) e certifique-se de preencher as suas credenciais nas primeiras linhas:
+
+CHAVES_GEMINI: Insira uma ou mais chaves de API do Google Gemini. O bot possui um sistema de rodízio automático caso alguma chave atinja o limite de cota. 
+como conseguir as chaves? https://www.youtube.com/watch?v=eLkgX9c4EDc
+
+TOKEN_TWITCH: Insira o token OAuth da sua conta da Twitch. #token do usuario/bot da twitch https://twitchtokengenerator.com
+
+CANAL_TWITCH: Coloque o nome exato do seu canal onde o bot irá operar.
+
+3. COMO EXECUTAR O BOT
+No terminal, execute o script principal:
+
+Bash
+python "IA megamu.py"
+Ao iniciar, o programa exibirá um menu interativo no console:
+
+Opção 1 (Console): Permite testar as perguntas diretamente no terminal do computador de forma isolada e interativa. Digite sair para encerrar o teste.
+
+Opção 2 (Twitch): Inicializa o bot conectado ao chat da sua live na Twitch.
+
+4. COMO USAR NO CHAT DA TWITCH
+Uma vez que o bot estiver online no seu canal, os espectadores poderão interagir utilizando o comando:
+
+Comando: !megamu [sua dúvida]
+
+Exemplo: !megamu qual o level do reset?
+
+O bot consultará os arquivos de texto localizados na pasta database (lendo automaticamente todas as subpastas) e responderá o usuário diretamente no chat, mantendo um histórico de conversa individualizado para cada nick.
+
+# ENGLISH
+QUICK START GUIDE - MEGAMU BOT (TWITCH & CONSOLE)
+This practical guide explains how to configure, install dependencies, and run your MEGAMU assistant bot.
+
+1. REQUIREMENTS AND INSTALLATION
+Make sure you have Python installed on your computer. In your terminal (CMD or VS Code), install the required libraries using the requirements.txt file]:
+
+Bash
+pip install -r requirements.txt
+2. INITIAL CONFIGURATION
+Open the main bot file (IA megamu.py) and make sure to fill in your credentials at the top]:
+
+CHAVES_GEMINI: Enter one or more Google Gemini API keys. The bot features an automatic rotation system in case any key reaches its quota limit].
+
+TOKEN_TWITCH: Enter the OAuth token for your Twitch account].
+
+CANAL_TWITCH: Enter the exact name of your Twitch channel where the bot will operate].
+
+3. HOW TO RUN THE BOT
+In your terminal, execute the main script]:
+
+Bash
+python "IA megamu.py"
+Upon startup, the program will display an interactive menu in the console]:
+
+Option 1 (Console): Allows you to test questions directly in your terminal in an isolated, interactive way. Type sair to exit the test.
+
+Option 2 (Twitch): Initializes the bot connected to your live Twitch chat.
+
+4. HOW TO USE IT IN TWITCH CHAT
+Once the bot is online in your channel, viewers can interact using the command]:
+
+Command: !megamu [your question]
+
+Example: !megamu qual o level do reset?
+
+The bot will query the text files located in the database folder (automatically reading all subfolders) and reply directly in the chat, keeping an individualized conversation history for each username].
