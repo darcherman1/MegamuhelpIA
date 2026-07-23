@@ -1,0 +1,57 @@
+# SISTEMA DE SEGURANÇA: AUTENTICAÇÃO EM DOIS FATORES (2FA), COMANDOS E DESBLOQUEIOS
+
+- Link em Português (PT-BR): https://megamu.net/forum/showthread.php?tid=17705
+- Link em Espanhol (ES): https://megamu.net/forum/showthread.php?tid=17708
+- Link em Inglês (EN): https://megamu.net/forum/showthread.php?tid=17709
+- Link em Chinês (ZH): https://megamu.net/forum/showthread.php?tid=17710
+- Link em Vietnamita (VI): https://megamu.net/forum/showthread.php?tid=17711
+
+---
+
+## O QUE É O SISTEMA 2FA NO MEGAMU
+O sistema de **Autenticação de Dois Fatores (2FA)** adiciona uma camada de proteção extra à conta. Ele impõe restrições e bloqueios de ações (como negociações, descartes, uso de baú, etc.) para evitar prejuízos em casos de compartilhamento de conta ou invasões.
+
+---
+
+## 1º PASSO: COMO ATIVAR O 2FA NA CONTA
+
+1. Acesse o site oficial do MEGAMU e faça login no seu perfil.
+2. Clique no seu apelido no canto superior direito e selecione a opção **"Segurança"**.
+3. Na seção *Dispositivos*, role a página até encontrar **"2FA – Autenticação de Dois Fatores"** e clique em **"Ativar proteção extra"**.
+4. **Escolha o Aplicativo:** O sistema sugerirá aplicativos autenticadores (como Google Authenticator ou Authy). Clique em **Avançar**.
+5. **Escanear QR Code:** Abra o aplicativo autenticador no celular, escaneie o QR Code exibido na tela e um código temporário de 6 dígitos será gerado.
+6. **Confirmar:** Insira o código de 6 dígitos no campo indicado no site e clique em **Enviar**.
+7. **Configurar Bloqueios de Ações:** Marque as caixas das ações que deseja proteger no jogo e clique em **Aplicar**.
+
+---
+
+## 2º PASSO: COMO ALTERAR AS AÇÕES BLOQUEADAS
+
+1. Faça login no site do MEGAMU e vá em **"Segurança"**.
+2. Na tela *2FA Code*, digite o código de 6 dígitos gerado pelo aplicativo autenticador no celular e clique em **Desbloquear**.
+3. Na seção *2FA – Autenticação de Dois Fatores*, marque ou desmarque os bloqueios desejados.
+4. Clique em **Aplicar** para salvar a nova configuração.
+
+---
+
+## 3º PASSO: COMO DESBLOQUEAR E BLOQUEAR TEMPORARIAMENTE NO JOGO
+
+Você pode liberar as interações protegidas dentro do jogo sem precisar desativar o 2FA no site:
+
+### Comandos do Chat no Jogo:
+- **Desbloquear Ações (/unlock):** Digite no chat `/unlock [código 2FA]` (exemplo: `/unlock 123456`).
+  - *Mensagem do sistema:* `[2FA] Conta desbloqueada.`
+  - *Funcionamento:* A conta permanecerá liberada durante toda a sua sessão de jogo. Se você relogar, fechar o jogo ou tomar desconect (DC), a proteção será **reativada automaticamente**.
+- **Bloquear Manualmente (/lock):** Para reativar as travas de segurança imediatamente sem precisar relogar, digite apenas `/lock` no chat (não é necessário colocar o código de 6 dígitos).
+  - *Mensagem do sistema:* `[2FA] Conta bloqueada, utilize /unlock [código 2FA].`
+
+---
+
+## 4º PASSO: DESATIVAR O 2FA PERMANENTEMENTE
+
+*Nota: Ação não recomendada pela administração, exceto em trocas de aparelho celular.*
+
+1. Faça login no site e acesse a aba **"Segurança"**.
+2. Na tela de validação do código (ou ao lado da seção 2FA), clique na opção **"Solicitar Desativação por e-mail"**.
+3. O sistema enviará um e-mail de confirmação para o endereço cadastrado na conta (remetente: `no-reply@megamu.com.br`).
+4. Abra o e-mail, copie o código de verificação recebido, insira-o no campo indicado no site e clique em **Desativar**.

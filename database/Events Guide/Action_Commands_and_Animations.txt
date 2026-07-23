@@ -1,0 +1,52 @@
+# COMANDOS DE INTERAÇÃO SOCIAL: ANIMAÇÕES, GESTOS E EMOTICONS
+
+- Link em Português (PT-BR): https://megamu.net/forum/showthread.php?tid=2675
+- Link em Espanhol (ES): https://megamu.net/forum/showthread.php?tid=17643
+- Link em Inglês (EN): https://megamu.net/forum/showthread.php?tid=17642
+- Link em Chinês (ZH): https://megamu.net/forum/showthread.php?tid=17644
+- Link em Vietnamita (VI): https://megamu.net/forum/showthread.php?tid=17645
+
+---
+
+## COMO USAR OS COMANDOS DE ANIMAÇÃO
+Para ativar qualquer animação ou gesto com o seu personagem, basta abrir a caixa de chat do jogo e digitar o comando desejado.
+
+---
+
+## LISTA COMPLETA DE COMANDOS DE ANIMAÇÃO
+
+### 1. Comandos de Ação e Celebração
+- `/dance` -> Faz o personagem realizar uma dança animada.
+- `/clap` -> Faz o personagem aplaudir.
+- `/handclap` -> Realiza uma animação de aplauso alternativa.
+- `/cheer` -> O personagem vibra e comemora com entusiasmo.
+- `/salute` -> Realiza uma saudação militar formal de respeito.
+- `/respect` -> Mostra um gesto simbólico de respeito.
+- `/hustle` -> Realiza um gesto provocativo.
+
+### 2. Comandos Sociais e Saudação
+- `/greet` -> Faz um gesto de cumprimento (acenar/dar oi).
+- `/bye` -> Realiza um gesto de despedida (tchau).
+- `/cheers` -> Animação de brindar com copos/canecas.
+
+### 3. Comandos de Emoção
+- `/cry` -> O personagem chora expressando tristeza.
+- `/smile` -> O personagem sorri.
+- `/cold` -> O personagem treme de frio.
+
+### 4. Comandos de Jogo e Observação
+- `/win` -> Comemora uma vitória.
+- `/again` -> Sinaliza a intenção de tentar novamente.
+- `/see` -> Olha atentamente para uma direção ou jogador.
+- `/look` -> Gesto de observação genérico.
+
+### 5. Mini-Jogo: Pedra, Papel e Tesoura
+Comandos utilizados para jogar com outros jogadores diretamente pelo chat:
+- `/rock` -> Faz o gesto de **Pedra**.
+- `/paper` -> Faz o gesto de **Papel**.
+- `/scissors` -> Faz o gesto de **Tesoura**.
+
+---
+
+## ACESSO RÁPIDO VIA INTERFACE (MENU DE EMOTICONS)
+- Além de digitar os comandos no chat, você pode abrir a janela de chat do jogo e clicar no **ícone de carinha feliz / emoticon** para selecionar e disparar as animações e expressões de forma visual e direta.

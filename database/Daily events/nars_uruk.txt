@@ -1,0 +1,44 @@
+[BASE DE DADOS MEGAMU] - GUIA COMPLETO DOS EVENTOS NARS / URUK ATTACK
+Vídeos e Links de Referência:
+
+MU Online Uruk Attack - MEGAMU Season 12 (SkyGame Play): https://www.youtube.com/watch?v=6hlZbR7Fel4
+
+Evento Uruk/Nars Exp Elevada (Mr. Warcho FBM): https://www.youtube.com/watch?v=ZP6BhL97afU
+
+1. CONCEITO GERAL E OBJETIVO
+O que é: O Nars/Uruk Attack é um evento exclusivo que acontece nos mapas de Nars e Uruk, focado em acelerar o ganho de experiência e o desenvolvimento de personagens de forma muito mais rápida do que nos mapas normais.
+
+Foco de Level:
+
+Uruk Attack: Excelente para upar e fazer o Master Level da faixa do 400 ao 800 (semelhante ao foco em Ferea).
+
+Nars Attack: Indicado para continuar o progresso e upar do 800 em diante ou para personagens em fases avançadas de resets (ex: 195+), onde o ganho de XP nos mapas comuns se torna mais difícil.
+
+Modo de Jogo: Pode ser feito em grupo com bônus extra de experiência por estar em party, ou de forma solo.
+
+2. COMO PARTICIPAR E CUSTOS
+Para entrar nos mapas de evento, é necessário ir até o mapa de Crywolf e interagir com os NPCs localizados na safezone central:
+
+Uruk Attack:
+
+Localização do NPC: Centro da safezone de Crywolf (coordenadas aproximadas 223, 34, junto aos soldados formados).
+
+Custo: Pode variar entre taxas em MPs ou valores em Zen dependendo da atualização/configuração vigente do servidor.
+
+Nars Attack:
+
+Localização do NPC: Próximo às coordenadas 129, 31 em Crywolf (na região da "carreta" / outros soldados formados).
+
+Custo: Possui custo dedicado em MPs para liberação do acesso.
+
+3. MECÂNICAS IMPORTANTES DOS MAPAS DE EVENTO
+Spots Diferenciados: Os mapas contam com diversos spots com taxas de experiência elevadas (chegando a proporcionar rendimentos massivos de XP, especialmente se combinados com bônus de party, pets de suporte, Bless of Light e eventos de XP bonificada).
+
+Restrições de Movimentação: Uma vez dentro do mapa de evento (Uruk ou Nars), não é permitido usar comandos para sair ou deixar o personagem em offline / offline attack, pois isso o expulsará automaticamente de volta para o mapa ordinário.
+
+Aparição de Bosses (Tempo de Evento): Dependendo da duração da sessão (como no caso do Uruk Attack, que costuma durar cerca de 40 minutos a 1 hora ou mais), podem surgir chefes poderosos com alto poder de dano ao longo do mapa.
+
+4. RECOMPENSAS
+Experiência Massiva: O principal atrativo para up de level e master level acelerado.
+
+Elemental Runes: Item raro que pode ser obtido durante a progressão no evento.

@@ -1,0 +1,180 @@
+# EVENTO COMPLEMENTAR: DEVIL'S SQUARE (GUIA DE DIVISÕES, CRAFT E PARTICIPAÇÃO)
+
+- Link em Espanhol (ES): https://megamu.net/forum/showthread.php?tid=17664
+- Link em Inglês (EN): https://megamu.net/forum/showthread.php?tid=17665
+- Link em Chinês (ZH): https://megamu.net/forum/showthread.php?tid=17666
+- Link em Vietnamita (VI): https://megamu.net/forum/showthread.php?tid=17667
+
+---
+
+## 1º PASSO: DIVISÕES E REQUISITOS DE LEVEL
+
+O evento Devil's Square é dividido em 7 níveis. O nível do convite deve corresponder à faixa de level atual do seu personagem:
+
+| Nível do DS | Level Suportado |
+|---|---|
+| **Devil's Square 1** | Level 50 até 199 |
+| **Devil's Square 2** | Level 200 até 299 |
+| **Devil's Square 3** | Level 300 até 349 |
+| **Devil's Square 4** | Level 350 até 399 |
+| **Devil's Square 5** | Level 400 até 749 |
+| **Devil's Square 6** | Level 750 até 899 |
+| **Devil's Square 7** | Level 900+ |
+
+---
+
+## 2º PASSO: CRAFT DO CONVITE (DEVIL'S INVITATION)
+
+### Localização:
+- NPC: **Chaos Machine** em Noria (Coordenadas: 180, 102).
+- Opção no Menu: **"Convite de Evento"** -> **"Convite Devil Square"**.
+
+### Requisitos de Craft:
+- 1 **Devil's Eye** [do nível desejado (+1 a +7)]
+- 1 **Devil's Key** [do nível desejado (+1 a +7)]
+- 1 **Jewel of Chaos**
+
+### Procedimento e Regras de Craft:
+1. Coloque os três itens na Chaos Machine e clique em **Craftar**.
+2. **Criação em Lote:** É possível fabricar múltiplos convites de uma só vez colocando quantidades equivalentes (ex: 2 Eyes + 2 Keys + 2 Chaos = 2 Devil's Invitations).
+3. **Probabilidade:** Existe chance de falha no procedimento na Chaos Machine. Em caso de sucesso, é gerado o **Devil's Invitation** correspondente.
+
+---
+
+## 3º PASSO: HORÁRIOS DO EVENTO
+- O evento ocorre em horários fixos ao longo do dia.
+- **Como verificar o horário:**
+  - Pelo site oficial do MEGAMU ou Dashboard.
+  - Pela janela de eventos dentro do jogo: Pressione a tecla **ESC** (PC) ou toque no menu geral -> ícone de eventos (Mobile).
+
+---
+
+## 4º PASSO: COMO ENTRAR NO EVENTO
+
+- **NPC de Entrada:** **Charon**
+- **Localização:** **Event Square** (Salas Free / MEGAVIP) nas coordenadas **(219, 3)**.
+- **Entrada:** Interaja com o NPC Charon, confirme a entrada com o convite correspondente no inventário e seja movido para a arena do evento.
+
+---
+
+## 5º PASSO: FOCO E PREMIAÇÃO
+- **Foco Principal:** Diferente de eventos com drops de itens, o foco absoluto do Devil's Square é o **Ganho de Experiência (EXP)**.
+- **Bônus:** Durante o evento, a arena concede **Bônus de EXP Dobrado**, permitindo um nivelamento e subida de resets acelerados.
+
+# EVENTO COMPLEMENTAR: BLOOD CASTLE (GUIA DE DIVISÕES, CRAFT, DINÂMICA E PREMIAÇÃO)
+
+- Link em Português (PT-BR): https://megamu.net/forum/showthread.php?tid=17594
+- Link em Espanhol (ES): https://megamu.net/forum/showthread.php?tid=17668
+- Link em Inglês (EN): https://megamu.net/forum/showthread.php?tid=17669
+- Link em Chinês (ZH): https://megamu.net/forum/showthread.php?tid=17670
+- Link em Vietnamita (VI): https://megamu.net/forum/showthread.php?tid=17671
+
+---
+
+## 1º PASSO: DIVISÕES E REQUISITOS DE LEVEL
+
+O evento Blood Castle é dividido em 7 níveis. O nível do convite deve ser compatível com a faixa de level do personagem:
+
+| Nível do BC | Level Suportado |
+|---|---|
+| **Blood Castle 1** | Level 50 até 399 |
+| **Blood Castle 2** | Level 400 até 599 |
+| **Blood Castle 3** | Level 600 até 699 |
+| **Blood Castle 4** | Level 700 até 799 |
+| **Blood Castle 5** | Level 800 até 899 |
+| **Blood Castle 6** | Level 900 até 999 |
+| **Blood Castle 7** | Level 1000+ |
+
+---
+
+## 2º PASSO: CRAFT DO CONVITE (INVISIBILITY CLOAK)
+
+### Localização:
+- NPC: **Chaos Machine** em Noria (Coordenadas: 180, 102).
+- Opção no Menu: **"Convite de Evento"** -> **"Convite Blood Castle"**.
+
+### Requisitos de Craft:
+- 1 **Scroll of Archangel** [do nível desejado (+1 a +7)]
+- 1 **Blood Bone** [do nível desejado (+1 a +7)]
+- 1 **Jewel of Chaos**
+
+### Procedimento e Regras de Craft:
+1. Coloque os três itens na máquina e clique em **Criar**.
+2. **Criação em Lote:** É possível criar múltiplos convites inserindo quantidades proporcionais (ex: 2 Scrolls + 2 Bones + 2 Chaos = 2 Invisibility Cloaks).
+3. **Resultado:** Em caso de sucesso, gera o **Invisibility Cloak** do nível selecionado. Existe chance de falha no procedimento.
+
+---
+
+## 3º PASSO: HORÁRIOS DO EVENTO
+- O evento acontece em horários específicos diariamente.
+- **Como verificar os horários:** Pelo site oficial do MEGAMU, pelo Dashboard ou pressionando **ESC** no PC (ou menu geral -> ícone de eventos no Mobile).
+
+---
+
+## 4º PASSO: COMO ENTRAR E DINÂMICA DO EVENTO
+
+### NPC de Entrada:
+- **NPC:** **Archangel's Spirit**
+- **Localização:** **Event Square** (Salas Free / MEGAVIP) nas coordenadas **(219, 3)**.
+
+### Etapas do Evento:
+1. **Período de Espera:** Ao entrar na arena, os jogadores possuem 1 minuto de preparação onde podem optar por montar party ou seguir sozinhos.
+2. **Primeira Fase (Matar Mobs):** Elimine a quantidade de monstros exigida indicada no contador da tela (o contador ajusta automaticamente a quantidade de monstros de acordo com o número de jogadores dentro do evento).
+3. **Destruir o Portão:** Após bater a cota de monstros, o Portão do Castelo fica vulnerável. Ataque e destrua o portão para avançar.
+   - *Drops sem dono ao quebrar o Portão:* **Shining Jewellery Case**, **Elegant Jewellery Case** e **Steel Jewellery Case**.
+4. **Segunda Fase (Invasão do Altar):** Avance para a parte interna, elimine a nova cota de monstros exigida e destrua a **Estátua do Altar**.
+5. **Drop do Artefato:** A estátua destruída dropa um dos três artefatos especiais:
+   - **Divine Sword of Archangel**
+   - **Divine Staff of Archangel**
+   - **Divine Crossbow of Archangel**
+   - *Drops adicionais no chão:* **Shining Jewellery Case**, **Elegant Jewellery Case** e **Steel Jewellery Case**.
+6. **Entregar o Artefato:** Pegue o artefato, corra de volta ao início do mapa e entregue ao NPC Archangel para concluir o evento e receber as recompensas.
+
+---
+
+## 5º PASSO: PREMIAÇÃO E RECOMPENSAS
+
+O Blood Castle é um dos eventos mais importantes para o farm seguro de **Ruud** e joias (evento sem PvP).
+
+### Recompensa Fixa:
+- **300 Ruuds** fixos concedidos a cada participante do grupo/jogador que conclui a entrega.
+
+### Itens Aleatórios Recebidos na Conclusão:
+- Jewel of Bless
+- Jewel of Soul
+- Jewel of Creation
+- Jewel of Chaos
+- Jewel of Life
+- Jewel of Guardian
+- Jewel of Harmony
+- Talisman of Luck
+- Talisman of Luck Elemental
+- Talisman Chaos Assembly
+- Talisman Chaos Assembly Elemental
+- Pandora Pick
+- Red Chocolate Box
+
+
+# DROPS: ONDE DROPAR INSUMOS DE BLOOD CASTLE (BC) E DEVIL'S SQUARE (DS)
+
+Os materiais de convite (**Blood Bone / Scroll of Archangel** para Blood Castle e **Devil's Eye / Devil's Key** para Devil's Square) dropam nos seguintes mapas e monstros conforme o nível do convite:
+
+---
+
+## LOCAIS E MONSTROS DE DROP POR NÍVEL (+1 A +7)
+
+| Nível (BC / DS) | Mapas de Drop | Monstros Específicos / Observações |
+|---|---|---|
+| **BC / DS 1** | **Devias** | Worms e Hominid (Cachorros) |
+| **BC / DS 2** | **Dungeon 2** | Primeiro spot de Dungeon 2 |
+| **BC / DS 3** | **Dungeon 1 e Arena** | Gorgons Pretos |
+| **BC / DS 4** | **Arena e Losttower 7** | Gorgons Vermelhos e monstros de Losttower 7 |
+| **BC / DS 5** | **Atlans** | Monstros em geral de Atlans |
+| **BC / DS 6** | **Arena e Tarkan 2** | Tantalos e Iron Wheel |
+| **BC / DS 7** | **Kanturu 2 e Ferea** | Todos os monstros dos mapas |
+
+---
+
+> **Dica de Farm no MegaHelper (Bot):** Para otimizar a coleta desses insumos durante o UP, adicione na aba **Pegar** da sua *Pick List* os nomes exatos dos itens:
+> - **Blood Castle:** `Blood Bone` e `Scroll of Archangel`
+> - **Devil's Square:** `Devil's Eye` e `Devil's Key`

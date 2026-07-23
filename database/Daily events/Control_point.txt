@@ -1,0 +1,37 @@
+# [BASE DE DADOS MEGAMU] - GUIA COMPLETO DO EVENTO CONTROL POINT (CP)
+
+## 1. CONCEITO GERAL E NATUREZA DO EVENTO
+* **Estilo:** Modo de jogo baseado no domínio e proteção de bases para acúmulo de pontos, utilizando as mesmas bases do modo CTF (posições visíveis no minimap pressionando a tecla **TAB**).
+* **Foco em Guilda / PvP:** O Control Point (CP) é um evento voltado essencialmente para a **cooperação de guildas e alianças**. Devido ao intenso combate PvP, é considerado um evento impraticável para jogadores solo, exigindo massa e organização.
+* **Objetivo Principal:** Ser a primeira guilda a alcançar **100% de progresso** ou terminar o evento com a maior porcentagem antes que o tempo limite (exibido nas estátuas) se esgote.
+
+---
+
+## 2. MECÂNICA DE CONQUISTA, TAGS E PONTUAÇÃO
+* **Domínio por Tag:** Para capturar ou manter uma base, os membros de uma guilda com a mesma **Tag** devem permanecer dentro dela. 
+* **Como Conquistar um Ponto:** Elimine todos os membros de guildas inimigas que estiverem próximos à base.
+* **Início do Controle:** Assim que a base estiver limpa de oponentes da mesma tag, um NPC anunciará a porcentagem de progresso.
+* **Spawning de NPCs de Progresso:** Conforme a porcentagem aumenta, até **4 NPCs** surgirão ao redor da base. Cada um deles gera **0,03% por segundo** de progresso para a guilda controladora.
+* **Interrupção e Travamento (Disputa):** Se um jogador de uma tag rival entrar na base, a contagem do adversário começa a baixar ou é **trava** (nenhuma guilda pontua enquanto houver tags mistas paradas disputando o local).
+* **Aceleração Estratégica:** Para acelerar a vitória, a guilda pode dominar e manter **múltiplas bases simultaneamente** em 100%.
+* **Defesa de Base:** Durante o evento, o sistema de torres e minas pode ser posicionado e utilizado para ajudar na defesa estratégica das bases dominadas.
+
+---
+
+## 3. COMANDOS DE TELEPORTE RÁPIDO NO MAPA (CP)
+Para otimizar o reposicionamento e a defesa rápida da guilda entre as bases, utilize os comandos dedicados:
+* **/cp1** — Teleporta próximo à **Base 1**
+* **/cp2** — Teleporta próximo à **Base 2**
+* **/cp3** — Teleporta próximo à **Base 3**
+* **/cp4** — Teleporta próximo à **Base 4**
+
+---
+
+## 4. LISTA DE PREMIAÇÕES
+As recompensas são distribuídas em MPoints (MP) para os membros participantes (com limite máximo de **10 membros** premiados por colocação):
+
+* **1º Lugar:** 500 MP para cada membro (Máximo 10)
+* **2º Lugar:** 250 MP para cada membro (Máximo 10)
+* **3º Lugar:** 150 MP para cada membro (Máximo 10)
+* **4º Lugar:** 100 MP para cada membro (Máximo 10)
+* **5º Lugar:** 50 MP para cada membro (Máximo 10)

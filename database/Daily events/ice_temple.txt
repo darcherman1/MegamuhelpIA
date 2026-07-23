@@ -1,0 +1,101 @@
+# EVENTO COMPLEMENTAR: ICE TEMPLE (GUIA DE MECÂNICAS, ENTRADA E PREMIAÇÃO)
+
+---
+
+## 1. O QUE É O ICE TEMPLE
+O **Ice Temple** é uma batalha na neve onde duas equipes disputam a conquista de bases para acelerar o acúmulo de pontos e superar o adversário.
+
+---
+
+## 2. ESTRUTURA DAS EQUIPES
+- **Participantes:** O evento conta com duas equipes de até 10 membros cada (total de 20 jogadores).
+- **Formação:** Realizada de forma aleatória no início do evento.
+- **Identificação:** Cada equipe possui uma skin especial para diferenciação e um local exclusivo de respawn.
+- **Regra de Combate:** Membros do mesmo time não podem se atacar.
+
+---
+
+## 3. MAPA E BASES
+- **Bases:** Representadas pelos círculos verde, azul e vermelho.
+- **Locais de Estátuas:** Círculos escuros localizados em cada base para o spawn de estátuas.
+- **Respawn:** Marcações verde e vermelha indicam o local de renascimento de cada time.
+
+### Mecânica das Estátuas:
+- **Como Spawnar:** Permaneça parado exatamente no centro da base durante **10 segundos**; a estátua aparecerá ao término da contagem.
+- **Função:** Cada estátua conquistada acelera o incremento da pontuação da equipe que a spawnou.
+- **Identificação:** O time proprietário pode ser identificado pela cor da aura na base da estátua.
+- **Destruição:** Quando uma estátua é destruída, ela para de pontuar e pode ser spawnada novamente.
+- **Limite por Base:** 
+  - Base do centro: até **3 estátuas**.
+  - Bases laterais: até **2 estátuas** em cada.
+
+---
+
+## 4. ENTRADA E CLASSIFICAÇÃO
+- **Localização:** Encontrado no menu de *move* como **Ice Temple**.
+- **NPCs de Entrada:** No local há 4 NPCs; basta interagir com um deles.
+- **Depósito:** Cada clique no NPC deposita uma **Sign of Lord**.
+- **Seleção dos Jogadores:** No final do tempo de entrada, os **20 players que mais acumularam signs** são movidos para o evento e ganham uma skin especial de destaque durante o período de inscrição.
+- **Aviso de Vaga:** Caso um player insira signs mas não atinja a posição necessária para entrar, o NPC informa a quantidade necessária que falta.
+
+---
+
+## 5. REGRAS DE VITÓRIA E PONTUAÇÃO DE RANK
+
+- **Condição de Vitória:** A equipe que acumular a maior quantidade de pontos em **10 minutos** ou alcançar o limite de **100%** vence o evento.
+- **Pontuação de Rank:**
+  - **Vitória:** +3 pontos
+  - **Derrota:** -2 pontos
+  - **Abandono:** -5 pontos
+
+---
+
+## 6. TABELA DE PREMIAÇÕES POR RANK
+
+| Rank | Premiação Fixa | Drop Jarro Extra | Drop Extra |
+| :---: | :--- | :---: | :---: |
+| **1** | Jarro + Drop + 100 Ruuds + 100 MPs | 10% | 0% |
+| **2** | Jarro + Drop + 200 Ruuds + 200 MPs | 20% | 2% |
+| **3** | Jarro + Drop + 300 Ruuds + 300 MPs | 40% | 5% |
+| **4** | Jarro + Drop + 400 Ruuds + 400 MPs + **200 Hunts Ativo** | 60% | 10% |
+| **5** | Jarro + Drop + 500 Ruuds + 500 MPs + **500 Hunts Ativo** | 80% | 15% |
+
+---
+
+## 7. OPÇÕES DE DROP
+
+| Drop Normal (2 por Player) | Drop Extra (Sem dono) |
+| :--- | :--- |
+| • Bless | • Garuda Flame |
+| • Souls | • 10x Bless of Light Greater |
+| • Benção 50% | • Horn of Fenrir |
+| • Benção 100% | • Steel of heaven |
+
+
+# ADICIONAL: ESTRATÉGIAS PRÁTICAS E REGRAS DE JOGABILIDADE DO ICE TEMPLE
+
+---
+
+## 1. MECÂNICA DE CONQUISTA DE ESTÁTUAS (TORRES)
+- **Como levantar a estátua:** Fique parado exatamente no centro da base por **10 segundos** ininterruptos. Se sair antes ou sofrer interrupções físicas, o progresso reseta.
+- **Identificação Visual:** 
+  - A cor da aura debaixo da estátua/torre indica a qual time ela pertence. **Atenção:** Evite destruir as torres do seu próprio time!
+- **Aviso de Inatividade Anti-AFK:** O jogo emite um aviso se você ficar imóvel por muito tempo na base, aplicando *kick* (expulsão) caso o jogador fique inativo (sem se mover).
+
+---
+
+## 2. DICA TÁTICA DE OURO: O FATOR ESTRATÉGICO VS. PVP
+- **Ignorar o PvP compensa:** O Ice Temple é um evento de **pura estratégia de controle de mapa**, e não um mata-mata comum. 
+- Focar excessivamente em perseguir inimigos para matar pode fazer sua equipe perder o foco. Muitas vezes, ignorar o confronto direto e priorizar levantar ou defender as estátuas/torres é a melhor forma de garantir a vitória da porcentagem (100% ou maior pontuação ao final dos 10 minutos).
+
+---
+
+## 3. REGRAS DE ENTRADA E LIMITES DE FAIXA DE RANKING
+- **Inscrição:** Feita nos 4 NPCs em *Ice Temple* utilizando **Sign of Lord** (obtidas em qualquer spot do jogo). Cada clique deposita uma Sign.
+- **Vagas:** Apenas os **20 jogadores** com o maior volume de *Signs of Lord* depositadas entram no evento.
+- **Sistema de Rank e Pontuação:**
+  - **Rank 1:** 0 a 9 pontos
+  - **Rank 2:** 10 a 19 pontos
+  - **Rank 3:** 20 a 39 pontos
+  - **Rank 4:** 40 a 99 pontos
+  - **Rank 5:** 100 a 200+ pontos

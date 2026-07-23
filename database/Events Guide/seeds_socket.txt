@@ -1,0 +1,166 @@
+# SISTEMA COMPLETO DE SEEDS E SOCKET ITEMS (CRIAÇÃO, MONTAGEM, EVOLUÇÃO, SOQUETAMENTO E BÔNUS)
+
+- Tema en español: https://megamu.net/forum/showthread.php?tid=17017
+- Topic in English: https://megamu.net/forum/showthread.php?tid=17018
+- 中文主题: https://megamu.net/forum/showthread.php?tid=17019
+- Chủ đề bằng tiếng Việt: https://megamu.net/forum/showthread.php?tid=17020
+- Vídeos de Apoio / Referência: SrWins (Tudo sobre Seed) e anikera1 (Soquetando Item Silver)
+
+---
+
+## 1º PASSO - CRIAÇÃO DE SEEDS (NPC SEED MASTER)
+
+### Localização do NPC:
+- NPC: **Seed Master**
+- Mapa: **Elbeland** (Coordenadas: 45, 243)
+- Opção do Menu: **"Criar Seed"**
+
+### Requisitos para Criar Seed:
+- 1 Item Ancient **+4 ou superior**
+- 1 Item Excellent **+4 ou superior**
+- 1 Jewel of Chaos
+- 1 Jewel of Creation
+- 1 Jewel of Harmony
+
+### Regras de Criação:
+- **Taxa de Sucesso:** 100% de chance de sucesso.
+- **Resultado:** Gera uma Seed com elemento e atributo aleatórios.
+
+---
+
+## ELEMENTOS, TIPOS DE USO E ATRIBUTOS POSSÍVEIS
+
+*Nota: Os termos das opções no jogo permanecem em inglês.*
+
+| Elemento | Tipo de Uso | Atributos em Inglês | Tradução do Efeito |
+|---|---|---|---|
+| **Fire (Fogo)** | WEAPON (Arma) | Add Damage By Level<br>Add Attack Speed<br>Add Max Damage<br>Add Min Damage<br>Add Damage<br>Add AG Cost Reduction | Aumento de dano por nível<br>Aumento de velocidade de ataque<br>Aumento de dano máximo<br>Aumento de dano mínimo<br>Aumento de dano<br>Redução de custo de AG |
+| **Wind (Vento)** | SET (Armadura) | Add Max HP<br>Max MP Increase<br>Add HP Recovery<br>Add MP Recovery<br>Add Max AG<br>Add AG Recovery | Aumento de HP máximo<br>Aumento de MP máximo<br>Aumento de recuperação de HP<br>Aumento de recuperação de MP<br>Aumento de AG máximo<br>Aumento de recuperação de AG |
+| **Water (Água)** | SET (Armadura) | Add Defense<br>Add Damage Reduction<br>Add Damage Reflect<br>Mul Defense Success Rate<br>Add Shield Protection | Aumento de defesa<br>Aumento de redução de dano<br>Aumento de reflexão de dano<br>Multiplicador de taxa de defesa bem-sucedida<br>Aumento de proteção de escudo |
+| **Ice (Gelo)** | WEAPON (Arma) | Add Skill Damage<br>Restore HP when killing monsters<br>Restore MP when killing monsters<br>Add Attack Success Rate<br>Add Item Durability Rate | Aumento de dano de habilidade<br>Restaura HP ao matar monstros<br>Restaura MP ao matar monstros<br>Aumento de taxa de ataque bem-sucedido<br>Aumento de taxa de durabilidade de item |
+| **Lightning (Raio)** | WEAPON (Arma) | Add Excellent Damage Rate<br>Add Critical Damage Rate<br>Add Excellent Damage<br>Add Critical Damage | Aumento de taxa de dano excelente<br>Aumento de taxa de dano crítico<br>Aumento de dano excelente<br>Aumento de dano crítico |
+| **Earth (Terra)** | SET (Armadura) | Add Vitality<br>Add Agility<br>Add Strength<br>Add Energy | Aumento de Vitalidade<br>Aumento de Agilidade<br>Aumento de Força<br>Aumento de Energia |
+
+---
+
+## 2º PASSO - MONTAGEM DAS SEEDS (SEED SPHERE)
+
+### Localização:
+- NPC: **Seed Master** em Elbeland (45, 243).
+- Opção do Menu: **"Montar Seed"**.
+
+### Requisitos:
+- 1 Sphere (Espirimono)
+- 1 Seed (à sua escolha)
+- 1 Jewel of Chaos
+- 1 Jewel of Creation
+
+### Dica de Pick List (MegaHelper Bot):
+- Para pegar Spheres automaticamente com o bot do jogo, digite a palavra `spe` no filtro da aba **Pegar**. Spheres antigas (*Di*, *Tri*, etc.) foram desativadas e não dropam mais.
+
+---
+
+## 3º PASSO - EVOLUÇÃO DAS SEEDS (NÍVEIS 1 AO 10)
+
+### 1. Comprar Sphere Upgrade Runes:
+- Vá até o NPC **Sacerdote James** em:
+  - Lorencia (131, 122)
+  - Noria (173, 93)
+  - Elbeland (32, 238)
+  - Event Square Free/VIP (219, 26)
+- Compre a **Sphere Upgrade Rune Capsule** por **500 Ruuds**.
+- Cada cápsula concede aleatoriamente de **2 a 6 Sphere Upgrade Runes**.
+
+### 2. Evoluir no NPC Seed Master:
+- Opção do Menu: **"Melhorar Sphere de Seed"**.
+- **Fórmula de Evolução:**
+  - Seed Sphere Nível 1 + Seed Sphere Nível 1 + Sphere Upgrade Rune = **Seed Sphere Nível 2**
+  - Seed Sphere Nível 2 + Seed Sphere Nível 2 + Sphere Upgrade Rune = **Seed Sphere Nível 3**
+  - (Prossiga até o **Nível 10**).
+- **REGRA DE CRAFT OBRIGATÓRIA (CRÍTICO):**
+  - **Lado Esquerdo (1ª Seed):** É SEMPRE a Seed principal que vai EVOLUIR.
+  - **Lado Direito (2ª Seed):** É SEMPRE o sacrifício que vai ser CONSUMIDA/QUEIMADA.
+
+---
+
+## TABELA DE ATRIBUTOS POR NÍVEL DE SEED (NÍVEIS 1 A 10)
+
+| Elemento | Atributo | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Lvl 6 | Lvl 7 | Lvl 8 | Lvl 9 | Lvl 10 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| **Fogo** | Aumento de dano por nível | 32.0 | 34.0 | 36.0 | 38.0 | 40.0 | 42.0 | 44.0 | 46.0 | 48.0 | 50.0 |
+| **Fogo** | Vel. de ataque | 130 | 150 | 170 | 190 | 210 | 230 | 250 | 270 | 290 | 310 |
+| **Fogo** | Dano máximo | 800 | 900 | 1000 | 1100 | 1200 | 1400 | 1600 | 1800 | 2000 | 2200 |
+| **Fogo** | Dano mínimo | 500 | 600 | 700 | 800 | 900 | 1000 | 1100 | 1300 | 1500 | 1700 |
+| **Fogo** | Aumento de dano | 700 | 800 | 900 | 1000 | 1100 | 1200 | 1300 | 1400 | 1500 | 1600 |
+| **Fogo** | Redução de custo de AG | 56% | 57% | 58% | 59% | 60% | 61% | 62% | 63% | 64% | 65% |
+| **Vento** | Aumento de HP máximo | 8000 | 9000 | 10000 | 11000 | 12000 | 13000 | 14000 | 15000 | 16000 | 18000 |
+| **Vento** | Aumento de MP máximo | 7500 | 8250 | 9000 | 9750 | 10750 | 11750 | 12750 | 14250 | 15750 | 17250 |
+| **Vento** | Rec. de HP | 1600 | 2000 | 2600 | 3200 | 4200 | 5200 | 6200 | 7600 | 9000 | 10400 |
+| **Vento** | Rec. de MP | 3500 | 7000 | 10500 | 14000 | 18500 | 23000 | 27500 | 33000 | 38500 | 44000 |
+| **Vento** | AG máximo | 700 | 820 | 950 | 1100 | 1260 | 1430 | 1620 | 1820 | 2030 | 2260 |
+| **Vento** | Rec. de AG | 50 | 70 | 90 | 110 | 130 | 150 | 170 | 190 | 210 | 230 |
+| **Água** | Aumento de defesa | 1300 | 1400 | 1500 | 1600 | 1700 | 1800 | 1900 | 2100 | 2300 | 2500 |
+| **Água** | Redução de dano | 5% | 6% | 7% | 8% | 9% | 10% | 11% | 12% | 13% | 14% |
+| **Água** | Reflexão de dano | 5% | 6% | 7% | 8% | 9% | 10% | 11% | 12% | 13% | 14% |
+| **Água** | Taxa de defesa bem-sucedida | 22% | 24% | 26% | 28% | 30% | 32% | 34% | 36% | 38% | 40% |
+| **Água** | Proteção de escudo | 103 | 153 | 253 | 303 | 335 | 340 | 345 | 350 | 355 | 3603 |
+| **Gelo** | Dano de habilidade | 1200 | 1400 | 1600 | 1800 | 2000 | 2200 | 2400 | 2600 | 2800 | 3000 |
+| **Gelo** | Restaura HP ao matar mob | 250 | 280 | 310 | 340 | 372 | 404 | 436 | 471 | 506 | 541 |
+| **Gelo** | Restaura MP ao matar mob | 400 | 450 | 500 | 550 | 601 | 652 | 703 | 755 | 807 | 859 |
+| **Gelo** | Durabilidade do item | 45% | 48% | 51% | 54% | 60% | 66% | 73% | 81% | 90% | 99% |
+| **Raio** | Taxa de dano excelente | 11% | 12% | 13% | 14% | 15% | 16% | 17% | 18% | 19% | 20% |
+| **Raio** | Taxa de dano crítico | 8% | 9% | 10% | 11% | 12% | 13% | 14% | 15% | 16% | 17% |
+| **Raio** | Dano excelente | 500 | 600 | 700 | 800 | 900 | 1100 | 1300 | 1500 | 1700 | 1900 |
+| **Raio** | Dano crítico | 700 | 800 | 900 | 1000 | 1200 | 1400 | 1600 | 1800 | 2000 | 2300 |
+| **Terra** | Aumento de Vitalidade | 1800 | 2000 | 2200 | 2400 | 2600 | 2800 | 3000 | 3200 | 3500 | 3800 |
+| **Terra** | Aumento de Agilidade | 300 | 400 | 500 | 600 | 700 | 800 | 900 | 1000 | 1200 | 1400 |
+| **Terra** | Aumento de Força | 600 | 700 | 800 | 900 | 1000 | 1100 | 1200 | 1400 | 1600 | 1800 |
+| **Terra** | Aumento de Energia | 600 | 800 | 1000 | 1200 | 1400 | 1600 | 1800 | 2000 | 2300 | 2600 |
+
+---
+
+## 4º PASSO - ADICIONAR E REMOVER SEEDS NO JOGO
+
+- **Inserir Seed:** No NPC Seed Master, selecione **"Inserir Seed"**. Requer: Item Socket + Seed Sphere + 5 Chaos + 5 Harmony + 1 Guardian.
+- **Remover Seed:** Selecione **"Remover Seed"**. Requer: Item Socket + 5 Chaos + 5 Harmony + 1 Guardian. Selecione a peça, escolha o slot e confirme [j22qLtKSjoI].
+
+---
+
+## 5º PASSO - BÔNUS SOCKET (ORDEM EXATA DAS SEEDS)
+
+O valor do Bônus Socket é influenciado **pelo nível das Seeds equipadas** nos 3 primeiros slots [0K0xMr1d-OI]:
+- **Seeds Lvl 1 a Lvl 5:** Bônus Mínimo [0K0xMr1d-OI].
+- **Seeds Lvl 6 e Lvl 7:** Bônus Intermediário [0K0xMr1d-OI].
+- **Seeds Lvl 8 ao Lvl 10:** Bônus Máximo (Lvl 8 e Lvl 10 dão o mesmo bônus máximo) [0K0xMr1d-OI, j22qLtKSjoI].
+
+| Tipo de Item | Combinação Exata (Slot 1, 2, 3) | Bônus Gerado (Opção) | Val. Mínimo \| Médio \| Máximo |
+|---|---|---|---|
+| **Armas** | Fogo + Raio + Gelo | Damage Increase (Aumento de dano) | 500 \| 800 \| 1200 |
+| **Armas** | Raio + Gelo + Fogo | Skill Damage (Dano de habilidade) | 800 \| 1200 \| 1600 [0K0xMr1d-OI, j22qLtKSjoI] |
+| **Stick (Summoner)** | Fogo + Raio + Gelo | Magic Damage Increase (Dano mágico) | 500 \| 800 \| 1200 |
+| **Stick (Summoner)** | Raio + Gelo + Fogo | Skill Damage (Dano de habilidade) | 800 \| 1200 \| 1600 |
+| **Armadura (Set)** | Água + Terra + Vento | Defense Increase (Aumento de defesa) | 2000 \| 3000 \| 4000 [0K0xMr1d-OI] |
+| **Armadura (Set)** | Terra + Vento + Água | Max HP Increase (Aumento de vida máx.) | 2000 \| 3000 \| 4000 [0K0xMr1d-OI] |
+
+### DICA DE PRO-PLAYER: COMO TIRAR BÔNUS MÁXIMO NA PRÁTICA
+O Bônus Socket é atribuído de forma **manual e aleatória** [0K0xMr1d-OI]. Se não vier no valor máximo de primeira:
+1. Vá em **Remover Seed**, retire a Seed do Slot e coloque-a de volta [0K0xMr1d-OI, j22qLtKSjoI].
+2. **Macete:** Mexa **apenas nas 3 primeiras Seeds da ordem exata** (ex: tire e ponha a 1ª, 2ª ou 3ª) [j22qLtKSjoI]. Evite remover a 4ª ou 5ª Seed, pois se o bônus máximo for ativado na remoção delas, você precisará ter a mesma sorte dupla ao reenseri-las para não perder o bônus [j22qLtKSjoI].
+
+---
+
+## 6º PASSO - BÔNUS ESPECÍFICOS DE ELEMENTOS (INDEPENDENTE DA ORDEM)
+
+Concedidos automaticamente ao possuir a quantidade total de elementos necessários no conjunto do personagem:
+- **Taxa de Dano Duplo +3%:** Requer 1 Fogo (Arma) + 1 Raio (Arma) + 1 Gelo (Arma) + 1 Água (Set) + 1 Vento (Set) + 1 Terra (Set).
+- **Taxa de Ignorar Defesa +1%:** Requer 1 Fogo (Arma) + 1 Raio (Arma) + 1 Gelo (Arma) + 3 Água (Set) + 3 Vento (Set) + 2 Terra (Set).
+
+---
+
+## 7º PASSO - SOQUETAR ITENS LEVEL 400 PELO SITE (EX: ARMAS SILVER)
+
+Para soquetar itens de nível 400 (como armas Silver / Socket Barrel) com **100% de chance no site do MEGAMU** [j22qLtKSjoI]:
+1. **No Jogo:** Deixe a peça **+15** [j22qLtKSjoI]. Preencha os Sockets no jogo com 4 Seeds temporárias de teste e **REMOVA o opcional amarelo da Jewel of Harmony** da peça para evitar falha no painel do site [j22qLtKSjoI].
+2. **No Site Oficial:** Acesse a área de **Socket Combination** [j22qLtKSjoI].
+3. **Pagamento:** Pague a combinação via **MC (MCoins) ou MP (MPoints)** até atingir **100% de chance de Sucesso** [j22qLtKSjoI].
+4. **CUIDADO CRÍTICO NO SITE:** Ao terminar, **NÃO clique na opção de "Remover Socket"**, pois isso limpa todos os slots da arma e desperdiça os recursos consumidos [j22qLtKSjoI].

@@ -1,0 +1,61 @@
+# GUIA COMPLETO: QUESTS DO NPC ZYRO (EXPANSÃO DE BAÚ E INVENTÁRIO GRÁTIS)
+
+- Link em Português (PT-BR): https://megamu.net/forum/showthread.php?tid=9917
+- Link em Espanhol (ES): https://megamu.net/forum/showthread.php?tid=18856
+- Link em Inglês (EN): https://megamu.net/forum/showthread.php?tid=18857
+- Link em Chinês (ZH): https://megamu.net/forum/showthread.php?tid=18858
+- Link em Vietnamita (VI): https://megamu.net/forum/showthread.php?tid=18859
+
+---
+
+## O QUE SÃO AS QUESTS DO NPC ZYRO
+Com a chegada da Nova Engine, as missões do NPC Zyro retornaram ao MEGAMU. Elas oferecem aos jogadores a oportunidade de expandir o **Baú (Vault)** e o **Inventário (Backpack)** gratuitamente através de tarefas simples de caça.
+
+---
+
+## LOCALIZAÇÃO DO NPC E RECOMENDAÇÃO INICIAL
+
+- **NPC:** Zyro
+- **Localização:** Elbeland (Coordenadas: 56, 197)
+- **Requisito de Level:** As missões são liberadas nos níveis 150 e 250.
+- **Recomendação:** Recomenda-se realizar todas as etapas **após atingir o level 250+** com resets suficientes ou bom dano, garantindo que os monstros das missões sejam eliminados rapidamente.
+
+---
+
+## ETAPAS E QUESTS PASSO A PASSO
+
+### Quest 1: Expansão de Baú
+- **Requisito:** Level 150+
+- **Alvo:** Monstro **Death Knight** (encontrado a partir do mapa *Lost Tower 5*).
+- **Item de Drop:** **Ancient Statue** (drop por probabilidade ao matar o mob).
+- **Recompensa:** **Vault Expansion Certificate** (Certificado de Expansão de Baú).
+
+---
+
+### Quest 2: Primeira Expansão de Inventário
+- **Requisito:** Level 250+ (e ter concluído a Quest 1).
+- **Alvo:** Monstro **Silver Valkyrie** (encontrado no mapa *Atlans* nas coordenadas 239,12 / 170,146 / 36,217).
+- **Item de Drop:** **Magic Cloth** (drop por probabilidade ao matar o mob).
+- **Recompensa:** **Magic Backpack** (Mochila Mágica de Inventário).
+
+---
+
+### Quest 3: Segunda Expansão de Inventário
+- **Requisito:** Level 150+ / Pós-Quest 2.
+- **Alvo:** Monstro **Alquamos** (encontrado nos mapas *Icarus* e *Arena*).
+- **Item de Drop:** **Space Cloth** (drop por probabilidade ao matar o mob).
+- **Recompensa:** **Magic Backpack** (Segunda Mochila Mágica de Inventário).
+
+---
+
+## COMO USAR OS ITENS CONQUISTADOS
+
+1. Abra o inventário e clique sobre o item desejado:
+   - **Vault Expansion Certificate:** Expande a capacidade do seu baú.
+   - **Magic Backpack:** Expande os slots do seu inventário.
+2. Na janela de confirmação exibida na tela, clique em **Sim**.
+3. **RELOHAR O JOGO:** É necessário dar relog (desconectar e entrar novamente) para que as novas abas/slots do inventário e baú sejam ativados corretamente.
+
+---
+
+> **Observação:** Caso prefira não realizar as quests, os itens de expansão de baú e inventário também continuam disponíveis para compra direta na **XShop** usando MCoins (MC) ou MPoints (MP).

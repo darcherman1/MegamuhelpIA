@@ -1,0 +1,46 @@
+[BASE DE DADOS MEGAMU] - GUIA COMPLETO DO EVENTO ATAQUE ZUMBI
+Vídeos e Links de Referência:
+
+Tutorial Como Fazer o Evento Zumbi (myTTH1 Gamer): https://www.youtube.com/watch?v=wL1fiWByCV8
+
+ATAQUE ZUMBI | O EVENTO MUITO INSANO DO MEGAMU (SrWins): https://www.youtube.com/watch?v=WTs1HDMm_Ik
+
+1. CONCEITO GERAL E LORE
+O que é: Durante a Grande Guerra contra Kundun, um necromante invocou uma horda de zumbis que ainda assombram a Dungeon até hoje.
+
+Objetivo: Sua missão é derrotá-los para ganhar MPs, mas cuidado: uma maldição do necromante transforma aventureiros em zumbis.
+
+2. COMO PARTICIPAR E MECÂNICAS
+Local de Entrada: No horário do evento, vá até a Dungeon (Dungeon 1 ou Dungeon 3) obrigatoriamente no Servidor 1, e fale com o NPC Arena Guard para ser teleportado. (Dica: Use a tecla ALT para facilitar o clique no NPC caso haja aglomeração de jogadores).
+
+Fase Inicial (Humanos): Antes do tempo de infecção, os jogadores começam como humanos e devem focar em matar esqueletos para acumular MPs e garantir pontuação inicial.
+
+A Infecção: Após o tempo de entrada, um jogador aleatório vira o zumbi inicial e precisa caçar e infectar os humanos restantes.
+
+Dinâmica do Mapa: O mapa pode escurecer durante o evento, proporcionando vantagem de visão para os zumbis.
+
+Uso do Dashboard: É altamente recomendável manter o Dashboard aberto durante o evento. Ele exibe o status de quantos humanos e zumbis continuam vivos, o tempo restante e marcações em tempo real (como onde zumbis foram mortos ou onde jogadores foram infectados), ajudando a evitar rotas perigosas.
+
+3. CLASSE RECOMENDADA E ESTRATÉGIA (DARK LORD)
+Por que o Dark Lord (DL)? É considerada a melhor classe para o evento devido à mecânica de mobilidade com montaria e ao uso do corvo.
+
+Skill Random Attack: Na aba Especial do painel de skills (pressionando a letra U), você localiza a habilidade Random Attack. Arraste-a para a barra de Atalhos, clique uma vez com o botão direito em um monstro para ativá-la, e o seu corvo continuará atacando os esqueletos automaticamente enquanto você corre pelo mapa. (Nota: É necessário investir pontos em Comando na letra C para garantir o dano do corvo).
+
+Furtividade: O ato de matar mobs deixa rastros cinzas no painel que podem alertar os zumbis. Jogadores experientes às vezes desativam o corvo e se escondem estrategicamente para tentar sobreviver até o fim.
+
+4. RECOMPENSAS E PONTUAÇÃO (MPs)
+Jogadores Saudáveis (Humanos):
+
+Matar Esqueleto: 30 MPs (ou 400 no mapa de respawn).
+
+Matar Skeleton Archer: 100 MPs (ou 150 no mapa de respawn).
+
+Matar Chief Skeleton Warrior: 500 MPs (ou 5 no mapa de respawn).
+
+Matar Zumbi: Rouba 10% dos MPs acumulados da vítima.
+
+Premiação por Sobrevivência em Massa: Os sobreviventes dividem uma premiação fixa de 3.000 MPs. Além disso, ficar entre os melhores colocados garante bônus adicionais (ex: ficar entre os 100 vivos concede 250 MPs extras; entre os 50 vivos, 500 MPs; e os vencedores finais que aguentarem até o último segundo podem acumular dezenas de milhares de MPs).
+
+Zumbis (Infectados):
+
+Infectar / Matar Humano: Ganha 50 MPs fixos + rouba 10% dos MPs acumulados da vítima.

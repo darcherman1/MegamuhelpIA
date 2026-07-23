@@ -1,0 +1,33 @@
+# DROPS: BOX OF BALGASS (ITENS MASTERY / RUUD)
+
+A **Box of Balgass** é uma caixa especial de recompensas que concede **1 (um) item** aleatório por abertura. 
+
+---
+
+## 📦 PROVÁVEIS DROPS DA BOX OF BALGASS
+
+### 1. Botas Mastery (Sets Ruud)
+Drops de **Botas** nos níveis **Bloodangel, Darkangel, Holyangel, Awakening Soul, Frosty Blue Eye e Fleet Silver Heart** para as seguintes classes:
+- **Soul Wizard / Grand Master (SM)**
+- **Lord Emperor (DL)**
+- **High Elf (ELF)**
+- **Dimension Master (SUM)**
+- **Master Slayer (SL)**
+- **Mirage Lancer / Grow Lancer (GL)**
+- **Rune Grand Master (RW)**
+
+---
+
+### 2. Luvas Mastery (Sets Ruud)
+Drops de **Luvas** nos níveis **Bloodangel, Darkangel, Holyangel, Awakening Soul, Frosty Blue Eye e Fleet Silver Heart** para a classe:
+- **Blade Master (BK)**
+
+---
+
+### 3. Exceção de Classes com 4 Peças (MG e RF)
+Como as classes **Magic Gladiator (MG)** e **Rage Fighter / Fist Master (RF)** possuem apenas 4 partes em seus sets de Ruud (não utilizam 5 peças completas), o drop para elas é diferenciado:
+- Você poderá dropar **aleatoriamente 1 (um) item Bloodangel Selado (Desativado)** de uma dessas duas classes.
+
+---
+
+> 📌 **Regra de Abertura:** Cada Box of Balgass dropa **estritamente 1 (um) item** por vez.

@@ -1,0 +1,550 @@
+# CRAFT DE ITENS: ARMA CHAOS E ASA LEVEL 1 (WINGS 1)
+
+- Fonte/Link Original (PT-BR): https://megamu.net/forum/showthread.php?tid=16867
+- Link em Espanhol (ES): https://megamu.net/forum/showthread.php?tid=16867
+- Link em Inglês (EN): https://megamu.net/forum/showthread.php?tid=3008
+- Link em Chinês (ZH): https://megamu.net/forum/showthread.php?tid=16897
+- Link em Vietnamita (VI): https://megamu.net/forum/showthread.php?tid=16902
+
+---
+
+## LOCALIZAÇÃO DA CHAOS MACHINE
+- Mapa: Noria
+- Coordenadas: (180, 102)
+
+---
+
+## PASSO 1: CRAFT DA ARMA CHAOS (CHAOS WEAPON)
+
+### Requisitos Obrigatórios:
+- 1 Item comum +4 de refinamento e +4 de Adicional de Life (pode ser comprado em NPC).
+- 1 Jewel of Chaos.
+
+### Itens Opcionais (Aumentam a taxa de sucesso):
+- Jewel of Bless
+- Jewel of Soul
+
+### Procedimento:
+1. Vá até a Chaos Machine em Noria (180, 102).
+2. Selecione a opção "Chaos Weapon".
+3. Coloque os itens e confirme o procedimento.
+
+### Resultado:
+- Em caso de **falha**: Todos os itens colocados serão perdidos.
+- Em caso de **sucesso**: Será gerada uma das três Armas Chaos aleatórias:
+  - Chaos Dragon Axe
+  - Chaos Lightning Staff
+  - Chaos Nature Bow
+
+### Preparação da Arma Chaos para o próximo passo:
+- Se a Arma Chaos for gerada no nível 0, melhore-a até **+4** utilizando 4 Jewels of Bless ou Soul.
+- Se a arma já estiver +4 mas sem o adicional de Life (+4), utilize 1 Jewel of Life.
+- **Regra Fundamental:** A Arma Chaos deve estar no mínimo **+4 de refinamento e +4 de Adicional de Life** para ser aceita na criação da Asa.
+
+---
+
+## PASSO 2: CRAFT DA ASA LEVEL 1 (WINGS 1)
+
+### Requisitos Obrigatórios:
+- 1 Arma Chaos (no mínimo +4 e +4 de Adicional de Life).
+- 1 Jewel of Chaos.
+
+### Itens Opcionais (Aumentam a taxa de sucesso):
+- Jewel of Soul
+- Jewel of Bless
+- Lesser Spirit Stone
+- Talisman of Luck
+
+### Procedimento:
+1. Abra a Chaos Machine em Noria.
+2. Selecione a opção **"Wings"** e em seguida **"1st Wing"**.
+3. Insira os itens e confirme a criação.
+
+### Resultado:
+- Em caso de **falha**: Todos os itens inseridos serão perdidos.
+- Em caso de **sucesso**: Será gerada uma Asa Level 1 aleatória conforme a tabela abaixo:
+
+| Item Gerado | Classes que Equipam |
+|---|---|
+| **Wings of Satan** | Dark Knight, Magic Gladiator, Slayer |
+| **Wings of Elf** | Fairy Elf |
+| **Wings of Heaven** | Dark Wizard, Magic Gladiator, Rune Mage |
+| **Wings of Curse** | Summoner |
+
+*Nota:* As asas criadas na Chaos Machine não possuem opcionais adicionais. Para adicionar atributos, utilize a Oficina no site oficial do MEGAMU.
+
+---
+
+## TAXAS DE SUCESSO DA CHAOS MACHINE NO MEGAMU
+A porcentagem mostrada na interface do jogo é diferente da aplicada pelo servidor. As taxas reais do servidor MEGAMU são:
+
+| Combinação | Taxa Máxima (Normal) | Taxa Máxima (VIP) | Taxa Máxima (MEGAVIP) |
+|---|---|---|---|
+| **Asa Level 1** | 85% | 90% | 95% |
+| **Chaos Item** | 40% | 45% | 50% |
+
+*Fatores que influenciam na taxa:* Nível de refinamento dos itens, quantidade de atributos nos itens e uso de Jewel of Bless, Jewel of Soul, Lesser Spirit Stone e Talisman of Luck.
+
+# CRAFT DE ITENS: ASA LEVEL 2 (WINGS 2) E CAPA LEVEL 2 (CAPES)
+
+- Fonte/Link Original (PT-BR): https://megamu.net/forum/showthread.php?tid=16892
+- Link em Espanhol (ES): https://megamu.net/forum/showthread.php?tid=16892
+- Link em Inglês (EN): https://megamu.net/forum/showthread.php?tid=16871
+- Link em Chinês (ZH): https://megamu.net/forum/showthread.php?tid=16898
+- Link em Vietnamita (VI): https://megamu.net/forum/showthread.php?tid=16903
+
+---
+
+## LOCALIZAÇÃO DA CHAOS MACHINE
+- Mapa: Noria
+- Coordenadas: (180, 102)
+
+---
+
+## PASSO 1: CRAFT DA ASA LEVEL 2 (WINGS 2)
+
+### Requisitos Obrigatórios:
+- 1 Asa Level 1 (Wing 1) de qualquer classe.
+- 1 Loch's Feather (Pena).
+- 1 Jewel of Chaos.
+
+### Itens Opcionais (Aumentam a taxa de sucesso):
+- Intermediate Spirit Stone
+- Talisman of Luck
+
+### Onde Dropar a Loch's Feather:
+- Dropa em quase todos os mapas do jogo, porém possui **maior taxa de drop no Mapa da Arena (VIP)**.
+
+### Procedimento:
+1. Vá até a Chaos Machine em Noria (180, 102).
+2. Selecione a opção **"Wings"** e em seguida **"2nd Wings"**.
+3. Insira os itens na máquina e clique em **Criar**.
+
+### Resultado:
+- Em caso de **falha**: Todos os itens serão perdidos.
+- Em caso de **sucesso**: Uma Asa Level 2 aleatória será gerada conforme a tabela abaixo:
+
+| Item Gerado | Classes que Equipam |
+|---|---|
+| **Wings of Spirit** | Fairy Elf |
+| **Wings of Soul** | Dark Wizard, Rune Wizard |
+| **Wings of Dragon** | Dark Knight, Royal Slayer |
+| **Wings of Darkness** | Magic Gladiator |
+| **Wings of Despair** | Bloody Summoner |
+
+*Nota:* As asas geradas não possuem atributos adicionais de fábrica. Para adicionar atributos, utilize a Oficina no site oficial do MEGAMU.
+
+---
+
+## PASSO 2: CRAFT DA CAPA LEVEL 2 (CAPES)
+
+### Requisitos Obrigatórios:
+- 1 Asa Level 1 (Wing 1) de qualquer classe.
+- 1 Monarch's Crest (Crest / Brasão).
+- 1 Jewel of Chaos.
+
+### Itens Opcionais (Aumentam a taxa de sucesso):
+- Intermediate Spirit Stone
+- Talisman of Luck
+
+### Onde Dropar a Monarch's Crest:
+- Dropa em quase todos os mapas do jogo, porém possui **maior taxa de drop no Mapa da Arena (VIP)**.
+
+### Procedimento:
+1. Vá até a Chaos Machine em Noria (180, 102).
+2. Selecione a opção **"Wings"** e em seguida **"2nd Cape"**.
+3. Insira os itens na máquina e clique em **Criar**.
+
+### Resultado:
+- Em caso de **falha**: Todos os itens serão perdidos.
+- Em caso de **sucesso**: Uma Capa Level 2 aleatória será gerada conforme a tabela abaixo:
+
+| Item Gerado | Classes que Equipam |
+|---|---|
+| **Cape of Lord** | Dark Lord |
+| **Cape of Fighter** | Rage Fighter |
+| **Cloak of Limite** | Grow Lancer |
+
+*Nota:* As capas geradas não possuem atributos adicionais de fábrica. Para adicionar atributos, utilize a Oficina no site oficial do MEGAMU.
+
+---
+
+## TAXAS DE SUCESSO DA CHAOS MACHINE NO MEGAMU
+A porcentagem mostrada na interface do jogo difere da taxa real aplicada pelo servidor.
+
+| Combinação | Taxa Máxima (Normal) | Taxa Máxima (VIP) | Taxa Máxima (MEGAVIP) |
+|---|---|---|---|
+| **Asas Level 2 / Capas** | 50% | 60% | 70% |
+
+*Fatores que influenciam na taxa:* Nível de refinamento dos itens utilizados, quantidade de atributos nos itens e uso de itens adicionais como Intermediate Spirit Stone e Talisman of Luck.
+
+# CRAFT DE ITENS: ASA LEVEL 2.5 (MONSTER WINGS)
+
+- Fonte/Link Original (PT-BR): https://megamu.net/forum/showthread.php?tid=16893
+- Link em Espanhol (ES): https://megamu.net/forum/showthread.php?tid=16893
+- Link em Inglês (EN): https://megamu.net/forum/showthread.php?tid=3002
+- Link em Chinês (ZH): https://megamu.net/forum/showthread.php?tid=16899
+- Link em Vietnamita (VI): https://megamu.net/forum/showthread.php?tid=16904
+
+---
+
+## CONCEITO FUNDAMENTAL DO ITEM MONSTER
+- **Regra Importante:** A classe da Asa Level 2.5 gerada NÃO depende da classe da Asa Level 2 colocada na Chaos Machine. O item que define qual classe a nova asa atenderá é o **Item Monster de fórmula** utilizado.
+
+### Tabela de Itens Monster e suas Classes:
+- **Death King's Bone:** Utilizado para criar a capa de Dark Lord, Rage Fighter e Grow Lancer.
+- **Hell Maine's Leather:** Utilizado para criar a asa de Dark Knight, Magic Gladiator e Slayer.
+- **Dark Phoenix Flame:** Utilizado para criar a asa de Dark Wizard, Magic Gladiator, Summoner e Rune Wizard.
+- **Death Beam Knight Soul:** Utilizado para criar a asa de Fairy Elf.
+
+### Onde Dropar o Item Monster:
+- Dropam de **qualquer monstro no mapa Karutan 1** (ATENÇÃO: Não caem em Karutan 2).
+- A taxa de drop é configurada para ser relativamente alta, porém os monstros possuem ataque e defesa elevados.
+
+---
+
+## PROCEDIMENTO DE CRAFT NA CHAOS MACHINE
+
+### Localização:
+- Mapa: Noria (Coordenadas: 180, 102).
+
+### Requisitos Obrigatórios:
+- 1 Asa Level 2 (Wing 2) de qualquer classe.
+- 1 Item Monster da sua escolha (conforme a classe desejada).
+- 1 Jewel of Chaos.
+- 1 Jewel of Creation.
+
+### Item Opcional (Aumenta a taxa de sucesso):
+- Talisman of Luck.
+
+### Passo a Passo:
+1. Vá até a Chaos Machine em Noria.
+2. Selecione a opção **"Wings"** e em seguida **"Monster Wings"**.
+3. Coloque os itens exigidos no painel e clique em **Criar**.
+
+---
+
+## RESULTADOS E ASAS GERADAS
+
+- Em caso de **falha**: Todos os itens serão destruídos.
+- Em caso de **sucesso**: Será gerada a Asa Level 2.5 correspondente ao Item Monster utilizado:
+
+| Item Gerado | Item Monster Exigido | Classes que Equipam |
+|---|---|---|
+| **Wing of Chaos** | Hell Maine's Leather | Blade Knight, Magic Gladiator, Royal Slayer |
+| **Wing of Magic** | Dark Phoenix Flame | Soul Master, Magic Gladiator, Bloody Summoner, Rune Spell Master |
+| **Wing of Life** | Death Beam Knight Soul | Muse Elf |
+| **Cloak of Death** | Death King's Bone | Dark Lord, Rage Fighter, Grow Lancer |
+
+*Nota:* As asas geradas não possuem atributos de fábrica. Para adicionar opcionais, acesse a Oficina no site oficial do MEGAMU.
+
+---
+
+## TAXAS DE SUCESSO DA CHAOS MACHINE NO MEGAMU
+
+| Combinação | Taxa Máxima (Normal) | Taxa Máxima (VIP) | Taxa Máxima (MEGAVIP) |
+|---|---|---|---|
+| **Asas Level 2.5** | 60% | 70% | 80% |
+
+*Fatores que influenciam na taxa:* Nível de refinamento dos itens utilizados, quantidade de atributos nos itens e uso de Jewel of Luck / Talisman of Luck.
+
+# CRAFT DE ITENS: CONDOR FEATHER E ASA LEVEL 3 (WINGS 3)
+
+- Fonte/Link Original (PT-BR): https://megamu.net/forum/showthread.php?tid=16894
+- Link em Espanhol (ES): https://megamu.net/forum/showthread.php?tid=16894
+- Link em Inglês (EN): https://megamu.net/forum/showthread.php?tid=3009
+- Link em Chinês (ZH): https://megamu.net/forum/showthread.php?tid=16900
+- Link em Vietnamita (VI): https://megamu.net/forum/showthread.php?tid=16905
+
+---
+
+## LOCALIZAÇÃO DA CHAOS MACHINE
+- Mapa: Noria
+- Coordenadas: (180, 102)
+
+---
+
+## COMO OBTER OS ITENS BASE
+
+### 1. Condor Feather:
+- Pode ser obtida abrindo Box Golden (taxa baixa de drop) ou produzida na Chaos Machine.
+
+### 2. Condor Flame:
+- Pode ser obtida abrindo Box Golden (taxa baixa) ou como drop raro de monstros no mapa de **Crywolf**.
+
+---
+
+## ETAPA 1: CRAFT DA CONDOR FEATHER
+
+### Requisitos Obrigatórios:
+- 1 Asa Level 2 (ou Capa Level 2) refinada no mínimo em **+9** e com no mínimo **+4 de Adicional de Life**.
+- 10 Jewels of Bless
+- 10 Jewels of Soul
+- 1 Jewel of Chaos
+- 1 Jewel of Creation
+- 1 a 10 Greater Spirit Stones
+
+### Procedimento:
+1. Vá até a Chaos Machine em Noria (180, 102).
+2. Selecione a opção **"Wings"** e em seguida **"Condor's Feather"**.
+3. Insira os itens solicitados e clique em **Criar**.
+
+### Resultado:
+- Em caso de **falha**: Todos os itens serão destruídos.
+- Em caso de **sucesso**: Será gerada 1 **Condor Feather**.
+
+---
+
+## ETAPA 2: CRAFT DA ASA LEVEL 3 (WINGS 3)
+
+### Requisitos Obrigatórios:
+- 1 Condor Feather
+- 1 Condor Flame
+- 30 Jewels of Bless
+- 30 Jewels of Soul
+- 30 Jewels of Chaos
+- 30 Jewels of Creation
+- 1 a 10 Intermediate Spirit Stones
+
+### Procedimento:
+1. Vá até a Chaos Machine em Noria.
+2. Selecione a opção **"Wings"** e em seguida **"3rd Wing"**.
+3. Insira todos os itens no painel e clique em **Criar**.
+
+### Resultado:
+- Em caso de **falha**: Todos os itens serão destruídos.
+- Em caso de **sucesso**: Uma Asa Level 3 (ou Capa Level 3) aleatória será gerada conforme a tabela abaixo:
+
+| Item Gerado | Classe Necessária (3ª Classe) |
+|---|---|
+| **Wings of Storm** | Blade Master (BM) |
+| **Wings of Eternal** | Grand Master (GM) |
+| **Wings of Illusion** | High Elf (HE) |
+| **Wings of Ruin** | Duel Master (DM) |
+| **Cape of Emperor** | Lord Emperor (LE) |
+| **Wings of Dimension** | Dimension Master |
+| **Cape of Overrule** | Fist Master (FM) |
+| **Wings of Disillusion** | Rune Grand Master |
+| **Wings of Silence** | Master Slayer |
+
+*Nota:* As asas/capas level 3 geradas não possuem opções adicionais de fábrica. Para aprimorá-las com atributos, acesse a Oficina no site oficial do MEGAMU.
+
+---
+
+## TAXAS DE SUCESSO DA CHAOS MACHINE NO MEGAMU
+A porcentagem mostrada na interface do jogo difere da taxa real aplicada pelo servidor.
+
+| Combinação | Taxa Máxima (Normal) | Taxa Máxima (VIP) | Taxa Máxima (MEGAVIP) |
+|---|---|---|---|
+| **Condor Feather** | 60% | 70% | 80% |
+| **Asas Level 3** | 30% | 40% | 55% |
+
+*Fatores que influenciam na taxa:* Nível de refinamento e quantidade de atributos dos itens utilizados, além do uso de Jewel of Luck.
+
+# CRAFT DE ITENS: GARUDA FEATHER, ASA LEVEL 4 (WINGS 4) E SISTEMA ELEMENTAL COMPLETO
+
+- Tema de Criação de Alas Nivel 1: https://megamu.net/forum/showthread.php?tid=16867
+- Tema de Criação de Alas Nivel 2 y Capa Nivel 1: https://megamu.net/forum/showthread.php?tid=16892
+- Tema de Criação de Alas Nivel 2.5: https://megamu.net/forum/showthread.php?tid=16893
+- Tema de Criação de Alas Nivel 3 parte 1: https://megamu.net/forum/showthread.php?tid=16894
+
+---
+
+## ONDE OBTER OS ITENS RARE DE BASE
+- **Garuda Feather:** Criada na Chaos Machine em Noria.
+- **Garuda Flame:** Dropa ao derrotar o boss **Darkness** ou como recompensa nos eventos **Illusion Temple** e **Ice Temple**.
+- **Golden Sentence:** Dropa de monstros nos mapas de **Deep Dungeon**.
+
+---
+
+## ETAPA 1: CRAFT DA GARUDA FEATHER (Chaos Machine em Noria - 180, 102)
+
+### Requisitos Obrigatórios:
+- 1 Asa Level 3 (qualquer classe) refinada em **+13** e com **+4 de Adicional de Life**.
+- 30 Jewels of Bless
+- 30 Jewels of Soul
+- 30 Jewels of Chaos
+- 30 Jewels of Creation
+- 1 a 10 Greater Spirit Stones
+
+### Procedimento:
+1. Vá até a Chaos Machine em Noria (180, 102).
+2. Selecione a opção **"Wings"** e em seguida **"Garuda's Feather"**.
+3. Insira os itens e clique em **Criar**.
+
+### Resultado:
+- Em caso de **falha**: Todos os itens são destruídos.
+- Em caso de **sucesso**: Será gerada 1 **Garuda Feather**.
+
+---
+
+## ETAPA 2: CRAFT DA ASA LEVEL 4 (Chaos Machine em Noria - 180, 102)
+
+### Requisitos Obrigatórios:
+- 1 Garuda Flame
+- 1 Garuda Feather
+- 50 Golden Sentences
+- 30 Jewels of Bless
+- 30 Jewels of Soul
+- 30 Jewels of Chaos
+- 30 Jewels of Creation
+- 1 a 10 Greater Spirit Stones
+
+### Procedimento:
+1. Abra a Chaos Machine em Noria.
+2. Selecione a opção **"Wings"** e em seguida **"4th Wing"**.
+3. Insira os itens e clique em **Criar**.
+
+### Regras de Atributos:
+- As asas geradas possuem de 1 a 3 atributos aleatórios.
+- A quantidade de atributos não pode ser aumentada, mas os atributos existentes podem ser trocados/rerolados aleatoriamente na **Oficina do site oficial** utilizando MC e MP.
+
+### Asas Geradas e Suas Classes (4ª Classe):
+- **Angel Wings** -> Soul Wizard
+- **Devil Wing** -> Dragon Knight
+- **Genius Wings** -> Noble Elf
+- **Destruction Wings** -> Magic Knight
+- **Control Wings** -> Empire Lord
+- **Eternal Wings** -> Dimension Summoner
+- **Judgment Cloak** -> Fist Blazer
+- **Eternity Cloak** -> Shining Lancer
+- **Wings of Fate** -> Rune Wizard
+- **Wings of Condemnation** -> Slaughterer
+
+---
+
+## VALORES DOS ATRIBUTOS ALEATÓRIOS DA ASA LEVEL 4 (RANKS 1 A 4)
+
+| Opção | Tradução / Efeito | Rank 1 | Rank 2 | Rank 3 | Rank 4 |
+|---|---|---|---|---|---|
+| **Increase chance of Fully Recovering Mana** | Recuperação total de Mana | 3% | 5% | 6% | 7% |
+| **Increase chance of Fully Recovering Life** | Recuperação total de Vida | 1% | --- | --- | --- |
+| **Increase chance to return incoming damage** | Refletir dano recebido | 3% | 5% | 6% | 7% |
+| **Increase chance of True Damage** | Dano Verdadeiro (True Damage) | 3% | 5% | 6% | 7% |
+| **Increase Excellent Damage Chance** | Chance de Dano Excelente | 3% | 5% | 7% | 10% |
+| **Increase Double Damage Chance** | Chance de Dano Duplo | 3% | 5% | 6% | 7% |
+| **Increase Attack (Wizardry) speed** | Velocidade de Ataque / Magia | --- | --- | --- | 7% |
+| **Increase Stats Strength** | Aumenta Força | 1000 | 2500 | 4000 | 6500 |
+| **Increase Stats Stamina** | Aumenta Vida (Vitalidade) | 1000 | 2500 | 4000 | 6500 |
+| **Increase Stats Energy** | Aumenta Energia | 1000 | 2500 | 4000 | 6500 |
+| **Increase Stats Agility** | Aumenta Agilidade | 1000 | 2500 | 4000 | 6500 |
+
+---
+
+## SISTEMA ELEMENTAL EM ASAS LEVEL 4 (NPC ADNIEL EM ACHERON)
+
+### Localização do NPC:
+- NPC: **Adniel**
+- Mapa: **Acheron** (Coordenadas: 37, 216)
+
+---
+
+### Passo 1: Inserir Opção Elemental na Asa
+1. Vá ao NPC **Adniel** em Acheron (37, 216) e selecione a opção **"4ª Ala: Inserir opção"**.
+2. **Requisitos:**
+   - 1 Asa Level 4
+   - 1 Errtel +4 (no mínimo)
+   - 9 Golden Sentences
+   - 3 Greater Spirit Stones
+3. **Atenção em Falha:** Se falhar, **apenas a Asa é mantida**; os demais itens colocados são destruídos.
+4. **Resultado em Sucesso:** A Asa ganha dois atributos elementais aleatórios.
+
+#### Opções Elementais Possíveis:
+- Increase Elemental Defense (Aumenta Defensa Elemental)
+- Increase Elemental Attack Power (Aumenta Poder de Ataque Elemental)
+- Increase Elemental Attack Success Rate (Aumenta Tasa de Éxito del Ataque Elemental)
+- Increase Elemental Defense Success Rate (Aumenta Tasa de Éxito de la Defensa Elemental)
+- Increase Elemental Attack Power (II)
+- Increase Elemental Defense (II)
+- Increase Elemental Attack Success Rate (II)
+- Increase Elemental Defense Success Rate (II)
+
+---
+
+### Passo 2: Evoluir o Atributo Elemental do +0 até o +15
+1. Vá ao NPC **Adniel** em Acheron e selecione a opção **"4ª Ala: Melhorar Opção"**.
+2. **Requisitos:** 1 Asa Level 4 (com atributo elemental) + **Elemental Rune**.
+3. **Consumo:** Quanto maior o nível elemental da Asa, maior o consumo de Elemental Runes.
+
+#### Tabela Evolutiva dos Atributos Elementais (+0 ao +15):
+
+| Opção | +0 | +1 | +2 | +3 | +4 | +5 | +6 | +7 | +8 | +9 | +10 | +11 | +12 | +13 | +14 | +15 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| **Increase Elemental Defense** | 25 | 35 | 45 | 55 | 65 | 75 | 85 | 96 | 107 | 118 | 130 | 142 | 154 | 167 | 180 | 193 |
+| **Increase Elemental Attack Power** | 20 | 23 | 27 | 32 | 38 | 45 | 53 | 62 | 72 | 83 | 95 | 108 | 122 | 137 | 153 | 170 |
+| **Increase Elemental Attack Success Rate** | 5 | 10 | 15 | 20 | 26 | 32 | 38 | 45 | 52 | 59 | 67 | 75 | 84 | 93 | 104 | 125 |
+| **Increase Elemental Defense Success Rate** | 5 | 10 | 15 | 20 | 26 | 32 | 38 | 45 | 52 | 59 | 67 | 75 | 84 | 93 | 104 | 125 |
+| **Increase Elemental Attack Power (II)** | 30 | 34 | 39 | 45 | 52 | 60 | 69 | 79 | 90 | 102 | 115 | 129 | 144 | 160 | 177 | 195 |
+| **Increase Elemental Defense (II)** | 4 | 6 | 8 | 10 | 13 | 16 | 19 | 23 | 27 | 31 | 36 | 41 | 46 | 52 | 58 | 64 |
+| **Increase Elemental Attack Success Rate (II)** | 10 | 15 | 25 | 35 | 46 | 57 | 68 | 80 | 92 | 104 | 117 | 130 | 144 | 158 | 174 | 200 |
+| **Increase Elemental Defense Success Rate (II)** | 10 | 15 | 25 | 35 | 46 | 57 | 68 | 80 | 92 | 104 | 117 | 130 | 144 | 158 | 174 | 200 |
+
+---
+
+## TAXAS DE SUCESSO DA CHAOS MACHINE NO MEGAMU
+
+| Combinação | Taxa Máxima (Normal) | Taxa Máxima (VIP) | Taxa Máxima (MEGAVIP) |
+|---|---|---|---|
+| **Garuda Feather** | 40% | 45% | 50% |
+| **Asas Level 4** | 30% | 35% | 40% |
+
+*Fatores de influência:* Nível do item utilizado, quantidade de atributos e uso de Jewel of Luck.
+
+# GUIA DE ITENS: ASAS ESPECIAIS E TEMPORÁRIAS
+
+---
+
+## 1. WINGS OF ANGEL & DEVIL (ASA ESPECIAL TEMPORÁRIA)
+
+### Duração e Como Obter:
+- Duração no MEGAMU: 14 dias de uso.
+- Formas de Obtenção: Sorteios em lives de streamers parceiros e como recompensa no evento **[Invasão] Demônios**.
+
+### Requisitos e Especificações Técnicas:
+- Nível de Uso Mínimo: Level 350
+- Tamanho no Inventário: 4 x 3
+- Nível do Item: +0 (Não pode ser refinado)
+- Uso na Chaos Machine ou com Joias: Não permitido
+- Durabilidade: 255 (A durabilidade não diminui com o uso)
+
+### Atributos e Estatísticas:
+- Defesa: 100
+- Incremento de Dano (DMG): 60%
+- Absorção de Dano (Absorb): 60%
+- Efeito Funcional: Reduce 3 Vida após ataque bem-sucedido (incluindo Miss).
+- Opciones Adicionais:
+  - Luck (Sorte)
+  - 4% de chance de Recuperar 100% do HP
+  - 4% de chance de Dano Duplo (Double Damage)
+  - 4% de chance de Ignorar a Defesa do Inimigo (Ignore Defense)
+
+### Limitações Comerciais:
+- NÃO se pode Trocar (Trade)
+- NÃO se pode colocar em Loja Pessoal (Personal Store)
+- NÃO se pode guardar no Bau (Vault)
+- Venda no NPC: Permitida apenas quando o tempo de uso expirar.
+
+---
+
+## 2. WING OF CONQUEROR (ASA ESPECIAL TEMPORÁRIA)
+
+### Duração e Como Obter:
+- Duração no MEGAMU: 14 dias de uso.
+- Formas de Obtenção: Recompensa no evento **CFC** (Confronto de Famílias/Clãs) e sorteios de streamers parceiros.
+
+### Atributos e Estatísticas:
+- Defesa (DEF): +200
+- Incremento de Dano (DMG): +71%
+- Absorção de Dano (Absorb DMG): +71%
+
+---
+
+## 3. WING OF POWER (ASA ESPECIAL PVP)
+
+### Duração e Como Obter:
+- Duração no MEGAMU: 10 dias de uso.
+- Propósito: Asa especial focada em alto desempenho para PvP.
+- Formas de Obtenção: Eventos especiais de Gifts, promoções de doação/dinheiro (chance de obter nos gifts), sorteios de streamers e eventos comemorativos especiais ao longo do ano.
+
+### Requisitos Mínimos:
+- Nível Mínimo para Equipar: Level 800 (Requer 4ª Classe)

@@ -1,0 +1,111 @@
+# SISTEMA EXCLUSIVO: ITEM QUEST (BUFFS PERMANENTES POR ITENS)
+
+- Link de Referência/Drop: https://megamu.net/forum/showthread.php?tid=11576
+- Imagens / Interface: https://imgur.com/a/megamu-itens-quest-twitch-tv-darcherman-axhK4vr
+
+---
+
+## O QUE É O SISTEMA DE ITEM QUEST
+O **Item Quest** é um sistema exclusivo do MEGAMU que permite transformar itens específicos do jogo em **buffs permanentes de atributos** para o seu personagem.
+
+---
+
+## REQUISITOS, LIBERAÇÃO DE SLOTS E FÓRMULA DE CÁLCULO
+
+- **Requisito Inicial:** O sistema de adição de itens é liberado para personagens a partir de **125 Resets (125rr)**.
+- **Progressão de Slots:** A cada 2 ou 3 resets acima do requisito, o personagem libera espaço para equipar mais itens.
+- **Fórmula de Cálculo de Slots Liberados:**
+$$\text{Slots Liberados} = \frac{\text{Resets do Personagem} - 125}{3}$$
+- O total de slots disponíveis e a quantidade de itens já utilizados ficam visíveis na interface ao lado do nome do seu personagem.
+
+---
+
+## COMO FUNCIONA O SOQUETAMENTO DE BUFFS
+
+1. **Nível Mínimo do Item:** Para inserir um item no quadro de Item Quest, ele deve estar refinado **no mínimo a +9** no seu inventário.
+2. **Escala de Poder do Buff (+9 ao +15):** Quanto maior o nível de refinamento do item entregue, mais forte será o buff concedido. 
+   - *Exemplo:* Um item refinado a **+15 concede o buff máximo**, sendo imensamente superior a um item +9.
+3. **Consumo do Item (IRRECUPERÁVEL):** Ao clicar em **INSERIR**, o item do inventário é consumido e **desaparece para sempre**.
+
+---
+
+## REGRAS DE GRUPOS E LIMPEZA (RESET DE QUADRO)
+
+- **Buffs de Grupo:** O tipo de atributo concedido depende do grupo a que o item pertence. Ao completar todos os itens de um determinado grupo, o personagem recebe um **Buff Bônus exclusivo** (exibido em verde no painel).
+- **Ver Detalhes do Buff:** Passe o ponteiro do mouse sobre o ícone de **"?"** ao lado do nome do grupo na interface.
+- **Limpar Grupo (Opção de Reset):** Caso queira refazer a build, testar novos quadros ou substituir itens por versões com refinamento superior (+15), você pode usar a função de **LIMPAR**.
+  - *ATENÇÃO CRÍTICA:* A opção **LIMPAR** apaga **TODOS os itens que pertencem àquele grupo específico**. Os itens destruídos anteriormente não retornarão ao inventário.
+
+---
+
+## 🏆 BUILDS RECOMENDADAS (LISTA DE ITENS EM ORDEM DE PRIORIDADE)
+
+*Para obter a eficiência máxima no jogo, todos os itens listados abaixo devem ser entregues preferencialmente em **+15**.*
+
+---
+
+### A) CLASSES WIZARD / DANO MÁGICO (SM, RW, MG Mágico, SUM)
+
+Abaixo está a ordem dos melhores itens para compor o quadro de Item Quest de magos:
+
+1. **[ Staffs / Cajados ]**
+   - Gorgon Staff
+   - Legendary Staff
+   - Staff of Resurrection
+   - Staff of Destruction
+   - Dragon Soul Staff
+
+2. **[ Spears / Maces ]**
+   - Crystal Morning Star
+   - Elemental Mace
+   - Serpent Spear
+   - Great Scythe
+   - Dragon Spear
+
+3. **[ Set Ashcrow ]** (Peças do conjunto Ashcrow)
+
+4. **[ Scepters / Cetros ]**
+   - Battle Scepter
+   - Master Scepter
+   - Great Scepter
+   - Lord Scepter
+   - Shining Scepter
+
+5. **[ Set Eclipse ]** (Peças do conjunto Eclipse)
+
+6. **[ 26º Item Extra ]**
+   - **APENAS 1 parte** do Set **Holy Spirit**.
+
+---
+
+### B) CLASSES DAMAGE / DANO FÍSICO E BASS (BK, SL, RF, ELF, DL, GL)
+
+Abaixo está a ordem dos melhores itens para compor o quadro de Item Quest de atacantes físicos:
+
+1. **[ Crossbows / Bestas ]**
+   - Arquebus
+   - Bluewing Crossbow
+   - Aquagold Crossbow
+   - Saint Crossbow
+   - Great Reign Crossbow
+
+2. **[ Set Red Spirit ]** (Peças do conjunto Red Spirit)
+
+3. **[ Swords / Espadas ]**
+   - Short Sword
+   - Legendary Sword
+   - Giant Sword
+   - Sword of Destruction
+   - Sword Dancer
+
+4. **[ Bows / Axes ]**
+   - Larkan Axe
+   - Crescent Axe
+   - Silver Bow
+   - Celestial Bow
+   - Albatross Bow
+
+5. **[ Set Black Dragon ]** (Peças do conjunto Black Dragon)
+
+6. **[ 26º Item Extra ]**
+   - **APENAS 1 parte** do Set **Holy Spirit**.

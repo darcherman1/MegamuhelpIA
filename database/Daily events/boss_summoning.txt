@@ -1,0 +1,29 @@
+[BASE DE DADOS MEGAMU] - GUIA DO EVENTO INOVAÇÃO DE BOSS (INVOCAR BOSS)
+1. CONCEITO GERAL E MECÂNICA
+Origem: O Evento de Invocação de Boss surgiu após uma antiga guerra contra Balgass e seu exército, onde magos, buscando poder e controle, criaram leilões para desafiar os guerreiros mais bravos. Cada invocação é um teste de coragem e estratégia.
+
+Sorteio Diário: Diariamente, um boss é sorteado e anunciado 10 minutos antes do evento. Os chefes possíveis são: Kundun, Erohim, Medusa, Selupan, Nightmare ou Balgass.
+
+Moeda de Lances: A moeda utilizada nos lances também é sorteada e pode ser Bless, Soul, Life, Creation, Harmony ou Chaos.
+
+2. REGRAS DOS LANCES E COMANDO
+Valor dos Lances: Devem ser feitos em pacotes de 10, 20, 30 ou 50 joias.
+
+Custo de Unidade: Cada lance custa uma unidade de Chaos, guardada separada no inventário.
+
+Comando de Invocação: Para dar o lance, utilize o comando /invocar [valor do lance].
+
+Local de Aparição: O boss aparece no local correspondente ao lance vencedor, que pode ser em Lorencia, Devias, Dungeon, Noria, Atlans, Tarkan e Lost Tower, sempre fora das cidades.
+
+3. RECOMPENSAS
+As recompensas variam conforme o boss derrotado, mas incluem:
+
+Itens Ancient
+
+Ruud
+
+Sets, armas e escudos level 360, 380 ou 400
+
+Bloodangel selado para todas as classes
+
+Partes faltando do set Ruud (Bloodangel ~ Silver Heart)

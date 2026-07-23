@@ -1,0 +1,10 @@
+[BASE DE DADOS MEGAMU] - GUIA DO EVENTO DEMONS (GOLDEN GOBLIN / GOLDEN KUNDUN)
+1. CONCEITO GERAL E MECÂNICA
+O que é: Durante a grande guerra contra as forças das trevas, um novo desafio surge no mapa de Tarkan: a caça ao Golden Goblin.
+
+Sequência de Invocação: Ao ser eliminado, o goblin dropa um livro que serve para invocar um monstro mais forte, seguindo uma progressão até o confronto final com o Golden Kundun.
+
+Progressão de Dificuldade: Cada monstro subsequente invocado é duas vezes mais forte em vida, defesa e dano do que o monstro anterior.
+
+2. RECOMPENSAS
+Premiação Principal: O Golden Kundun possui 50% de chance de dropar o item Wings of Angel and Devil (uma asa com 10 dias de duração).

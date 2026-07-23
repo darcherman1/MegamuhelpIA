@@ -1,0 +1,33 @@
+# [BASE DE DADOS MEGAMU] - GUIA DO EVENTO DARK EVOLUTION
+
+* **Link de Referência (Fórum MEGAMU):** [https://megamu.net/forum/showthread.php?tid=5990](https://megamu.net/forum/showthread.php?tid=5990)
+
+---
+
+## 1. CONCEITO GERAL DO EVENTO
+
+* **Público-alvo:** Evento voltado para todos os jogadores, onde **não é exigida uma grande quantidade de resets** para obter um bom desempenho.
+* **Funcionamento:** Ocorre simultaneamente em todos os servidores, em mapas aleatórios que são anunciados durante o andamento do evento.
+* **Mecânica Principal:** **Não é possível matar os monstros do evento.** O objetivo é atrair e acumular a maior quantidade de monstros possível até o encerramento.
+
+---
+
+## 2. PROGRESSÃO DOS MONSTROS
+
+* **Início:** Centenas de serpentes vermelhas surgem por toda a extensão do mapa (exceto na zona segura da cidade).
+* **Atração e Evolução:** Ao avistar o seu personagem, esses monstros passam a segui-lo e a se fundir entre si, originando um novo monstro de nível superior. O sistema possui **6 Níveis de Monstros**.
+* **Encerramento:** O evento se encerra quando um jogador consegue juntar dois monstros de nível 6 ou quando atinge o tempo limite de **6 minutos** de duração.
+
+---
+
+## 3. TABELA DE RECOMPENSAS E DROPS POR NÍVEL
+
+Assim que o evento termina, todos os monstros somem e deixam drops baseados em seus níveis:
+
+* **Mob Level 1:** 1x Joia
+* **Mob Level 2:** 3x Joias
+* **Mob Level 3:** 1x Packs
+* **Mob Level 4:** 2x Packs
+* **Mob Level 5:** 4x Benção ou Box Ruud + Ancient (10% de chance)
+* **Mob Level 6:** 10x Benção ou Box Ruud + Ancient (50% de chance)
+* **Combinação Final:** 2x Ancient + 5x Box 200 Ruud

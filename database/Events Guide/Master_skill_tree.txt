@@ -1,0 +1,134 @@
+# ÁRVORE DE TALENTOS DA 3ª CLASSE (MASTER SKILL TREE): GRAND MASTER (SM) E CONCEITOS GERAIS
+
+- Link Original (PT-BR): https://megamu.net/forum/showthread.php?tid=4984
+- Requisito de Acesso: Ter concluído a quest da 3ª Classe e estar no Level 400+. Atalho para abrir no teclado: tecla **"A"**.
+
+---
+
+## CONCEITOS BÁSICOS DO JOGO E TIPOS DE DANO
+
+- **O que é SD?** É a barra amarela acima do HP. Em batalhas PvP, a maior parte do dano recebido afeta o SD primeiro; quando o SD chega a 0, o dano vai direto para a vida (HP).
+- **O que é AG / Stamina?** É a barra roxa acima da Mana. Algumas habilidades requerem consumo de AG combinado com Mana para serem executadas.
+
+### Cores e Tipos de Dano Afetados pela Árvore:
+- **Dano Básico:** Dano físico/comum do personagem *(cor Laranja)*.
+- **Dano Mágico (Wizardry):** Dano de magias para Grand Master, Duel Master e Dimension Master.
+- **Dano Excellent:** Incremento sobre o dano básico *(cor Verde Claro)*.
+- **Dano Crítico:** Incremento alto sobre o dano básico *(cor Azul Escuro)*.
+- **Ignore Defense (Ignorar Defesa):** Dano aplicado diretamente sem passar pela defesa/SD do alvo *(cor Azul Claro)*.
+- **Curse (Maldição):** Dano de maldições (exclusivo Dimension Master).
+- **Retaliation & Rage:** Danos escalados por Força/Agilidade (exclusivos Mirage Lancer).
+
+---
+
+## ESTRUTURA DA SKILL TREE DE 3ª CLASSE (9 RANKINGS)
+
+A árvore é dividida em 3 colunas principais. Cada ranking exige pelo menos **10 pontos distribuídos em uma skill do ranking anterior** para liberar as skills do nível seguinte.
+
+---
+
+### ABA 1: PAZ (DEFENSIVA)
+
+- **Ranking 1:**
+  - **R1S1:** Redução de Durabilidade (1) - Reduz desgaste de armaduras, armas e escudos (Até 20 pts).
+  - **R1S2:** Incremento na Taxa de Defesa (PvP) (Até 20 pts).
+- **Ranking 2:**
+  - **R2S1:** Incremento no SD Máximo (Até 20 pts).
+  - **R2S2:** Incremento na Recuperação Automática de Mana (Até 20 pts).
+  - **R2S3:** Incremento na Resistência contra Envenenamento (Até 20 pts).
+- **Ranking 3:**
+  - **R3S1:** Redução de Durabilidade (2) - Anéis e Pingentes (Até 20 pts / Requer R1S1).
+  - **R3S2:** Incremento na Velocidade de Recuperação de SD (Até 20 pts / Requer R2S1).
+  - **R3S3:** Incremento na Recuperação Automática de HP (Até 20 pts / Requer R2S2).
+  - **R3S4:** Incremento na Resistência a Relâmpagos (Até 20 pts / Requer R2S3).
+- **Ranking 4:**
+  - **R4S1:** Incremento de Defesa (Até 20 pts).
+  - **R4S2:** Incremento na Recuperação Automática de AG (Até 20 pts / Requer R3S3).
+  - **R4S3:** Incremento na Resistência a Gelo (Até 20 pts / Requer R3S4).
+- **Ranking 5:**
+  - **R5S1:** Redução de Durabilidade (3) - Pets Imp, Angel, Dinorant e Fenrir (Até 20 pts / Requer R3S1).
+  - **R5S2:** Incremento na Taxa de Defesa Bem-Sucedida (Defense Success Rate contra mobs - Até 20 pts / Requer R4S1).
+- **Ranking 6:**
+  - **R6S1:** Aumento do Bônus de Armadura (Aumenta a defesa ao usar o Set completo do mesmo nome - Até 20 pts).
+  - **R6S2:** Vingança (Aumenta a chance de refletir dano - Até 20 pts / Requer R6S1).
+- **Ranking 7:**
+  - **R7S1 / R7S2 / R7S3 / R7S4:** Incremento direto nos atributos base de Energia, Stamina (AG), Agilidade e Força (Até 20 pts cada).
+- **Ranking 8:**
+  - **R8S1:** Eternal Wings Poder Defensivo (Aumenta a defesa ao equipar a Asa Lvl 3 de GM - Até 20 pts).
+  - **R8S2:** Proteção de Escudo (Aumenta a chance de reduzir o dano recebido ao equipar Escudo - Passiva - Até 20 pts).
+- **Ranking 9:**
+  - **R9S1:** Mente Forte (Aumenta resistência a Stun - Até 20 pts).
+  - **R9S2:** Eternal Wings Poder Ofensivo (Aumenta ataque usando Asa Lvl 3 - Até 20 pts / Requer R8S1).
+  - **R9S3:** Armadura de Aço (Aumenta a defesa base que ignora adicionais de Ignore Defense - Até 20 pts).
+  - **R9S4:** Bloqueio de Escudo (Chance de bloquear todo o dano recebido usando escudo - Até 20 pts / Requer R8S2).
+
+---
+
+### ABA 2: SABEDORIA (ATIVA / SKILLS DE ATAQUE)
+
+- **Ranking 1:**
+  - **R1S1:** Incremento na Taxa de Ataque Bem-Sucedido (Reduz chance de dar MISS em monstros - Até 20 pts).
+- **Ranking 2:**
+  - **R2S1 / R2S2:** Fortalecimento das Skills Flame e Lightning (Até 20 pts cada).
+  - **R2S3:** Energizador da Skill Expansion of Wizardry (Aumenta dano mágico - Até 20 pts).
+- **Ranking 3:**
+  - **R3S1 / R3S2:** Fortalecimento das Skills Inferno (Requer R2S1) e Cometfall (Requer R2S2).
+  - **R3S3:** Maestria da Skill Expansion of Wizardry (Aumenta chance de Dano Crítico - Requer R2S3).
+  - **R3S4:** Fortalecimento da Skill Poison (Até 20 pts).
+- **Ranking 4:**
+  - **R4S1:** Fortalecimento da Skill Evil Spirit (Até 20 pts).
+  - **R4S2:** Maestria de Magia (Aumenta dano mágico geral - Requer R4S1).
+  - **R4S3:** Incremento no Life Máximo (HP - Até 20 pts).
+  - **R4S4:** Fortalecimento da Skill Decay (Requer R3S4).
+- **Ranking 5:**
+  - **R5S1 / R5S3:** Fortalecimento das Skills Hellfire e Ice (Até 20 pts cada).
+  - **R5S2:** Incremento na Mana Máxima (Requer R4S3).
+- **Ranking 6:**
+  - **R6S1 / R6S3:** Fortalecimento de Meteor e Ice Storm (Requer R5S3).
+  - **R6S2:** Incremento no AG Máximo (Requer R5S2).
+- **Ranking 7:**
+  - **R7S1:** Fortalecimento da Skill Nova (Até 20 pts).
+  - **R7S2:** Maestria da Skill Ice Storm (Adiciona chance de imobilizar o alvo por 3s - Requer R6S3).
+- **Ranking 8:**
+  - **R8S1:** Maestria da Skill Meteor (Adiciona chance de causar Stun por 2s - Requer R6S1).
+  - **R8S2:** **Aprende a Skill Earth Prison** (Imobiliza por 5s, causa alto dano, recarga de 5s - Max 10 pts).
+- **Ranking 9:**
+  - **R9S1:** **Aprende a Skill Illusion** (Cria cópia que causa mesmo dano e absorve 30% do dano recebido. Dura 45s, recarga de 2 min - Max 10 pts).
+  - **R9S2:** Fortalecimento da Skill Earth Prison (Aumenta dano da Earth Prison - Requer R8S2).
+
+---
+
+### ABA 3: SUPERAR (OFENSIVA E ATRIBUTOS DE COMBATE)
+
+- **Ranking 1:**
+  - **R1S1:** Taxa de Ataque PvP (Reduz chance de dar MISS em outros jogadores - Até 20 pts).
+- **Ranking 2:**
+  - **R2S1 / R2S2:** Fortalecimento de Staff de 1 Mão e Staff de 2 Mãos (Aumenta dano mágico - Até 20 pts).
+  - **R2S3:** Fortalecimento de Escudo (Aumenta a defesa - Até 20 pts).
+- **Ranking 3:**
+  - **R3S1:** Maestria Staff de 1 Mão (Aumenta Velocidade de Ataque - Max 10 pts / Requer R2S1).
+  - **R3S2:** Maestria Staff de 2 Mãos (Aumenta Dano em PvP - Max 20 pts / Requer R2S2).
+  - **R3S3:** Maestria de Escudo (Aumenta taxa de defesa PvP - Max 20 pts / Requer R2S3).
+- **Ranking 4:**
+  - **R4S1:** Fortalecimento da Skill Soul Barrier (Aumenta a porcentagem de absorção de dano - Até 20 pts).
+  - **R4S2:** Redução de Mana (Diminui o consumo de mana das habilidades - Até 20 pts).
+  - **R4S3 / R4S4:** Recuperação de SD e HP ao matar monstros (Até 20 pts cada).
+- **Ranking 5:**
+  - **R5S1:** Proficiência da Skill Soul Barrier (Aumenta a duração da Soul Barrier em segundos - Requer R4S1).
+  - **R5S2:** Incremento no Dano Mágico Mínimo (Até 20 pts).
+  - **R5S3:** Recuperação de Mana ao matar monstros (Requer R4S4).
+- **Ranking 6:**
+  - **R6S1:** Maestria da Skill Soul Barrier (Aumenta a Mana Máxima ao usar Soul Barrier - Requer R5S1).
+  - **R6S2:** Incremento no Dano Mágico Máximo (Requer R5S2).
+  - **R6S3:** Incremento na Taxa de Dano Crítico (Chance de Dano Crítico - Até 20 pts).
+- **Ranking 7:**
+  - **R7S1 / R7S2:** Chance de Restaurar 100% de Mana / 100% de HP ao atacar alvos (Até 20 pts).
+  - **R7S3:** Absorver Vida (50% de chance de restaurar HP em cada ataque executado - Até 20 pts).
+  - **R7S4:** Incremento na Taxa de Dano Excellent (Chance de Dano Excelente - Requer R6S3).
+- **Ranking 8:**
+  - **R8S1:** Grande Potência Mágica (Aumenta o dano ao atacar alvos a média distância - 4 quadros).
+  - **R8S2:** Chance de Restaurar 100% do SD ao atacar (Requer R7S2).
+  - **R8S3:** Incremento na Taxa de Dano Duplo (Double Damage Chance - Até 20 pts).
+- **Ranking 9:**
+  - **R9S1:** Absorver Escudo (50% de chance de restaurar SD a cada ataque executado - Requer R7S3).
+  - **R9S2:** Incremento na Taxa de Ignorar Defesa (Chance de Ignore Defense / SD - Requer R8S3).

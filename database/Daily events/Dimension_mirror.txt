@@ -1,0 +1,49 @@
+# [BASE DE DADOS MEGAMU] - GUIA COMPLETO DO EVENTO DIMENSIONAL MIRROR (DOPPEL GANGER)
+
+## 1. CONCEITO GERAL E RECOMENDAÇÃO
+* **Estilo:** Evento de obtenção de joias no formato *Tower Defense*.
+* **Recomendação de Level/Resets:** É altamente aconselhável possuir no mínimo **100 Resets** para participar com tranquilidade.
+* **Objetivo:** Proteger o Portal Dimensional impedindo que os monstros alcancem o final da rota.
+* **Sistema de Vidas:** 
+  * Cada monstro que atravessa o portal consome **1 das 3 vidas** disponíveis.
+  * Ao perder a 3ª vida, o evento encerra imediatamente e todos os participantes são teleportados de volta para a Event Square.
+  * **Trabalho em Equipe:** Se um jogador falhar, todos os jogadores da sala perdem o evento juntos.
+
+---
+
+## 2. COMO OBTER O CONVITE (MIRROR OF DIMENSIONS)
+* **Item de Drop:** Fragmentos chamados **Dimensional Sign** (dropam em praticamente todos os mapas do jogo).
+* **Combinação:** Ao juntar **5 unidades** de Dimensional Sign, elas se combinam automaticamente formando o convite **Mirror of Dimensions**.
+* **Dica de Farm no Bot:** Configure o MegaHelper na aba de loot para coletar apenas o termo `Sign`.
+
+---
+
+## 3. COMO ENTRAR NO EVENTO
+* **Horários:** Inicia às **00:15 (-3GMT)** diariamente e ocorre a cada **2 horas**. Acompanhe pelo Dashboard do site.
+* **Etapa 1:** Vá para a **Event Square (Free ou VIP)** com pelo menos **6 minutos de antecedência**.
+* **Etapa 2:** Aos **exatos 5 minutos** para o início, o **NPC Lugard** aparecerá aleatoriamente em algum ponto da Event Square. Encontre-o rapidamente, pois há limite de vagas por sala.
+* **REGRA CRUCIÁVEL AO ENTRAR:** Assim que for teleportado para dentro do evento, **permaneça parado e NÃO atravesse o portal** até que a contagem regressiva oficial apareça na tela. Entrar antes do tempo resulta em expulsão automática.
+
+---
+
+## 4. ESTRATÉGIA DE POSICIONAMENTO E SEGURANÇA NO MAPA
+* **Evitar o fundo do corredor (Barreira Invisível):** Não fique colado na barreira superior inicial do mapa. Se o Boss for derrotado muito próximo a ela, as caixas ou drops podem bugar para o outro lado, impossibilitando a coleta.
+* **Posicionamento Ideal:** Recomenda-se posicionar o personagem do **meio para baixo** do corredor.
+* **Segurança Antifalha Inicial:** Ao ser teleportado para a sala do evento, **ative o MegaHelper imediatamente (com range 8)** e fique parado aguardando a liberação. Como há um período de espera de 5 minutos antes de os monstros começarem a andar, caso você se ausente por um instante (*Away From Keyboard*), o Helper garantirá que nenhum monstro passe caso o evento inicie repentinamente.
+
+---
+
+## 5. DINÂMICA DA PARTIDA E CRONOGRAMA DE BOSSES
+* **Combate:** Utilize **skills em área** para eliminar as ondas de monstros com eficiência e rapidez.
+* **Cronograma de Bosses (Duração total de 10 minutos):**
+  1. **Aos 7 minutos e 30 segundos restantes:** Surge o 1º Boss, dropando um **Baú de Recompensas**.
+  2. **Aos 5 minutos restantes:** Surge o 2º Boss (como o *Furious Stranger*), dropando um **Baú de Recompensas** (contendo joias variadas como Bless, Soul, Harmony, Life e *Jewel of Darkness*).
+  3. **Aos 2 minutos e 30 segundos restantes:** Surge o último Boss, o **Ice Walker** (cachorro de Raklion). *Atenção:* Ele **não dropa baú**, jogando as **joias diretamente no chão** para coleta manual ou via Helper (ex: *Jewel of Harmony, Chaos, etc.*).
+  4. **Fim do Evento (0 segundos):** Um **Baú Dourado** final surge aos pés do jogador no ponto de defesa.
+* **Uso do Helper:** Embora o Helper ajude a garantir que nenhum monstro passe durante ausências rápidas, evite utilizá-lo ativamente em excesso caso precise gerenciar o posicionamento, pois alguns monstros possuem mecânicas de teleporte.
+
+---
+
+## 6. RESGATE DE RECOMPENSAS
+* **Inventário de Evento:** Os itens obtidos através dos baús dos Bosses vão para o inventário especial acessado pela tecla **K** (ou pelo menu de atalhos em *Recompensas*).
+* **Resgate:** Basta abrir o Inventário de Evento e clicar nas joias acumuladas para enviá-las ao inventário comum do personagem.

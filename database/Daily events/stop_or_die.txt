@@ -1,0 +1,36 @@
+[BASE DE DADOS MEGAMU] - GUIA COMPLETO DO EVENTO STOP OR DIE
+Vídeos e Links de Referência:
+
+Evento Stop Or Die Exclusivo MEGAMU (SrWins): https://www.youtube.com/watch?v=ncO8sXQhJ5U
+
+MEGAMU Stop Or Die - Evento Exclusivo / Batatinha Frita 123 (JACONOLASC): https://www.youtube.com/watch?v=TQNimlmXWno
+
+1. CONCEITO GERAL E MECÂNICA
+O que é: O Stop or Die é um evento exclusivo do MEGAMU inspirado na dinâmica clássica de "Batatinha Frita 1, 2, 3" (ou Red Light, Green Light). Durante a ascensão do boss Darkness, os participantes encaram este desafio onde cada movimento em falso pode ser fatal.
+
+Como Funciona: Os jogadores começam de um lado da arena e precisam atravessá-la. Contudo, só é permitido andar quando o NPC não estiver olhando (o rosto do NPC se cobre/vira). Se o jogador se mover, atacar um monstro ou desferir um golpe em outro player enquanto o NPC estiver olhando, ele será morto instantaneamente e teleportado de volta ao início.
+
+Duração e Estrutura: O evento é dividido em 3 rounds, com limite de 4 minutos para completar a travessia de cada rodada (sendo que cada rodada dura 2 minutos de ação/espera). Conforme os rounds avançam, o evento se torna mais desafiador, com mais monstros e tempos mais curtos.
+
+2. COMO PARTICIPAR E LOCALIZAÇÃO
+Local de Entrada: Fale com o NPC localizado no mapa de Coliseu, nas coordenadas (105, 82) (na área à direita após a árvore).
+
+Disponibilidade: O NPC fica ativo no horário do evento, permitindo a entrada a qualquer momento durante o seu andamento.
+
+Dica de Equipamento: O uso de montarias como o Ghost Horse é altamente recomendado, pois possuem melhor mobilidade para garantir uma travessia mais rápida em comparação a outras montarias.
+
+3. MECÂNICAS ADICIONAIS NA ARENA
+Mobs e PvP: No meio da arena podem surgir monstros para atrapalhar o percurso. Além disso, em horários específicos o PvP é habilitado, aumentando ainda mais o nível de dificuldade e estratégia.
+
+Cliente Novo: Embora funcione em ambas as versões, recomenda-se o uso do cliente novo para aproveitar efeitos sonoros e visuais exclusivos, incluindo sinalizadores visuais diretos na interface indicando o sinal verde/vermelho para o movimento.
+
+4. PREMIAÇÕES POR CLASSIFICAÇÃO
+As recompensas em MPoints (MP) são distribuídas com base na ordem de chegada ao final da travessia:
+
+1º Lugar: 3000 MPoints
+
+2º ao 5º Lugar: 1000 MPoints
+
+6º ao 20º Lugar: 500 MPoints
+
+Demais participantes que completarem a travessia: 200 MPoints

@@ -1,0 +1,47 @@
+[BASE DE DADOS MEGAMU] - GUIA DO EVENTO CHAOS CASTLE
+1. CONCEITO GERAL E MECÂNICAS
+O que é: O Chaos Castle é uma competição intensa onde os guerreiros se enfrentam por prestígio e grandes prêmios, mas apenas um sai vencedor.
+
+Monstros Disfarçados: Durante o evento, existem monstros disfarçados entre os jogadores, deixando a batalha ainda mais insana.
+
+Pontuação por Abate: Para cada monstro derrotado, o player ganha Ruud.
+
+Redução do Mapa: Com o passar do tempo, o mapa vai diminuindo de tamanho, aumentando a dificuldade da partida.
+
+2. COMO PARTICIPAR E RESTRIÇÕES
+Item de Entrada: Para participar, você precisa do item Armor of Guardsman, que é vendido no NPC Pasi the Mage (localizado em Lorencia 119,113).
+
+Restrições do Evento:
+
+Não é permitido entrar em party.
+
+Não é permitido entrar com status PK.
+
+Não é permitido o uso de montarias.
+
+Não é permitido o uso de anéis de transformação.
+
+3. RECOMPENSAS
+Ao participar e progredir no Chaos Castle, os jogadores podem obter os seguintes itens e pontuações:
+
+Jewel of Bless
+
+Jewel of Soul
+
+Jewel of Chaos
+
+Jewel of Creation
+
+Jewel of Life
+
+Jewel of Harmony
+
+Jewel of Guardian
+
+Red Chocolate box
+
+Box of Kundun
+
+Ruud
+
+Rank points

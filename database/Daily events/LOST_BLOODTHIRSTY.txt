@@ -1,0 +1,49 @@
+[BASE DE DADOS MEGAMU] - GUIA COMPLETO DO EVENTO SANGUINÁRIO PERDIDO (LOST BLOODTHIRSTY)
+Link de Referência (Fórum MEGAMU): https://megamu.net/forum/showthread.php?tid=1781
+
+1. CONCEITO GERAL E LOCALIZAÇÃO
+O que é: O Sanguinário Perdido (Lost Bloodthirsty) é um evento exclusivo de PvP livre que reflete as antigas batalhas do continente MEGAMU, onde guerreiros destemidos enfrentam desafios sobrenaturais para conquistar poder enquanto suas almas são consumidas pelas chamas do destino.
+
+Onde acontece: No mapa de Lost Tower 6.
+
+Objetivo: O jogador precisa aguentar o maior tempo possível vivo para acumular pontos, conseguir se tornar o sanguinário e receber os prêmios ao longo do evento.
+
+2. SISTEMA DE PONTUAÇÃO
+A contagem dos pontos de cada participante segue as seguintes regras:
+
+Tempo Vivo: Ganha 1 ponto a cada segundo sobrevivido.
+
+Eliminações (PvP): Recebe metade dos pontos de cada oponente eliminado.
+
+Morte: Perde todos os pontos ao morrer.
+
+Como Consultar: A pontuação pode ser acompanhada a qualquer momento através do comando /score.
+
+3. TÍTULO DE SANGUINÁRIO PERDIDO
+Requisito: O jogador que estiver em 1º lugar ao final ou durante o evento recebe o título de Sanguinário Perdido (Lost Bloodthirsty).
+
+Efeito Visual: O personagem ganha a maldição de ter uma aparência única com o corpo em chamas e ser cercado por espíritos.
+
+4. COMO PARTICIPAR E REGRAS DO MAPA
+Como Entrar: Basta dar move para Lost Tower 6 a qualquer momento durante o período do evento.
+
+Duração: O evento tem duração total de 20 minutos.
+
+Como Sair: Para deixar a área do evento, deve ser utilizado o comando /sair ou /quit.
+
+Restrição de Classe: Personagens SM (Soul Master) não conseguem utilizar a skill de teleport durante o período do evento.
+
+5. PREMIAÇÕES
+Premiação do 1º Lugar (Sanguinário): A cada 30 segundos, o líder em primeiro lugar pode receber uma pack de joias, uma joia comum ou a nova Jewel of Darkness exclusiva de evento.
+
+Hunt Points (Top 5): A cada minuto, os 5 primeiros colocados no ranking ganham Hunt Points conforme a distribuição abaixo:
+
+1º Lugar: 25 hunt points
+
+2º Lugar: 20 hunt points
+
+3º Lugar: 15 hunt points
+
+4º Lugar: 10 hunt points
+
+5º Lugar: 05 hunt points

@@ -1,0 +1,45 @@
+# SPIRIT STONES (LESSER, INTERMEDIATE E GREATER) - CRAFT E UTILIDADE
+
+- Fonte/Link Original: https://megamu.net/forum/showthread.php?tid=9698
+
+---
+
+## PARA QUE SERVEM AS SPIRIT STONES?
+As Spirit Stones (também conhecidas como Magic Stones) são pedras usadas na Chaos Machine para aumentar a porcentagem de sucesso na criação de Asas (Wings) de categorias específicas:
+
+- **Lesser Spirit Stone:** Aumenta a taxa de sucesso na criação de **Asas Level 1 (Wings 1)**.
+- **Intermediate Spirit Stone:** Aumenta a taxa de sucesso na criação de **Asas Level 2 e Level 3 (Wings 2 e Wings 3)**.
+- **Greater Spirit Stone:** Aumenta a taxa de sucesso na criação de **Asas Level 4 (Wings 4)**.
+
+---
+
+## REQUISITOS DOS ITENS PARA CRIAR CADA PEDRA
+
+### 1. Lesser Spirit Stone
+- **Tipo de Item:** Item Comum (Não-Excelente).
+- **Requisitos do Item:** No mínimo **+7** de refinamento e com adicional **+4 de Life** (Adicional de Jewel of Life).
+- **Como obter o item:** Compre itens normais nos NPCs de mapas e evolua-os até +7 utilizando Jewel of Bless e Jewel of Soul, e use Jewel of Life para colocar o adicional +4.
+
+### 2. Intermediate Spirit Stone
+- **Tipo de Item:** Item Excelente.
+- **Requisitos do Item:** No mínimo **+7** de refinamento e com adicional **+4 de Life**.
+- **Como obter o item:** Dropa de Silver Box, Golden Box, Box of Kundun (+1 a +5), ou adicionando opção Excelente em itens de NPC pela Oficina do site oficial.
+
+### 3. Greater Spirit Stone
+- **Tipo de Item:** Item Ancient (Ancião).
+- **Requisitos do Item:** No mínimo **+7** de refinamento e com adicional **+4 de Life**.
+- **Como obter o item:** Dropa de Red Chocolate Box, prêmio dos eventos Blood Castle, Chaos Castle, Dark Evolution, Golden Evolution, nos Bosses Kundun e Erohin, no mapa Land of Trials (LOT) para donos do Castle Siege e em mapas elementais do Arka War.
+
+---
+
+## PASSO A PASSO DO CRAFT NA CHAOS MACHINE
+1. Vá até **Noria** e abra a **Chaos Machine** nas coordenadas **(180, 102)**.
+2. Clique na opção **"Magic Stone"** no menu da máquina.
+3. Coloque o item desejado no painel da Chaos Machine (respeitando os requisitos de nível +7 e add de Life +4).
+4. Clique em confirmar.
+
+---
+
+## OBSERVAÇÕES IMPORTANTES E DICAS
+- **Taxa de Sucesso do Craft:** Não há risco de falha na criação da Spirit Stone (a chance é de 100%).
+- **Quantidade de Pedras Recebidas:** Quanto maior for o nível de refinamento do item sacrificado (ex: +9, +11, +13, etc.), maiores são as chances de receber mais de uma Spirit Stone no mesmo processo.

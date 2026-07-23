@@ -1,0 +1,32 @@
+BASE DE DADOS MEGAMU] - GUIA COMPLETO DO EVENTO GOLDEN EVOLUTION
+Vídeo e Link de Referência:
+
+MU Online Golden Evolution - MEGAMU Season 12 (SkyGame Play): https://www.youtube.com/watch?v=muMjf69PSbM
+
+1. CONCEITO GERAL E MECÂNICA
+O que é: O Golden Evolution é um evento exclusivo do MEGAMU semelhante ao Dark Evolution, mas voltado para jogadores mais avançados.
+
+Localização: Ocorre exclusivamente no mapa de Crywolf.
+
+Dinâmica de Acúmulo: No início do evento, centenas de coelhos dourados aparecem espalhados pela extensão do mapa (exceto dentro da cidade segura). Ao avistarem o seu personagem, esses monstros o seguirão, juntando-se a outros para dar origem a um novo monstro de nível superior.
+
+Níveis de Monstros: Existem 6 níveis de monstros evoluídos no total.
+
+Fim do Evento: O evento se encerra quando um player atinge e derrota monstros de nível 6, ou quando se esgota o tempo limite de 6 minutos de duração. No encerramento, todos os mobs restantes desaparecem e dropam os itens de acordo com o nível alcançado.
+
+2. PREMIAÇÕES POR NÍVEL DE MOB E COMBINAÇÃO FINAL
+Ao final do evento, as premiações são dropadas com base no nível do monstro derrotado e na combinação final:
+
+MOB Level 1: 1x Joia
+
+MOB Level 2: 4x Joias
+
+MOB Level 3: 1x Packs
+
+MOB Level 4: 2x Packs
+
+MOB Level 5: 6x Benção ou Box Ruud + Ancient (10% de chance)
+
+MOB Level 6: 15x Benção ou Box Ruud + Ancient (50% de chance)
+
+Combinação Final: 4x Ancient + 8x Box 200 Ruud

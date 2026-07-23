@@ -1,0 +1,40 @@
+# GUIA DE INSTALAÇÃO: LINUX (NOVA ENGINE)
+
+- Link em pt/br (PT): https://megamu.net/forum/showthread.php?tid=18369
+- Link em Inglês (EN): https://megamu.net/forum/showthread.php?tid=18492
+- Link em Espanhol (ES): https://megamu.net/forum/showthread.php?tid=18491
+- Link em Chinês (ZH): https://megamu.net/forum/showthread.php?tid=18493
+- Link em Vietnamita (VI): https://megamu.net/forum/showthread.php?tid=18494
+
+---
+
+## PASSO 1: DOWNLOAD DO JOGO
+1. Acesse o site oficial da versão Beta/Nova Engine: `https://megamu.online/beta/`
+2. Clique no botão **"Baixar agora"** ou role a página até a seção de downloads.
+3. Na lista de sistemas suportados (*Linux, Windows, macOS, Android, iOS*), selecione **Linux**.
+4. Serão exibidas duas opções de instalação: **Pacote Deb** e **Executável Standalone**.
+
+---
+
+## PASSO 2: INSTALAÇÃO VIA PACOTE DEB (OPÇÃO 1)
+
+*Ideal para distribuições baseadas em Debian/Ubuntu.*
+
+1. Clique na opção **MEGAMU.DEB** para baixar o instalador.
+2. Localize o arquivo baixado (`MEGAMU.deb`) na sua pasta de Downloads e abra-o.
+3. Na janela do instalador de pacotes, clique no botão **"Instalar Pacote"**.
+4. Caso a autenticação do sistema seja solicitada, insira a **senha de administrador/login do computador** para conceder as permissões de instalação.
+5. Após o término da instalação, o ícone do MEGAMU estará disponível no menu de aplicativos do seu sistema.
+
+---
+
+## PASSO 3: EXECUÇÃO VIA STANDALONE (OPÇÃO 2)
+
+*Ideal para outras distribuições Linux que não utilizam pacotes .deb.*
+
+1. Clique na opção **MEGAM.X84_64** (ou executável equivalente de 64-bits) para baixar.
+2. Abra a pasta onde o arquivo foi salvo.
+3. Clique com o **botão direito do mouse** sobre o arquivo `MEGAM.X84_64` e selecione **Propriedades**.
+4. Acesse a aba **"Permissões"**.
+5. Marque a caixa **"Permitir execução do arquivo como um programa"** (ou atribua permissão de execução via terminal com `chmod +x MEGAM.X84_64`).
+6. Feche a janela de propriedades e dê um duplo clique no arquivo para iniciar o MEGAMU diretamente.

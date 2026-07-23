@@ -1,0 +1,179 @@
+# EVOLUÇÃO DE CLASSES: 2ª CLASSE E QUEST DO MARLON (STATUS HERO)
+
+---
+
+## 1. QUEST DA 2ª CLASSE (Sacerdotisa Sebina)
+
+### Requisitos e Localização:
+- Nível Mínimo: Level 150
+- NPC de Início: Sacerdotisa Sebina
+- Localização do NPC: Devias (Coordenadas: 185, 33)
+
+### Etapa 1 (Item Comum):
+- Item Solicitado: Scroll of the Emperor
+- Mapas de Drop: Lost Tower, Tarkan e Atlans (dropa de monstros nesses mapas).
+- Procedimento: Entregar o item para a Sacerdotisa Sebina e clicar nela novamente para iniciar a Etapa 2.
+
+### Etapa 2 (Item de Classe):
+- Mapas de Drop dos Itens: Lost Tower, Tarkan e Atlans.
+- Item por Classe:
+  - Dark Knight (DK) -> Item: Broken Sword -> Evolui para: Blade Knight (BK)
+  - Dark Wizard (DW) -> Item: Soul of Wizard -> Evolui para: Soul Master (SM)
+  - Fairy Elf -> Item: Tear of Elf -> Evolui para: Muse Elf
+  - Summoner -> Item: Abyssal Eye -> Evolui para: Bloody Summoner
+
+### Exceções importantes:
+- Classes que NÃO fazem esta quest: Dark Lord (DL), Magic Gladiator (MG) e Rage Fighter (RF) não fazem essa quest de level 150. Eles evoluem diretamente na Quest da 3ª Classe (level 400).
+
+---
+
+## 2. QUEST DO MARLON (STATUS HERO)
+
+### Requisitos e Localização:
+- Nível Mínimo: Level 220
+- NPC de Início: Marlon
+- Localizações do NPC Marlon (Pode estar em uma dessas posições):
+  - Lorencia: Saída da ponte da esquerda.
+  - Devias: Ao lado da Sacerdotisa Sebina ou nas Coordenadas (199, 47).
+  - Atlans: Logo ao mover para o mapa (próximo ao ponto de entrada).
+
+### Etapa 1 (Ring of Honor):
+- Item Solicitado: Ring of Honor
+- Mapas de Drop: Arena e Tarkan (dropa com facilidade).
+- Recompensa ao entregar: Libera a possibilidade de usar o pet Fenrir e ativa a habilidade Infinity Arrow para a Elf (Muse Elf).
+
+### Etapa 2 (Dark Stone) - APENAS para Blade Knight (BK):
+- Regra de Classe: Soul Master (SM) e outras classes NÃO precisam nem conseguem fazer a Etapa 2. Para SM a quest termina no Ring of Honor.
+- Item Solicitado: Dark Stone
+- Mapas de Drop: Arena e Tarkan.
+- Recompensa ao entregar: Conclusão total da Quest do Marlon (libera o uso do Combo e adiciona +1 ponto por nível).
+
+
+# EVOLUÇÃO DE CLASSES: 3ª CLASSE (QUEST LEVEL 400 / PRIEST DEVIN)
+
+- Fonte/Link Original: https://megamu.net/forum/showthread.php?tid=2411
+
+---
+
+## REQUISITOS GERAIS
+- Nível Mínimo: Level 400
+- Pré-requisito: Ter concluído a Quest do Marlon (Atenção: Classes MG, RF e DL NÃO precisam da Quest do Marlon e podem fazer direto a Quest Level 400).
+- Recomendação do Servidor: Ter pelo menos 35 resets (ou estar em Party/grupo com alguém forte) para conseguir derrotar os monstros necessários.
+- NPC de Início e Entrega: Priest Devin
+- Localização do NPC: Crywolf
+
+---
+
+## PASSO 1: HUNTING ITEMS (Coleta de Itens)
+- Descrição: O Priest Devin solicita a coleta de 3 itens específicos.
+- Itens e Locais de Drop:
+  - Flame of Death Beam Knight -> Dropa em: Tarkan 2 (matar Death Beam Knight)
+  - Horn of Hell Maine -> Dropa em: Aida 2 (matar Hell Maine)
+  - Feather of Phoenix of Darkness -> Dropa em: Icarus (matar Phoenix of Darkness)
+- Observação: Os itens não têm drop garantido no primeiro monstro; pode ser necessário matá-los várias vezes e aguardar o respawn.
+- Dica do hell maine: quando encontrar ele, você pode ir trocando de servidor e ir matando até cair o item
+- Conclusão da Etapa: Entregar os 3 itens ao Priest Devin em Crywolf e conversar com ele novamente para pegar o Passo 2.
+
+---
+
+## PASSO 2: TRAINEE SOLDIER (Balgass Barracks)
+- Entrada no Mapa:
+  - Ir até Crywolf nas coordenadas (60, 237) e falar com o NPC Werewolf Quartel para entrar em Balgass Barracks.
+- Objetivos de Caça (Matar 60 monstros no total):
+  - 20 Soram (Trainee Soldier)
+  - 20 Balram (Trainee Soldier)
+  - 20 Death Spirit (Trainee Soldier)
+- Dica de Localização: Os Soram ficam na parte direita do mapa (siga pela direita, desça e siga novamente pela direita).
+- Conclusão da Etapa: Após matar todos os 60 monstros, volte a Crywolf, fale com o Priest Devin para entregar a missão e converse com ele mais uma vez para pegar o Passo 3.
+
+---
+
+## PASSO 3: DARK ELF (Refuge of Balgass)
+- Entrada no Mapa:
+  - Retorne a Balgass Barracks e vá até as coordenadas (121, 169) para acessar o portal do mapa Refuge of Balgass.
+- Objetivo de Caça:
+  - Encontrar e derrotar 1 Dark Elf (Boss).
+- Dica de Localização e Combate: A Dark Elf costuma spawnar no início do mapa Refuge. O mapa é pequeno, mas o chefe possui um HP extremamente alto.
+- Conclusão da Etapa: Após derrotar a Dark Elf, retorne ao Priest Devin em Crywolf para concluir a quest.
+
+---
+
+## RECOMPENSA E CONSEQUÊNCIAS DA 3ª CLASSE
+- Evolução das Classes para a 3ª Forma:
+  - Blade Knight (BK) -> Blade Master (BM)
+  - Soul Master (SM) -> Grand Master (GM)
+  - Muse Elf -> High Elf (HE)
+  - Bloody Summoner -> Dimension Master
+  - Magic Gladiator (MG) -> Duel Master (DM)
+  - Dark Lord (DL) -> Lord Emperor (LE)
+  - Rage Fighter (RF) -> Fist Master (FM)
+- Liberação do Sistema Master Level: Permite começar a acumular pontos de Master Level no level 400 até lv 800.
+
+
+# EVOLUÇÃO DE CLASSES: 4ª CLASSE (QUEST LEVEL 800 / NPC CENT)
+
+- Fonte/Link Original: https://megamu.net/forum/showthread.php?tid=9763
+
+---
+
+## REQUISITOS GERAIS
+- Nível Mínimo: Level 800
+- Resets: A quantidade de resets não influencia no requisito da quest.
+- NPC de Início: Cent
+- Localização do NPC: Lorencia (Coordenadas: 131, 147 - na ponte da direita).
+- Regra de Combate: Os comandos /attack e o bot MEGAHELPER NÃO funcionam durante a realização da quest.
+
+---
+
+## PASSO A PASSO DA QUEST
+
+### Passo 1: Acesso à Arena
+- Vá até Lorencia nas coordenadas (131, 147) e fale com o NPC Cent.
+- Você será transportado para uma arena privada junto ao NPC.
+
+### Passo 2: Derrotar o Boss Cent (Fase 1)
+- Fale novamente com o NPC Cent. Ele se transformará em um Boss.
+- Objetivo: Derrotar o Boss Cent.
+- Atenção: Se você morrer, precisará refazer esta etapa. Ao derrotá-lo, ele voltará a ser um NPC neutro.
+
+### Passo 3: Sobrevivência e Caça de Monstros
+- Fale com o NPC Cent para pegar a próxima etapa.
+- Objetivos de Caça (Matar 15 monstros no total):
+  - 5 Deep Dungeon Cyclops
+  - 5 Deep Dungeon Skeleton Warrior
+  - 5 Deep Dungeon Ghost
+- Regra de Tempo e Sobrevivência: Além de eliminar os monstros, você deve se manter vivo pelo tempo exibido na tela. Se morrer, a etapa é reiniciada.
+- Dica/Burlar o Tempo: Caso não queira esperar o tempo na arena após matar os monstros, você pode mover para o mapa inicial (ex: Lorencia), clicar no NPC Cent novamente e a quest contabilizará o passo como concluído.
+
+### Passo 4: Confronto Final (Fase 2)
+- Fale com o NPC Cent. Ele se tornará um Boss novamente, e os monstros da etapa anterior também irão spawnar.
+- Objetivo Principal: Focar e matar o Boss Cent.
+- Conclusão: Ao derrotar o Boss, fale uma última vez com o NPC Cent para concluir e avançar para a 4ª Classe.
+
+---
+
+## DICAS IMPORTANTES
+- Ajuda de Outros Jogadores: Peça ajuda a jogadores mais fortes, streamers ou membros de guild no chat do jogo. Realizar a quest com suporte de alguém forte facilita drasticamente o processo.
+
+---
+
+## BENEFÍCIOS E RECOMPENSAS DA 4ª CLASSE
+- Acesso e uso das Asas Level 4 (Wings 4).
+- Acesso a upgrades de Sets e Armas acima do tier Hollyangel.
+- Acesso a novos mapas do servidor exclusivos para level 800+.
+- Acesso à Skill Tree Enhanced (Árvore de Habilidades Aprimorada), permitindo melhorias de atributos e skills.
+- Dica: árvore de master level para todas as classes: https://imgur.com/a/ml-de-todas-as-classes-megamu-net-rei-Va5as0S
+
+---
+
+## LINHA DE EVOLUÇÃO COMPLETA DAS CLASSES (1ª à 4ª CLASSE)
+- Dark Knight -> Blade Knight -> Blade Master -> Dragon Knight
+- Dark Wizard -> Soul Master -> Grand Master -> Soul Wizard
+- Fairy Elf -> Muse Elf -> High Elf -> Noble Elves
+- Summoner -> Bloody Summoner -> Dimension Master -> Dimension Summoner
+- Dark Lord -> Lord Emperor -> Empire Lord
+- Magic Gladiator -> Duel Master -> Magic Knight
+- Rage Fighter -> Fist Master -> Fist Blazer
+- Rune Wizard -> Rune Spell Master -> Grand Rune Master -> Majestic Rune Wizard
+- Grow Lancer -> Mirage Lancer -> Shining Lancer
+- Slayer -> Royal Slayer -> Master Slayer -> Slaughterer

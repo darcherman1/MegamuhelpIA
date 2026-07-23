@@ -1,0 +1,46 @@
+# PET MUUN TIBETTON (MONTARIA / GUIA RÁPIDO)
+
+- Fonte/Link Original: https://megamu.net/forum/showthread.php?tid=15002
+
+---
+
+## O QUE É E PARA QUE SERVE
+- O Tibetton é um Pet Muun de montaria.
+- Dica/Utilidade para Iniciantes: É uma excelente alternativa de locomoção rápida pelos mapas para quem está começando e ainda não possui um Fenrir.
+
+---
+
+## MÉTODO RÁPIDO: VIA PAINEL DE QUESTS (LEVEL 400)
+
+### Requisitos:
+- Nível Mínimo: Level 400.
+
+### Passo a Passo no PC e Mobile:
+1. Ao atingir o Level 400, abra o painel de Quests pressionando a tecla "T" (no PC) ou clicando no ícone do pergaminho no canto superior direito (no Mobile).
+2. Pule os capítulos: Ao lado do título do capítulo atual (ex: "Viajantes dos Continentes"), clique em abandonar/desistir das missões até chegar ao capítulo final chamado "Despertar dos Heróis".
+3. Dentro do capítulo "Despertar dos Heróis", continue abandonando as missões até aparecer a missão "Alcance o NV. 400".
+4. Como você já está no level 400, a opção "Completar" ficará disponível. Clique em concluir a tarefa.
+5. Recompensa: O "Ovo do Tibetton" será enviado automaticamente para o seu inventário principal.
+
+### Como Chocar e Equipar o Pet:
+1. Abra seu inventário e jogue o Ovo do Tibetton no chão.
+2. O pet irá para o seu Inventário de Recompensas/Muun.
+3. Para resgatar o Tibetton do inventário de recompensas:
+   - No PC: Pressione a tecla "K".
+   - No Mobile: Abra o inventário e clique no ícone da medalha (acima do ícone do ovo).
+4. Clique no Tibetton e confirme o resgate.
+5. Para equipar o Tibetton:
+   - No PC: Pressione a tecla "Y" para abrir o menu Muun.
+   - No Mobile: Abra o menu principal (ao lado do inventário), clique no ícone "Muun" no canto superior direito e equipe o pet.
+
+---
+
+## MÉTODO ALTERNATIVO (MÉTODO DEMORADO VIA RESETS)
+
+### Como funciona:
+- O Tibetton também é concedido como recompensa ao atingir os resets de número 40, 80, 120 e 160.
+- NPC de Resgate: NPC Jin.
+- Localização: Servidor 11 (Sub-server), em Lorencia, próximo ao ring.
+
+### Exceção da Classe Slayer:
+- A classe Slayer NÃO recebe o Tibetton como recompensa de resets no NPC Jin. Em vez dele, a Slayer recebe o Pet Asmodus (exclusivo da classe).

@@ -1,0 +1,182 @@
+# GUIA COMPLETO: BRINCOS (RAGE EARRINGS E ANCESTRALS) - OBTENÇÃO, EVOLUÇÃO, ATRIBUTOS E COMÉRCIO
+
+- Fonte/Link Original (PT-BR): https://megamu.net/forum/showthread.php?tid=5180
+- Link em Inglês (EN): https://megamu.net/forum/showthread.php?tid=17528
+- Link em Espanhol (ES): https://megamu.net/forum/showthread.php?tid=17527
+- Link em Chinês (ZH): https://megamu.net/forum/showthread.php?tid=17530
+- Link em Vietnamita (VI): https://megamu.net/forum/showthread.php?tid=17531
+- Vídeos de Apoio / Referência: Gabriel Faro, Portal Play Jogos e JACONOLASC
+
+---
+
+## 1. COMO OBTER OS BRINCOS (EVENTO MOSS MERCHANT)
+
+- **Localização:** Evento **Moss Merchant** em Elbeland (Coordenadas: 23, 226), aba **Acessórios**.
+- **Moeda de Compra:** Trocados por **Jewel of Bless** ou **Jewel of Soul** [2NmXIc-odCw, UOXatMWLr_o].
+- **Tipos de Brincos no Evento:**
+  - **Rage Earring L (Esquerdo):** Requer Level Mínimo **300**.
+  - **Rage Earring R (Direito):** Requer Level Mínimo **700**.
+
+### Dicas Práticas para o Evento Moss Merchant:
+- **Limpeza do Inventário:** Vá para o evento com o inventário principal e os baús de expansão totalmente limpos [UOXatMWLr_o]. Joias soltas podem travar o espaço e interromper a compra rápida de caixas [UOXatMWLr_o].
+- **Auto-Pick no Bot (MegaHelper):** Para juntar anéis e pingentes no chão para criar os insumos dos brincos, configure as palavras-chave na aba **Pegar**: `Ring of Ice`, `Ring of Poison`, `Pendant of Lighting`, `Pendant of Fire` [2NmXIc-odCw].
+
+---
+
+## 2. ESTRUTURA DE ATRIBUTOS DOS BRINCOS
+
+Os brincos possuem três camadas de atributos: **Fixos**, **Aleatórios** (1 a 5 opcionais) e **Bônus de Maestria**.
+
+### A) Atributos Fixos por Lado:
+- **Brinco Esquerdo (L) / Brinco Direito (R):**
+  - **Attack/Wizardry/Curse** (Ataque/Magia/Maldição)
+  - **Elemental Defense** (Defesa Elemental)
+
+#### Tabela de Atributos Fixos por Nível (+0 ao +15):
+
+| Nível | Brinco Esquerdo (L) | Brinco Esquerdo (L) | Brinco Direito (R) | Brinco Direito (R) |
+|---|---|---|---|---|
+| | **Ataque/Magia/Maldição** | **Defesa Elemental** | **Ataque/Magia/Maldição** | **Defesa Elemental** |
+| **0** | 17 ~ 20 | 15 | 37 ~ 40 | 25 |
+| **+1** | 20 ~ 23 | 18 | 40 ~ 43 | 28 |
+| **+2** | 23 ~ 26 | 21 | 43 ~ 46 | 31 |
+| **+3** | 26 ~ 29 | 24 | 46 ~ 49 | 34 |
+| **+4** | 29 ~ 32 | 27 | 49 ~ 52 | 37 |
+| **+5** | 32 ~ 35 | 30 | 52 ~ 55 | 40 |
+| **+6** | 35 ~ 38 | 33 | 55 ~ 58 | 43 |
+| **+7** | 38 ~ 41 | 36 | 58 ~ 61 | 46 |
+| **+8** | 41 ~ 44 | 39 | 61 ~ 64 | 49 |
+| **+9** | 44 ~ 47 | 42 | 64 ~ 67 | 52 |
+| **+10** | 48 ~ 51 | 46 | 68 ~ 71 | 56 |
+| **+11** | 53 ~ 56 | 51 | 73 ~ 76 | 61 |
+| **+12** | 59 ~ 62 | 57 | 79 ~ 82 | 67 |
+| **+13** | 66 ~ 69 | 64 | 86 ~ 89 | 74 |
+| **+14** | 74 ~ 77 | 72 | 94 ~ 97 | 82 |
+| **+15** | 83 ~ 86 | 81 | 103 ~ 106 | 91 |
+
+---
+
+### B) Atributos Aleatórios (Valores Constantes em Todos os Níveis):
+
+| Atributo Aleatório em Inglês | Tradução do Atributo | Valor Fixo |
+|---|---|---|
+| **Maximum Life Increase** | Aumento de Vida Máxima | +2500 |
+| **Skill Damage Increases** | Aumento do Dano de Habilidade | +550 |
+| **Critical Damage Power Increase** | Aumento do Poder de Dano Crítico | +1250 |
+| **Excellent Damage Power Increase** | Aumento do Poder de Dano Excelente | +1250 |
+| **ATTACK/WIZARDRY** | Ataque/Magia/Maldição | +1500 |
+| **Critical Damage Probability Increase** | Aumento da Chance de Dano Crítico | +4% |
+| **Attack Speed Increase** | Aumento da Velocidade de Ataque | +100 |
+| **AG Automatic Recovery Increase** | Recuperação Automática de AG | +250 |
+| **Maximum Mana Increase** | Aumento de Mana Máxima | +2500 |
+| **Excellent Damage Probability Increase** | Aumento da Chance de Dano Excelente | +4% |
+
+---
+
+### C) Mastery Bonus (Bônus de Maestria):
+- **Atributos de Maestria:**
+  - **Chance to ignore enemy Defense** (Chance de ignorar a Defesa do inimigo): **1%** [2NmXIc-odCw]
+  - **Increase all stats** (Aumento de todos os atributos): **+4**
+- **REGRA CRÍTICA DE ATIVAÇÃO:** O Bônus de Maestria é ativado **APENAS** quando o personagem está equipado com o **par completo** (Brinco Esquerdo + Brinco Direito) [2NmXIc-odCw]. Equipar apenas um brinco mantém o bônus inativo.
+
+---
+
+## 3. REQUISITO DE LEVEL DO PERSONAGEM POR REFINAMENTO (+0 AO +15)
+
+À medida que o brinco é refinado, o personagem exige um nível mínimo maior para conseguir equipá-lo:
+
+| Nível do Brinco | Level Mínimo (Esquerdo) | Level Mínimo (Direito) |
+|---|---|---|
+| **+0** | Level 300 | Level 700 |
+| **+1** | Level 303 | Level 703 |
+| **+2** | Level 306 | Level 706 |
+| **+3** | Level 309 | Level 709 |
+| **+4** | Level 312 | Level 712 |
+| **+5** | Level 315 | Level 715 |
+| **+6** | Level 318 | Level 718 |
+| **+7** | Level 321 | Level 721 |
+| **+8** | Level 324 | Level 724 |
+| **+9** | Level 327 | Level 727 |
+| **+10** | Level 330 | Level 730 |
+| **+11** | Level 333 | Level 733 |
+| **+12** | Level 336 | Level 736 |
+| **+13** | Level 339 | Level 739 |
+| **+14** | Level 342 | Level 742 |
+| **+15** | Level 345 | Level 745 |
+
+---
+
+## 4. COMO REFINAR OS BRINCOS (ITEM "THREE VACANCIES")
+
+### Passo 1: Criar o Item "Three Vacancies" (Triva)
+1. Vá até a Chaos Machine em Noria (180, 102) e selecione a opção **"Três Vagas"** [2NmXIc-odCw, kKL2im9RSsY].
+2. **Requisitos:** Insira **2 Anéis (Rings) Excelentes** OU **2 Pingentes (Pendants) Excelentes** [2NmXIc-odCw, kKL2im9RSsY].
+3. **Onde Conseguir Insumos:**
+   - Drop da Box of Kundun +1 (Anéis) e Box of Kundun +2 (Pingentes).
+   - Recompensas do evento Moss Merchant [2NmXIc-odCw].
+   - **Mecânica via Site:** Pegue acessórios comuns do chão e adicione 1 opcional excelente básico neles através da **Oficina do site oficial** para transformá-los em insumo de *Three Vacancies* [2NmXIc-odCw].
+4. **Resultado:** Gera de 1 a 4 unidades do item **Three Vacancies** (Triva) [2NmXIc-odCw, kKL2im9RSsY].
+
+---
+
+### Passo 2: Evoluir o Brinco na Chaos Machine
+1. Reabra a Chaos Machine em Noria e escolha a opção **"Melhorar Item"** [2NmXIc-odCw].
+2. Insira o brinco, as unidades necessárias de *Three Vacancies* e a quantia de Zen [2NmXIc-odCw].
+3. Clique em **Craftar** [2NmXIc-odCw].
+4. **Regra em Caso de Falha:** O **BRINCO NÃO É DESTRUÍDO** caso ocorra falha [2NmXIc-odCw]. Apenas os insumos (*Three Vacancies* e Zen) são consumidos [2NmXIc-odCw].
+
+#### Tabela de Materiais e Custo em Zen por Nível:
+
+| Transição de Nível | Three Vacancies Necessárias | Custo em Zen |
+|---|---|---|
+| **0 → +1** | 1 | 1.000.000 (1 KK) |
+| **+1 → +2** | 2 | 1.500.000 (1.5 KK) |
+| **+2 → +3** | 2 | 2.000.000 (2 KK) |
+| **+3 → +4** | 2 | 2.500.000 (2.5 KK) |
+| **+4 → +5** | 3 | 3.000.000 (3 KK) |
+| **+5 → +6** | 3 | 3.500.000 (3.5 KK) |
+| **+6 → +7** | 4 | 4.000.000 (4 KK) |
+| **+7 → +8** | 4 | 4.500.000 (4.5 KK) |
+| **+8 → +9** | 4 | 5.000.000 (5 KK) |
+| **+9 → +10** | 4 | 5.500.000 (5.5 KK) |
+| **+10 → +11** | 5 | 6.000.000 (6 KK) |
+| **+11 → +12** | 5 | 6.500.000 (6.5 KK) |
+| **+12 → +13** | 5 | 7.000.000 (7 KK) |
+| **+13 → +14** | 5 | 7.500.000 (7.5 KK) |
+| **+14 → +15** | 5 | 8.000.000 (8 KK) |
+
+---
+
+### DICAS DE ECONOMIA E COMÉRCIO (PRO-PLAYER)
+
+- **Economia de Recursos via Site (+0 ao +12):**
+  - Suba o nível do Brinco diretamente na **Oficina do site oficial** até o **+12** usando MCoins (MC) ou MPoints (MP) [2NmXIc-odCw, kKL2im9RSsY]. Isso poupa centenas de *Three Vacancies* e elimina riscos de falha nos níveis iniciais [2NmXIc-odCw].
+  - Deixe para usar as *Three Vacancies* na Chaos Machine no jogo apenas para refinar do **+12 ao +15** [2NmXIc-odCw].
+- **Comércio de Three Vacancies (Triva):**
+  - Caso possua anéis/pingentes acumulados, monte conjuntos de *Three Vacancies* e venda-os no mercado para outros jogadores por MCoins (MC) ou MPoints (MP) [kKL2im9RSsY].
+
+---
+
+## 5. REVOLUÇÃO AVANÇADA: BRINCO ANCESTRAL (ANCESTRAL EARRING)
+
+A evolução do brinco base para a categoria **Ancestral** proporciona um salto significativo de atributos e alto valor de mercado [kKL2im9RSsY].
+
+### Requisitos de Craft na Chaos Machine:
+- **1 Brinco Base (Earring):** De preferência do **Lado Esquerdo (L)** [kKL2im9RSsY].
+- **1 Ancestral Frame (Moldura Ancestral):** Adquirida por **100.000 (100K) Ruuds** no NPC de Ruud [kKL2im9RSsY].
+- **20 Jewels of Bless** [kKL2im9RSsY]
+- **20 Jewels of Soul** [kKL2im9RSsY]
+- **1 Jewel of Chaos** [kKL2im9RSsY]
+- **1 Jewel of Creation** [kKL2im9RSsY]
+
+### Taxas de Sucesso de Craft:
+- **Brinco Base em +12:** 70% de chance de sucesso [kKL2im9RSsY].
+- **Brinco Base em +13:** **80% de chance de sucesso** (nível ideal para realizar a tentativa com segurança) [kKL2im9RSsY].
+- **Contas MEGAVIP:** Incrementam a taxa de sucesso da combinação na máquina [kKL2im9RSsY].
+
+### Regra em Caso de Falha:
+- Se a combinação falhar, **O BRINCO BASE PERMANECE COM VOCÊ** [kKL2im9RSsY]. Apenas a *Ancestral Frame* (100K Ruuds) e as joias são destruídas [kKL2im9RSsY].
+
+### Estratégia de Valor de Mercado (Esquerdo vs. Direito):
+- **Brinco Esquerdo (L):** É o item com maior valor de revenda no jogo [kKL2im9RSsY]. Um Brinco Ancestral Esquerdo com 4 a 5 atributos ideais (*Skill Damage*, *Excelente*, *Ataque/Magia*) atinge valores altíssimos no comércio do servidor [kKL2im9RSsY].
+- **Brinco Direito (R):** Apresenta baixo valor comercial [kKL2im9RSsY]. Não vale a pena gastar 100K Ruuds para transformar o brinco direito; é financeiramente mais viável comprá-lo pronto [kKL2im9RSsY].

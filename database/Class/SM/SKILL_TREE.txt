@@ -1,0 +1,133 @@
+# ENHANCED SKILL TREE (ÁRVORE DE HABILIDADES DA 4ª CLASSE): SOUL WIZARD (SW / SM)
+
+- Conceito: Sistema adicionado na Season XV para personagens que concluíram a quest da 4ª Classe. Permite aprimorar habilidades específicas, aplicar círculos mágicos de debuffs elementais, desbloquear passivas e acionar a mecânica de Debuff Explosion.
+- Distribuição: A progressão ocorre da esquerda para a direita em sequência dentro das ramificações.
+
+---
+
+## ESTRUTURA VISUAL E DIVISÃO DE CORES DA ÁRVORE
+- **Linha Laranja (Skills Principal):** Buffs e aprimoramentos diretos na habilidade ativa.
+- **Linha Vermelha (Bleeding):** Debuffs de Sangramento e Hemorragia.
+- **Linha Azul (Freeze):** Debuffs de Congelamento e Desaceleramento.
+- **Linha Verde (Poison):** Debuffs de Envenenamento e Envenenamento Mortal.
+- **Linha Cinza (Incrementos):** Ampliação da potência e abrangência dos debuffs.
+- **Linha Amarela (Skills Passivas):** Melhorias defensivas do personagem.
+- **Linha Roxa (Debuffs Passivos):** Melhorias ofensivas do personagem.
+- **Linha Inferior / Central (Debuff Explosion):** Habilidades explosivas que consomem o debuff ativo no alvo para causar alto dano em área.
+
+---
+
+## 1. SKILLS PRINCIPAIS DO SOUL WIZARD (LINHA LARANJA)
+
+### A) Skill Meteor Strike
+- **Meteor Strike Aprimorada:** Aumenta o dano da skill. (Min: 1 | Max: 20 pts).
+- **Incremento de +1 no dano:** Concede chance de aplicar o mesmo dano em sequência no mesmo ataque (ex: 2 hits no mesmo golpe, diferente de Double Damage). (Requer exatos 15 pts).
+- **Incremento na chance de causar dano adicional:** Eleva a taxa do hit extra. (Min: 1 | Max: 20 pts).
+- **Incremento de distância:** Aumenta o alcance de ataque. (Requer exatos 10 pts).
+- **Incremento de dano por respingo (Splash Damage):** Faz a magia causar dano em área a alvos adjacentes. (Requer exatos 10 pts).
+- **Incremento no dano da skill:** Aumento do multiplicador de dano. (Min: 1 | Max: 20 pts).
+- **Incremento no poder de ataque da arma:** Eleva os danos mínimo e máximo da arma enquanto executa a skill. (Min: 1 | Max: 20 pts).
+- **Opções de Debuff:** Bleeding (Sangramento) ou Freeze (Congelamento).
+
+### B) Skill Evil Spirit
+- **Evil Spirit Aprimorada:** Aumenta o dano da skill. (Min: 1 | Max: 20 pts).
+- **Incremento de +1 no dano:** Chance de causar 2 hits no mesmo ataque. (Requer exatos 15 pts).
+- **Incremento na chance de causar dano adicional:** Eleva a taxa do hit extra. (Min: 1 | Max: 20 pts).
+- **Incremento de Velocidade:** Aumenta a velocidade de ataque da animação. (Requer exatos 10 pts).
+- **Adicionado dano por respingo (Splash Damage):** Afeta inimigos próximos ao alvo original. (Requer exatos 10 pts).
+- **Incremento no dano da skill:** Aumento no dano geral. (Min: 1 | Max: 20 pts).
+- **Incremento no poder de ataque da arma:** Aumenta dano mín/máx da arma. (Min: 1 | Max: 20 pts).
+- **Opções de Debuff:** Poison (Veneno) ou Freeze (Congelamento).
+
+### C) Skill Meteor Storm
+- **Meteor Storm Aprimorada:** Aumenta o dano da skill. (Min: 1 | Max: 20 pts).
+- **Incremento de +1 no dano:** Chance de aplicar hit duplo no golpe. (Requer exatos 15 pts).
+- **Incremento na chance de causar dano adicional:** Eleva a taxa do hit extra. (Min: 1 | Max: 20 pts).
+- **Eliminado tempo de espera:** **REMOVE O COOLDOWN** da skill, permitindo spammá-la continuamente. (Requer exatos 10 pts).
+- **Incremento de Alvos:** Aumenta em +1 a quantidade de inimigos atingidos. (Requer exatos 10 pts).
+- **Incremento no dano da skill:** Aumento no dano geral. (Min: 1 | Max: 20 pts).
+- **Incremento no poder de ataque da arma:** Aumenta dano mín/máx da arma. (Min: 1 | Max: 20 pts).
+- **Opções de Debuff:** Poison (Veneno) ou Freeze (Congelamento).
+
+---
+
+## 2. REGRAS DOS DEBUFFS ELEMENTAIS
+*Cada skill ativa com mais de 10 pontos na linha laranja libera a escolha de 1 debuff (ao custo de 1 ponto).*
+
+### A) Debuff Bleeding (Sangramento / Hemorragia - Linha Vermelha)
+- **Linha 1 (Sangramento):**
+  - *Círculo Mágico de Sangramento:* Chance de spawnar círculo no chão que aplica Bleeding (Min: 1 | Max: 20 pts).
+  - *Dano / Alvos / Taxa de Sucesso / Alcance:* Requerem 10 pts no Círculo Mágico (Min/Max: 1 a 20 ou 10 a 20 pts).
+- **Linha 2 (Hemorragia):**
+  - *Efeito de Hemorragia:* Converte o sangramento em hemorragia, **DOBRANDO o dano**. (Requer exatos 10 pts).
+  - *Dano / Alvos / Taxa de Sucesso / Duração:* Requerem 10 pts no Efeito de Hemorragia. (Min/Max: 1 a 20 ou 1 a 10 pts).
+
+### B) Debuff Freeze (Congelamento / Desaceleramento - Linha Azul)
+- **Linha 1 (Congelamento):**
+  - *Círculo Mágico de Congelamento:* Chance de spawnar círculo no chão que causa dano Freeze (Min: 1 | Max: 20 pts).
+  - *Dano / Alvos / Taxa de Sucesso / Alcance:* Requerem 10 pts no Círculo Mágico.
+- **Linha 2 (Desaceleramento):**
+  - *Efeito de Desaceleramento:* O dano por congelamento passa a **Reduzir a Velocidade de Ataque** do inimigo. (Requer exatos 10 pts).
+  - *Redução de Vel. Ataque / Alvos / Taxa / Duração:* Requerem 10 pts no Efeito de Desaceleramento.
+
+### C) Debuff Poison (Envenenamento / Envenenamento Mortal - Linha Verde)
+- **Linha 1 (Envenenamento):**
+  - *Círculo Mágico de Envenenamento:* Chance de criar círculo de dano por Poison (Min: 1 | Max: 20 pts).
+  - *Dano / Alvos / Taxa de Sucesso / Alcance:* Requerem 10 pts no Círculo Mágico.
+- **Linha 2 (Envenenamento Mortal):**
+  - *Efeito de Envenenamento Mortal:* Transforma em Deadly Poison, **DOBRANDO o dano por veneno**. (Requer exatos 10 pts).
+  - *Dano / Alvos / Taxa de Sucesso / Duração:* Requerem 10 pts no Efeito Mortal.
+
+---
+
+## 3. INCREMENTOS DE DEBUFFS (LINHA CINZA)
+*Potencializam a eficácia dos debuffs ativos. Exigem 10 pontos prévios no debuff correspondente na aba anterior.*
+
+- **Linha 1 (Bleeding & Hemorrhage):** Chance adicional, Dano de Hemorragia, Incremento de Alvos, Taxa de Sucesso e Taxa de Sucesso Extensiva. (Pontuação de 1 a 30 pts).
+- **Linha 2 (Freeze & Freezing):** Chance adicional de Desaceleração, Dano, Alvos e Taxas de Sucesso. (Pontuação de 1 a 30 pts).
+- **Linha 3 (Poison & Deadly Poison):** Chance de Envenenamento Mortal, Dano, Alvos e Taxas de Sucesso. (Pontuação de 1 a 30 pts).
+
+---
+
+## 4. PASSIVAS DEFENSIVAS E OFENSIVAS (LINHAS AMARELA E ROXA)
+
+### A) Skills Passivas Defensivas (Linha Amarela)
+*Requerem pontos investidos nas Skills da Linha Laranja:*
+- **Estágio 1 (20 pts na linha laranja):** Libera até 10 pts na 1ª passiva.
+- **Estágio 2 (40 pts na linha laranja):** Libera até 10 pts na 2ª passiva.
+- **Estágio 3 (60 pts na linha laranja):** Libera até 10 pts na 3ª passiva.
+
+**Passivas Disponíveis (Até 40 pts max em cada):**
+1. **Incremento de Vida Máxima:** Aumenta o HP.
+2. **Quarto Aumento de Status (4th Stat Increase):** Cada 1 ponto aplicado nesta passiva concede **8 pontos de atributos base** para você distribuir livremente (ex: Força, Agilidade, Vitalidade, Energia).
+3. **Incremento de Armadura Básica:** Aumenta a defesa base.
+4. **Incremento de Defesa com Asa/Capa Lvl 4:** Aumenta a defesa enquanto estiver utilizando Asa 4th ou Capa 4th.
+
+### B) Debuffs Passivos Ofensivos (Linha Roxa)
+*Requerem pontos investidos em Debuffs (Azul, Vermelho ou Verde):*
+- **Estágio 1 (10 pts em debuffs):** Libera até 10 pts no 1º debuff passivo.
+- **Estágio 2 (30 pts em debuffs):** Libera até 10 pts no 2º debuff passivo.
+- **Estágio 3 (50 pts em debuffs):** Libera até 10 pts no 3º debuff passivo.
+
+**Debuffs Passivos Disponíveis (Até 40 pts max em cada):**
+1. **Incremento no Poder de Ataque:** Eleva o ataque geral.
+2. **Quarto Aumento de Status:** Concede 8 pontos de atributos por ponto investido.
+3. **Incremento no Dano da Skill:** Aumenta o dano exclusivamente para as skills presentes na Enhanced Tree.
+4. **Incremento de Dano com Asa/Capa Lvl 4:** Aumenta o dano causado utilizando Asa 4th ou Capa 4th.
+
+---
+
+## 5. DEBUFF EXPLOSION (ME CÂNICA DE DETONAÇÃO)
+*Skills ofensivas especiais que detonam debuffs já aplicados no alvo. Ao detonar, o efeito de debuff do inimigo é removido, mas causa uma explosão de alto dano instantâneo.*
+
+### A) Linha 1 - Poison & Deadly Poison (Tempestade Envenenada)
+- **Tempestade Envenenada:** Requer que o alvo esteja envenenado. Remove o veneno e explode causando dano em área. (Requer exatos 10 pts).
+- **Alcance / Dano / Infecção (+1 Alvo) / Dano Extra:** Incrementos de 1 a 20 ou exatos 10 pts.
+
+### B) Linha 2 - Freeze & Freezing (Explosão do Assassino Congelante)
+- **Explosão do Assassino Congelante:** Requer alvo congelado/desacelerado. Remove o efeito e aplica dano explosivo no alvo e em inimigos próximos. (Requer exatos 10 pts).
+- **Alcance / Dano / Infecção (Dano Splash) / Dano Extra:** Incrementos de 1 a 20 ou exatos 10 pts.
+
+### C) Linha 3 - Bleeding & Hemorrhage (Golpe Sangrento)
+- **Golpe Sangrento:** Requer alvo sob efeito de Hemorragia. Aplica um golpe devastador. (Requer exatos 10 pts).
+- **Alcance / Dano / Infecção (Redução de Defesa do Inimigo) / Dano Extra:** Incrementos de 1 a 20 ou exatos 10 pts.

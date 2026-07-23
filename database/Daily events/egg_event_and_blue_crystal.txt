@@ -1,0 +1,741 @@
+[BASE DE DADOS MEGAMU] - GUIA COMPLETO DO EGG EVENT E BLUE CRYSTAL
+1. CONCEITO GERAL E MECÂNICA DO EGG EVENT
+O que é: O Egg Event é um evento de invasão onde criaturas poderosas e especiais aparecem pelo continente MEGAMU, trazendo caos e destruição, mas oferecendo recompensas valiosas para os jogadores que conseguirem caçá-las.
+
+Frequência e Aviso: O evento acontece a cada 4 horas (nos horários como 1:50, 5:50, 9:50, 13:50, 17:50 e 21:50). A invasão de monstros é anunciada no jogo 5 minutos antes do início e também informada diretamente no Dashboard.
+
+2. MONSTROS ESPECIAIS E MAPAS DE APARECIMENTO
+Existem 3 tipos de monstros especiais no evento (totalizando 15 de cada por servidor), cada um gerando um tipo específico de ovo e espalhado por mapas determinados:
+
+Moon Rabbit (15x):
+
+Ovo Relacionado: Moon Rabbit Egg
+
+Mapas de Aparição: Espalhados por Lorencia, Devias, Noria ou Elveland.
+
+Pouch of Blessing (15x):
+
+Ovo Relacionado: Pouch of Blessing Egg
+
+Mapas de Aparição: Em Lost Tower, Icarus, Kalima 5 ou Aida.
+
+Fire Flame Ghost (15x):
+
+Ovo Relacionado: Fire Flame Ghost Egg
+
+Mapas de Aparição: Em Lost Kalima (ou Kanturu Ruins), Swamp of Peace ou Raklion.
+
+3. RECOMPENSAS GERAIS DO EGG EVENT
+Ao caçar e derrotar as criaturas do evento, os jogadores podem obter os seguintes itens:
+
+Blue Crystal (item especial usado para combinações)
+
+Pets Muun / Ovos de Muun (contém pets aleatórios e Evolution Stones / Pedras de Evolução)
+
+Jewel of Bless, Jewel of Soul, Jewel of Creation, Jewel of Chaos, Jewel of Life, Jewel of Guardian e Jewel of Harmony
+
+4. O BLUE CRYSTAL E SUA OBTENÇÃO
+Taxa de Drop: O Blue Crystal possui aproximadamente 10% de chance de drop toda vez que um monstro ou coelho das invasões do Egg Event é eliminado.
+
+Valor de Mercado: Costuma ser negociado no mercado de Lorencia (Loren Market) por valores médios de 300 a 350 MCoins.
+
+5. COMO REALIZAR A COMBINAÇÃO DO BLUE CRYSTAL
+Onde Fazer: Vá até o mapa de Crywolf, utilize a carroça para mover até a região das elfas de Balgass e interaja com a NPC Elfa Lala.
+
+Itens Necessários na Combinação:
+
+1x Blue Crystal
+
+20x unidades de uma joia específica (podendo ser usada Jewel of Creation, Jewel of Life, Jewel of Soul ou Jewel of Chaos).
+
+Preparação do Inventário e o "Macete do Pote": Deixe o inventário principal limpo/vazio. Posicione o Blue Crystal em um local estratégico e organize as 20 joias formando um desenho ou padrão no inventário. Para facilitar, os jogadores costumam preencher o restante do inventário comprando poções (pots) em um NPC para fixar o espaço exato e demarcar o layout. Após achar um padrão válido, você pode salvar o formato para repeti-lo.
+
+6. RECOMPENSAS DA COMBINAÇÃO (SISTEMA DE RUUD)
+Combinação Especial de Ruud: Em eventos promocionais, a combinação com o Blue Crystal pode conceder grandes quantidades de Ruud de forma decrescente:
+
+A primeira combinação de alto valor inicia pagando em torno de 6.000 Ruud, diminuindo progressivamente em etapas de 250 Ruud (ex: 5.750, 5.500, 5.250, 5.000...) até atingir o limite de 2.000 Ruud.
+
+Atingido o limite inferior, a combinação é resetada para um novo ciclo de padrões.
+
+Outras Premiações: Caso a combinação não caia na premiação especial de Ruud, o sistema pode conceder pacotes de joias (packs de Bless, Soul, etc.), caixas de Ruud, Box of Kundun ou itens de suporte.
+
+[BASE DE DADOS MEGAMU] - LISTA DE STATUS DOS PETS MUUN
+Luki:
+
+Bônus: Increase Defense
+
+Slots/Raridade: OOO
+
+Restrição PVP: Normal (PVP ON)
+
+Nymph:
+
+Bônus: Increases Attack / Wizardry / Curse Spells
+
+Slots/Raridade: OO
+
+Restrição PVP: Normal (PVP ON)
+
+Safi:
+
+Bônus: Increase Critical Damage
+
+Slots/Raridade: O
+
+Restrição PVP: Normal (PVP ON)
+
+William:
+
+Bônus: Increases Attack / Wizardry / Curse Spells
+
+Slots/Raridade: OOOO
+
+Restrição PVP: Normal (PVP ON)
+
+Paul:
+
+Bônus: Increase Excellent Damage
+
+Slots/Raridade: OO
+
+Restrição PVP: Normal (PVP ON)
+
+Chiron:
+
+Bônus: Increase Excellent Damage
+
+Slots/Raridade: OO
+
+Restrição PVP: Normal (PVP ON)
+
+Skull:
+
+Bônus: Increase Critical Damage
+
+Slots/Raridade: OO
+
+Restrição PVP: Normal (PVP ON)
+
+Witch:
+
+Bônus: Increases Attack / Wizardry / Curse Spells
+
+Slots/Raridade: OOOO
+
+Restrição PVP: Normal (PVP ON)
+
+Pumpkin:
+
+Bônus: Increase Critical Damage
+
+Slots/Raridade: OO
+
+Restrição PVP: Normal (PVP ON)
+
+Lycan:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: Normal (PVP ON)
+
+Torby:
+
+Bônus: Increase Defense
+
+Slots/Raridade: OO
+
+Restrição PVP: Normal (PVP ON)
+
+Savath:
+
+Bônus: Increase Excellent Damage
+
+Slots/Raridade: OOOO
+
+Restrição PVP: Normal (PVP ON)
+
+Tony:
+
+Bônus: Increase Excellent Damage
+
+Slots/Raridade: OOO
+
+Restrição PVP: Normal (PVP ON)
+
+Wooparoo:
+
+Bônus: Increases Attack / Wizardry / Curse Spells
+
+Slots/Raridade: OOOO
+
+Restrição PVP: Normal (PVP ON)
+
+Behemoth:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: Normal (PVP ON)
+
+Seiren:
+
+Bônus: Increases Attack / Wizardry / Curse Spells
+
+Slots/Raridade: OO
+
+Restrição PVP: Normal (PVP ON)
+
+Trive:
+
+Bônus: Increases Attack / Wizardry / Curse Spells
+
+Slots/Raridade: OOOO
+
+Restrição PVP: Normal (PVP ON)
+
+Vogan:
+
+Bônus: Increases Attack / Wizardry / Curse Spells
+
+Slots/Raridade: OO
+
+Restrição PVP: Normal (PVP ON)
+
+Cyclop:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: Normal (PVP ON)
+
+Tibetton:
+
+Bônus: Increases Attack / Wizardry / Curse Spells
+
+Slots/Raridade: OOO
+
+Restrição PVP: Normal (PVP ON)
+
+Bonf:
+
+Bônus: Increases Skill Damage
+
+Slots/Raridade: OOOO
+
+Restrição PVP: Normal (PVP ON)
+
+Muty:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: Normal (PVP ON)
+
+Hawk:
+
+Bônus: Increases Skill Damage
+
+Slots/Raridade: OO
+
+Restrição PVP: Normal (PVP ON)
+
+Hound:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Mino:
+
+Bônus: Increase Excellent Damage
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Loggle:
+
+Bônus: Increases Attack / Wizardry / Curse Spells
+
+Slots/Raridade: OOOO
+
+Restrição PVP: NO PVP
+
+Mantis:
+
+Bônus: Increases Attack / Wizardry / Curse Spells
+
+Slots/Raridade: OOOO
+
+Restrição PVP: NO PVP
+
+Scolpy:
+
+Bônus: Increases Attack / Wizardry / Curse Spells
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Chafer:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Cosplay Girl:
+
+Bônus: Increase Skill Attack Power
+
+Slots/Raridade: OOOO
+
+Restrição PVP: NO PVP
+
+Cheer Girl:
+
+Bônus: Increases Attack / Wizardry / Curse Spells
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Sporty Girl:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Baal:
+
+Bônus: Increases Attack / Wizardry / Curse Spells
+
+Slots/Raridade: OOOO
+
+Restrição PVP: NO PVP
+
+Taaf:
+
+Bônus: Increase Critical Damage
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Gaap:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Purssil:
+
+Bônus: Increases Attack / Wizardry / Curse Spells
+
+Slots/Raridade: OOOO
+
+Restrição PVP: NO PVP
+
+Loor:
+
+Bônus: Increases Skill Damage
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Frozen:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Lucky Rabbit:
+
+Bônus: Increase Skill Attack Power
+
+Slots/Raridade: OOOO
+
+Restrição PVP: NO PVP
+
+Songpyeon Rabbit:
+
+Bônus: Increases Acquisition Rate of Zen After Hunting
+
+Slots/Raridade: OO
+
+Restrição PVP: Normal (PVP ON)
+
+Rabbit Mortar:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Tarius:
+
+Bônus: Increases Attack / Wizardry / Curse Spells
+
+Slots/Raridade: OOOO
+
+Restrição PVP: PVP ON after evolution
+
+Rainer:
+
+Bônus: Items Repair Reduction
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Alkamo:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Glacuse:
+
+Bônus: Increases Maximum Damage/Wizardry/Curse Spells
+
+Slots/Raridade: OOOO
+
+Restrição PVP: PVP ON after evolution
+
+Kenturion:
+
+Bônus: Increase Defense
+
+Slots/Raridade: OO
+
+Restrição PVP: Normal (PVP ON)
+
+Rocka:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Repen:
+
+Bônus: Increase Damage Elemental
+
+Slots/Raridade: OOO
+
+Restrição PVP: Normal (PVP ON)
+
+Pawn:
+
+Bônus: Increase Defense Elemental
+
+Slots/Raridade: OOO
+
+Restrição PVP: Normal (PVP ON)
+
+Grippus:
+
+Bônus: Increases Maximum Damage/Wizardry/Curse Spells
+
+Slots/Raridade: OOO
+
+Restrição PVP: Normal (PVP ON)
+
+Polar Bear:
+
+Bônus: Increases Damage/Wizardry/Curse
+
+Slots/Raridade: OO
+
+Restrição PVP: PVP ON after evolution
+
+Pregent:
+
+Bônus: Increases Damage/Wizardry/Curse Spells
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Lakinhose:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Aries:
+
+Bônus: Increases Skill Damage
+
+Slots/Raridade: OOOO
+
+Restrição PVP: PVP ON after evolution
+
+Leiceter:
+
+Bônus: Increase Excellent Damage
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Merino:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Splinter:
+
+Bônus: Increases Damage/Wizardry/Curse
+
+Slots/Raridade: OOOO
+
+Restrição PVP: PVP ON after evolution
+
+Mutant:
+
+Bônus: Increases Attack Maximum Damage/Wizardry/Curse Spells
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Pider:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Heywood:
+
+Bônus: Increases Maximum Damage/Wizardry/Curse
+
+Slots/Raridade: OOOO
+
+Restrição PVP: PVP ON after evolution
+
+Branch:
+
+Bônus: Increases Skill Damage
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Hook:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Carnifle:
+
+Bônus: Increases Skill Damage
+
+Slots/Raridade: OOOO
+
+Restrição PVP: PVP ON after evolution
+
+Mandora:
+
+Bônus: Items Repair Reduction
+
+Slots/Raridade: OO
+
+Restrição PVP: Normal (PVP ON)
+
+Treat:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Rose Spirit:
+
+Bônus: Increases Maximum Damage/Wizardry/Curse
+
+Slots/Raridade: OOOO
+
+Restrição PVP: PVP ON after evolution
+
+Canola Spirit:
+
+Bônus: Increase Critical Damage
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Cherry Blossom Spirit:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Gigantes:
+
+Bônus: Increases Damage/Wizardry/Curse
+
+Slots/Raridade: OOOO
+
+Restrição PVP: PVP ON after evolution
+
+Mammoth:
+
+Bônus: Increases Damage/Wizardry/Curse
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Walker:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Surfing Girl:
+
+Bônus: Increases Maximum Damage/Wizardry/Curse
+
+Slots/Raridade: OOOO
+
+Restrição PVP: PVP ON after evolution
+
+Tube Girl:
+
+Bônus: Increase Defense
+
+Slots/Raridade: OO
+
+Restrição PVP: Normal (PVP ON)
+
+Cooling Girl:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Commander:
+
+Bônus: Increases Skill Damage
+
+Slots/Raridade: OOOO
+
+Restrição PVP: PVP ON after evolution
+
+Lance Soldier:
+
+Bônus: Increases Skill Damage
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Bow Soldier:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Hammer:
+
+Bônus: Increases Skill Damage
+
+Slots/Raridade: OOOO
+
+Restrição PVP: PVP ON after evolution
+
+Ripieo:
+
+Bônus: Increase Excellent Damage
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Xer:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Mummy Girl:
+
+Bônus: Increases Skill Damage
+
+Slots/Raridade: OOOO
+
+Restrição PVP: PVP ON after evolution
+
+Mummy Boy:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP
+
+Chrysanthemum:
+
+Bônus: Increases Maximum Damage/Wizardry/Curse
+
+Slots/Raridade: OOOO
+
+Restrição PVP: PVP ON after evolution
+
+Maple:
+
+Bônus: Increase Defense
+
+Slots/Raridade: OO
+
+Restrição PVP: Normal (PVP ON)
+
+Ginkgo:
+
+Bônus: Increase Attack Speed Skill Muun
+
+Slots/Raridade: OO
+
+Restrição PVP: NO PVP

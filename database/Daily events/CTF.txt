@@ -1,0 +1,77 @@
+# [BASE DE DADOS MEGAMU] - GUIA COMPLETO DO EVENTO CTF (CAPTURE THE FLAG)
+
+* **Vídeos e Links de Referência:**
+* Tutorial Fórum MEGAMU (CTF): [http://megamu.net/forum/showthread.php?tid=2659](http://megamu.net/forum/showthread.php?tid=2659)
+* Gameplay e Dicas Práticas (Noronha966): [https://www.youtube.com/watch?v=xXOX-h6GkXQ](https://www.youtube.com/watch?v=xXOX-h6GkXQ)
+
+
+
+---
+
+## 1. CONCEITO GERAL E LOCALIZAÇÃO
+
+* **O que é:** O **CTF (Capture the Flag)** é o famoso modo de jogo "barra-bandeira" adaptado com características exclusivas no MEGAMU para integrar a jogabilidade em equipe e o PvP estratégico.
+* **Mapa Inicial:** O evento ocorre inicialmente no mapa de **Devias**, com previsões de expansão para outros mapas futuramente.
+* **Estrutura do Mapa:** O mapa possui **4 bases** (representadas por quadrados) e cada base conta com um **NPC** (círculos) localizado a uma certa distância, servindo como o destino final para entregar a bandeira roubada.
+* **Facilidade de Orientação:** As bases e os NPCs aparecem indicados diretamente no minimapa do jogo (pressionando a tecla **TAB**).
+
+---
+
+## 2. MECÂNICA DE JOGO E CAPTURA DA BANDEIRA
+
+* **Dinâmica de Domínio:** Diferente dos CTFs tradicionais, as equipes precisam dominar as bases pegando a bandeira e levando-a até o NPC correspondente no outro lado do mapa.
+* **Pegando o Fogo (Bandeira):** A bandeira do CTF é representada pelo **fogo da estátua**. Para roubá-la, basta falar com a estátua situada no centro da base adversária; será iniciada uma contagem de **10 segundos** imóvel para garantir o item (caso saia do quadrado ou sofra interrupção, a contagem cancela).
+* **Trajeto e Entrega:** Após pegar o fogo, o jogador recebe indicações de destino e deve se deslocar até o NPC da base sem ser abatido pelas outras guildas.
+* **Conquista da Base:** Ao conseguir chegar até o NPC com vida e concluir a entrega, **a guilda do jogador se torna a nova dona da base**. A partir desse momento, todos os membros dessa guilda podem falar com o NPC para se teleportar diretamente para a base.
+* **Morte do Portador:** Se o jogador carregando o fogo for morto, o fogo se solta do corpo:
+* Se a guilda dona do castelo/base matar o monstro gerado, o fogo retorna para a base original.
+* Se outra guilda matar o monstro, o player que desferiu o golpe recebe o fogo e pode continuar a captura.
+
+
+* **Defesa de Base e Armadilhas:**
+* Para defender a base, os jogadores podem ficar próximos à estátua. Se um membro da mesma tag estiver entregando o item, mantenha uma distância segura para não ser expulso (*kick*) da área de entrega.
+* O sistema de **torres e minas** (`/tower` e `/mine`) pode ser utilizado para auxiliar na defesa estratégica das bases dominadas.
+
+
+
+---
+
+## 3. COMANDOS ÚTEIS DO MAPA
+
+Para facilitar a movimentação e acompanhamento durante a partida:
+
+* **/ctf1**, **/ctf2**, **/ctf3**, **/ctf4** — Comandos de teleporte rápido para as respectivas bases.
+* **/score** — Consulta a tabela de pontuação em tempo real.
+
+---
+
+## 4. PONTUAÇÃO E DURAÇÃO
+
+* **Duração Total:** 12 minutos.
+* **Sistema de Pontos:**
+* **3 pontos** a cada conquista/entrega efetuada.
+* **1 ponto** a cada 10 segundos com a bandeira ativa/dentro da base.
+
+
+
+---
+
+## 5. PREMIAÇÕES POR COLOCAÇÃO
+
+As premiações consistem em pacotes de *Blessing of Light* e MPoints (MP) distribuídos aos membros participantes (respeitando limites máximos de membros premiados por colocação):
+
+* **1º Lugar:** 10 Blessing of Light + 100 MP para cada membro (Máximo de 20 membros)
+* **2º Lugar:** 5 Blessing of Light + 100 MP para cada membro (Máximo de 20 membros)
+* **3º Lugar:** 4 Blessing of Light + 100 MP para cada membro (Máximo de 20 membros)
+* **4º Lugar:** 3 Blessing of Light + 100 MP para cada membro (Máximo de 15 membros)
+* **5º Lugar:** 3 Blessing of Light + 100 MP para cada membro (Máximo de 10 membros)
+
+---
+
+## 6. SOBRE A BLESSING OF LIGHT E RESGATE DE PRÊMIOS
+
+* **Efeito do Item:** Quando uma *Blessing of Light* é utilizada, o XP recebido pelo personagem é **aumentado em 3x durante 30 minutos**.
+* **Como Retirar os Prêmios:**
+* Os membros devem falar com o NPC **"Arena Guard"**, localizado na entrada do bar de Lorencia.
+* Cada membro pode retirar o prêmio apenas uma vez.
+* Como apenas os primeiros a retirarem recebem a *Blessing of Light* junto, a guilda pode se organizar estrategicamente para definir quem resgata primeiro e aproveita o bônus de XP.

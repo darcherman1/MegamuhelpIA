@@ -1,0 +1,79 @@
+# EVENTO COMPLEMENTAR: MOSS MERCHANT (AROMAS DIVINE, BRINCOS E GHOST HORSE)
+
+- Fonte/Link Original (PT-BR): https://megamu.net/forum/showthread.php?tid=5180
+- Link em Inglês (EN): https://megamu.net/forum/showthread.php?tid=17528
+- Link em Espanhol (ES): https://megamu.net/forum/showthread.php?tid=17527
+- Link em Chinês (ZH): https://megamu.net/forum/showthread.php?tid=17530
+- Link em Vietnamita (VI): https://megamu.net/forum/showthread.php?tid=17531
+
+---
+
+## O QUE É E ONDE FICA O MOSS MERCHANT
+- O **Moss Merchant** é um NPC temporário/móvel que aparece periodicamente no servidor.
+- **Localização:** Elbeland (Coordenadas: 23, 226).
+- **Como verificar os horários do evento:** Pelo site oficial, pelo dashboard ou pela janela de eventos dentro do jogo:
+  - **No PC:** Pressione a tecla **ESC** e clique no ícone de Eventos.
+  - **No Mobile:** Abra o menu geral e clique no ícone de Eventos.
+
+---
+
+## 1. COMPRA DE ARMAS E TALISMÃS POR ZEN
+- **Custo médio por caixa:** Cerca de 10.000.000 Zen (10KK).
+- **Mecânica:** A compra entrega um item aleatório (Excelente ou Comum) baseado na categoria de caixa escolhida.
+
+### Categorias de Caixas Vendidas:
+- **SWORD** (Espadas)
+- **STAFF** (Cajados)
+- **BOW** (Arcos e Bestas)
+- **SCEPTER** (Cetros)
+- **STICKS** (Bastões)
+
+### Talismãs Raros do Moss Merchant:
+- Talisman of Luck (1%) / Talismã da Sorte (1%)
+- Chaos of Assembly / Caos da Assembleia
+- Elemental Talisman of Chaos Assembly / Talismã Elemental do Caos da Assembleia
+- Elemental Talisman of Luck / Talismã Elemental da Sorte
+
+---
+
+## 2. ARMAS DIVINE (DROP RARO NO MOSS MERCHANT)
+
+Ao abrir as caixas do Moss Merchant, há uma taxa baixa de obter uma **Arma Divine**.
+
+### Mapeamento de Armas Divine por Caixa:
+- **Caixa de Espada (Sword):** Divine Sword, Divine Short Sword, Divine Lance, Absolute Claws.
+- **Caixa de Staff:** Divine Staff, Divine Rune Mace.
+- **Caixa de Arco (Bow):** Divine Crossbow.
+- **Caixa de Cetro (Scepter):** Divine Scepter.
+- **Caixa de Bastão (Stick):** Divine Stick.
+
+### Lista de Compatibilidade de Armas Divine por Classe:
+- **Divine Sword (Espada Divina):** Dark Knight (DK), Magic Gladiator (MG), Dark Lord (DL).
+- **Divine Staff (Cajado Divino):** Dark Wizard (DW), Magic Gladiator (MG).
+- **Divine Crossbow (Besta Divina):** Muse Elf / Fairy Elf.
+- **Divine Scepter (Cetro Divino):** Dark Lord (DL).
+- **Divine Stick (Bastão Divino):** Summoner.
+- **Divine Claw (Garra Divina):** Rage Fighter (RF).
+- **Divine Lance (Lança Divina):** Grow Lancer (GL).
+- **Divine Rune Mace (Maça Divina das Runas):** Rune Mage / Rune Wizard.
+- **Divine Short Sword (Espada Curta Divina):** Slayer.
+
+---
+
+## 3. ABRIR BRINCOS (EARRINGS)
+- **Onde encontrar:** Na aba **Acessórios** dentro do menu do Moss Merchant.
+- **Forma de Pagamento:** Comprados em troca de **Joias**.
+- **Requisito de Uso:** Exclusivo para personagens que concluíram a 3ª Classe (Level 400+ / Master Level).
+- **Características:** Os brincos vêm com atributos aleatórios valiosos para otimizar a build do personagem.
+
+---
+
+## 4. MATERIAIS PARA O GHOST HORSE (CAIXA GUARDIÃO)
+- **Onde encontrar:** Na aba **Caixa Guardião** dentro do menu do Moss Merchant.
+- **Forma de Pagamento:** Comprados em troca de **Joias**.
+- **Utilidade:** Permite adquirir aleatoriamente os itens necessários para a criação da montaria **Ghost Horse** (Cavalo Fantasma).
+
+### Itens de Guardião Obtidos no Moss Merchant:
+- Piece of Resurrection (Peça de Ressurreição)
+- Seal of Ghost Horses (Selo do Cavalo Fantasma)
+- Guardian Enhanced Stone (Pedra Aprimorada do Guardião)

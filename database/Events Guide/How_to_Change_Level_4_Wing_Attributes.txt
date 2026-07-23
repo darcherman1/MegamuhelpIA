@@ -1,0 +1,43 @@
+# GUIA COMPLETO: REBUILD DE ATRIBUTOS DAS ASAS LEVEL 4 (JEWEL OF DARKNESS)
+
+- Link em Português (PT-BR): https://megamu.net/forum/showthread.php?tid=18368
+- Link em Inglês (EN): https://megamu.net/forum/showthread.php?tid=18477
+- Link em Espanhol (ES): https://megamu.net/forum/showthread.php?tid=18478
+- Link em Chinês (ZH): https://megamu.net/forum/showthread.php?tid=18479
+- Link em Vietnamita (VI): https://megamu.net/forum/showthread.php?tid=18480
+
+---
+
+## O QUE É O REBUILD DE ASA LEVEL 4
+Diferente das asas de níveis inferiores, os adicionais das Asas Level 4 não são escolhidos livremente. O sistema de **Rebuild** permite **alterar aleatoriamente os atributos das Asas Level 4**, mantendo exatamente a mesma quantidade de adicionais que a asa já possui.
+
+---
+
+## 1. COMO OBTER A JEWEL OF DARKNESS (JOIA DA ESCURIDÃO)
+
+A **Jewel of Darkness** (Joia da Escuridão) é o item indispensável para executar o Rebuild de Asa 4.
+
+### Fontes de Obtenção / Eventos:
+- Eventos **Survive** (todas as edições/modalidades)
+- Evento **Sanguinário Perdido**
+- Evento **Mirror** (Doppelganger / Espelho)
+
+---
+
+## 2. PASSO A PASSO NA OFICINA DO SITE
+
+1. **No Jogo:** Guarde a **Asa Level 4** e a(s) **Jewel(s) of Darkness** no inventário do seu personagem.
+2. **Desconectar:** Desconecte completamente a sua conta do jogo (*Off-line*).
+3. **No Site Oficial:** Faça login no site oficial do MEGAMU, clique no seu perfil e selecione a opção **Oficina**.
+4. **Seleção:** Selecione o personagem que está com os itens, escolha a moeda de desconto/pagamento (MC ou MP) e clique sobre a **Asa Level 4**.
+5. **Ação de Rebuild:** Localize a seção *Wings Options* e clique no botão **Rebuild Option**.
+6. **Confirmar:** O painel exibirá o custo em **MCoins (MC)**, **MPoints (MP)** e **Jewel of Darkness**. Clique em **Rebuild** para confirmar a alteração aleatória dos atributos.
+
+---
+
+## 3. REGRAS E INFORMAÇÕES IMPORTANTES
+
+- **Quantidade Fixo de Atributos:** O Rebuild **NÃO adiciona novos slots de atributos** à asa. 
+  - Asa com **1 atributo:** altera apenas esse 1 atributo por outro aleatório (não ganha o 2º slot).
+  - Asa com **2 ou 3 atributos:** rola aleatoriamente os 2 ou 3 atributos, mantendo o mesmo total de adicionais da asa.
+- **Custo Escalonado:** Quanto maior a quantidade de atributos que a Asa Level 4 possui (ex: 3 adicionais), **maior será o custo** cobrado em MCoins, MPoints e Jewels of Darkness para realizar a rotagem.

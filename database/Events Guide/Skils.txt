@@ -1,0 +1,217 @@
+# GUIA COMPLETO DE HABILIDADES (SKILLS): OBTENÇÃO, APRENDIZADO, DROPS E RUUD
+
+- Link em Português (PT-BR): https://megamu.net/forum/showthread.php?tid=17802
+- Link em Espanhol (ES): https://megamu.net/forum/showthread.php?tid=17802
+- Link em Inglês (EN): https://megamu.net/forum/showthread.php?tid=17803
+- Link em Chinês (ZH): https://megamu.net/forum/showthread.php?tid=17804
+- Link em Vietnamita (VI): https://megamu.net/forum/showthread.php?tid=17805
+
+---
+
+## 1. CONCEITO GERAL E APRENDIZADO
+
+As habilidades negociáveis/aprendíveis são divididas em 3 formatos de itens:
+- **Scroll** (Pergaminho)
+- **Orb** (Orbe / Esfera)
+- **Parchment** (Pergaminho Antigo / Act / Bead)
+
+### Como Aprender Skills:
+- **PC:** Abra o inventário e clique com o **botão direito do mouse** sobre o Scroll/Orb/Parchment.
+- **Mobile:** Abra o inventário, toque **duas vezes** no item da skill e confirme no alerta de confirmação.
+
+### Como Equipar na Barra de Atalhos:
+- **PC:** Clique no ícone de skill na barra central inferior (entre as letras e os números) para abrir a lista completa. Arraste a habilidade desejada para o slot numerado (1 a 0).
+- **Mobile:** Abra o menu geral (topo da tela) -> Toque no ícone de Habilidades (canto superior direito) -> Arraste a skill para os slots da barra.
+- *Nota Visual:* Skills já aprendidas aparecem coloridas; skills ainda não adquiridas/aprendidas aparecem em preto e branco.
+
+---
+
+## 2. NPCS DE SKILLS BÁSICAS
+
+### A) Hanzo the Blacksmith
+- **Localização:** Lorencia (117, 141)
+- **Foco:** Dark Knight (DK), Magic Gladiator (MG), Grow Lancer (GL) e Slayer (SL).
+
+| Habilidade | Tradução | Classes Compatíveis |
+|---|---|---|
+| **Orb of Impale** | Orbe de Perfuração | Dark Knight, Magic Gladiator |
+| **Orb of Twisting Slash** | Orbe de Corte Giratório | Dark Knight, Magic Gladiator, Slayer |
+| **Orb Greater Fortitude** | Orbe da Grande Fortaleza | Dark Knight |
+| **Orb of Fire Slash** | Orbe de Corte de Fogo | Magic Gladiator |
+
+### B) Pasi the Mage
+- **Localização:** Lorencia (119, 113)
+- **Foco:** Dark Wizard (DW), Magic Gladiator (MG), Summoner (SUM), Rune Mage (RW).
+
+| Habilidade | Tradução | Classes Compatíveis |
+|---|---|---|
+| **Scroll of Fire Ball** | Pergaminho da Bola de Fogo | DW, MG, SUM, RW |
+| **Scroll of Power Wave** | Pergaminho da Onda de Poder | DW, MG, SUM |
+| **Scroll of Lightning** | Pergaminho do Raio | DW, MG |
+| **Scroll of Teleport** | Pergaminho de Teleporte | DW |
+| **Scroll of Meteorite** | Pergaminho do Meteorito | DW, MG, SUM, RW |
+| **Scroll of Ice** | Pergaminho de Gelo | DW, MG, SUM |
+| **Scroll of Poison** | Pergaminho de Veneno | DW, MG, RW |
+| **Scroll of Flame** | Pergaminho da Chama | DW, MG, RW |
+
+### C) Elf Lala
+- **Localização:** Noria (173, 124)
+- **Foco:** Fairy Elf (ELF) e Rune Mage (RW).
+
+| Habilidade | Tradução | Classes Compatíveis |
+|---|---|---|
+| **Healing Orb** | Orbe de Cura | Fairy Elf |
+| **Orb of Greater Defense** | Orbe de Maior Defesa | Fairy Elf |
+| **Orb of Greater Damage** | Orbe de Maior Dano | Fairy Elf |
+| **Goblin Summoning Orb** | Orbe de Invocação do Goblin | Fairy Elf |
+| **Stone Golem Summoning Orb** | Orbe de Invocação do Golem de Pedra | Fairy Elf |
+| **Assassin Summoning Orb** | Orbe de Invocação da Assassina | Fairy Elf |
+
+### D) Marce
+- **Localização:** Elbeland (36, 218)
+- **Foco:** Summoner (SUM) e magias elementares base.
+
+| Habilidade | Tradução | Classes Compatíveis |
+|---|---|---|
+| **Scroll of Fire Ball** | Pergaminho da Bola de Fogo | DW, MG, SUM, RW |
+| **Scroll of Power Wave** | Pergaminho da Onda de Poder | DW, MG, SUM |
+| **Scroll of Meteorite** | Pergaminho do Meteorito | DW, MG, SUM, RW |
+| **Scroll of Ice** | Pergaminho de Gelo | DW, MG, SUM |
+
+### E) Wizard Izabel (NPC de Skills Exclusivas)
+- **Localização:** Devias (225, 40)
+- **Foco:** Habilidades intermediárias e avançadas de todas as classes.
+
+| Habilidade | Tradução | Classes Compatíveis |
+|---|---|---|
+| **Drain Life Parchment** | Pergaminho de Drenar Vida | Summoner |
+| **Sleep Parchment** | Pergaminho de Sono | Summoner |
+| **Chain Lightning Parchment** | Pergaminho de Raio em Cadeia | Summoner |
+| **Damage Reflection Parchment** | Pergaminho de Reflexão de Dano | Summoner |
+| **Increase Block Parchment** | Pergaminho de Aumento de Bloqueio | Rage Fighter |
+| **Increase Health Parchment** | Pergaminho de Aumento de Vida | Rage Fighter |
+| **Dragon Roar Parchment** | Pergaminho do Rugido do Dragão | Rage Fighter |
+| **Dragon Slasher Parchment** | Pergaminho do Cortador de Dragão | Rage Fighter |
+| **Scroll of Twister** | Pergaminho do Redemoinho | DW, MG, RW |
+| **Scroll of Evil Spirit** | Pergaminho do Espírito Maligno | DW, MG, RW |
+| **Scroll of Hellfire** | Pergaminho do Fogo Infernal | DW, MG, RW |
+| **Scroll of Aqua Beam** | Pergaminho do Raio de Água | DW, MG |
+| **Scroll of Soul Barrier** | Pergaminho da Barreira de Alma | DW |
+| **Scroll of FireBurst** | Pergaminho da Explosão de Fogo | Dark Lord |
+| **Scroll of Critical Damage** | Pergaminho de Dano Crítico | Dark Lord |
+| **Scroll of Electric Spark** | Pergaminho da Faísca Elétrica | Dark Lord |
+| **Orb of Death Stab** | Orbe da Estocada Mortal | Blade Knight |
+| **Orb of Rageful Blow** | Orbe do Golpe Furioso | Blade Knight, Royal Slayer |
+| **Orb of Penetration** | Orbe de Penetração | Fairy Elf |
+| **Elite Yeti Summoning Orb** | Orbe de Invocação do Yeti de Elite | Fairy Elf |
+| **Dark Knight Summoning Orb** | Orbe de Invocação do Cavaleiro Negro | Fairy Elf |
+| **Bali Summoning Orb** | Orbe de Invocação de Bali | Fairy Elf |
+| **Soldier Summoning Orb** | Orbe de Invocação do Soldado | Fairy Elf |
+| **Orb of Ice Arrow** | Orbe da Flecha de Gelo | Muse Elf |
+| **Spin Step Scroll** | Pergaminho do Passo Giratório | Grow Lancer |
+| **Magic Pin Scroll** | Pergaminho do Pino Mágico | Grow Lancer |
+| **Harsh Strike Scroll** | Pergaminho do Golpe Impiedoso | Grow Lancer |
+| **Breche Scroll** | Pergaminho da Brecha | Grow Lancer |
+
+---
+
+## 3. OUTROS TIPOS DE SKILLS E MÉTODOS DE OBTENÇÃO
+
+### A) Habilidades Vinculadas a Armas (Skill de Arma)
+- Habilidades que já vêm nativas no item ou são **adicionadas via Oficina do Site Oficial**.
+- **Como Vincular pelo Site:** Faça login -> Acesse a **Oficina** -> Selecione a arma -> Escolha pagamentos em MC ou MP -> Clique no botão **Skill** -> Confirmar/Evoluir.
+- **Armas Blessed Divine:** Possuem a habilidade exclusiva **Archangel's Will** (Vontade do Arcanjo) ativada automaticamente ao equipar.
+
+#### Tabela de Skills de Armas e Classes:
+- **Triple Shot** (Tiro Triplo) -> Fairy Elf
+- **Lunge** (Investida) -> Slayer, MG, DL, GL
+- **Uppercut** (Gancho) -> Slayer, MG
+- **Cyclone** (Ciclone) -> Slayer, MG, DL
+- **Defense** (Defesa) -> MG, DL, GL
+- **Falling Slash** (Golpe Caído) -> MG, DL, RF
+- **Force Wave** (Onda de Força) -> Dark Lord
+- **Killing Blow** (Golpe Mortal) -> Rage Fighter
+- **Phoenix Shot** (Tiro da Fênix) -> Rage Fighter
+- **Beat Uppercut** (Gancho Forte) -> Rage Fighter
+
+### B) Skills Obtidas por Quests (Marlon Quest)
+- **Infinity Arrow** (Flecha Infinita) -> Muse Elf
+- **Circle Shield** (Escudo Circular) -> Grow Lancer
+
+### C) Habilidades Vinculadas a Pets
+Habilitadas automaticamente ao equipar a montaria/pet:
+- **Plasma Storm** (Tempestade de Plasma) -> Pet Fenrir (Todas as classes)
+- **Earthshake** (Tremor da Terra) -> Dark Horse (Dark Lord)
+- **Ataques do Espírito Sombrio** (Random, Assistant e Target Attack) -> Dark Raven (Dark Lord)
+
+### D) Habilidades Especiais de Castle Siege
+Habilidades desbloqueadas automaticamente na aba **Especial** durante o evento Castle Siege:
+- **Lance** (Lança) -> Dark Wizard, Summoner, Rune Mage
+- **Crescent Moon Slash** -> Dark Knight, Slayer
+- **Starfall** -> Fairy Elf
+- **Spiral Slash / Mana Rays** -> Magic Gladiator
+- **Fire Blast** -> Dark Lord
+- **Charge** -> Rage Fighter
+- **Clash** -> Grow Lancer
+
+---
+
+## 4. SKILLS DROPADAS EM MAPAS (ONDE DROPAR)
+
+| Habilidade | Tradução | Mapa de Drop | Classe Compatível |
+|---|---|---|---|
+| **Scroll of Cometfall** | Queda do Cometa | Tarkan | DW, MG, RW |
+| **Scroll of Inferno** | Inferno | Atlans 3, Tarkan | DW, MG, RW |
+| **Scroll of Ice Storm** | Tempestade de Gelo | Losttower 7 | Soul Master, Rune Spell Master |
+| **Scroll of Wizardry Enhance** | Aumento da Magia | Ubaid | Soul Master, Rune Spell Master |
+| **Scroll of Decay** | Decadência | Losttower 7 | Soul Master |
+| **Scroll of Nova** | Nova | Losttower 7 | Soul Master |
+| **Crystal of Destruction** | Cristal da Destruição | Ubaid | Blade Knight |
+| **Crystal of Recovery** | Cristal de Recuperação | Ubaid | Muse Elf |
+| **Scroll of Gigantic Storm** | Tempestade Gigantesca | Losttower 7, Icarus | Magic Gladiator |
+| **Scroll of Chaotic Diseier** | Caos | Losttower 7 | Dark Lord |
+| **Scroll of Summon** | Invocação | Kanturu 3, Peace Swamp | Dark Lord |
+| **Perlution Parchment** | Perdição | Icarus | Summoner |
+| **Berserker Parchment** | Berserker | Losttower 7, Tarkan 2 | Summoner |
+| **Innovation Parchment** | Inovação | Losttower 7, Tarkan 2 | Summoner |
+| **Requiem Parchment** | Requiem | Losttower 7, Icarus | Summoner |
+| **Darkness Parchment** | Escuridão | Losttower 7, Icarus | Summoner |
+| **Explosion Parchment** | Explosão | Losttower 7, Icarus | Summoner |
+| **Dark Side Parchment** | Lado Sombrio | Tarkan 2 | Rage Fighter |
+| **Chain Drive Parchment** | Corrente Drive | Tarkan 2 | Rage Fighter |
+| **Ignore Defense Parchment** | Ignorar Defesa | Losttower 7, Atlans | Rage Fighter |
+| **Obsidian Scroll** | Obsidiana | Ubaid | Grow Lancer |
+| **Shining Peak Scroll** | Pico Brilhante | Ubaid | Grow Lancer |
+| **Wrath Scroll** | Ira | Ubaid | Grow Lancer |
+| **Magic Arrow Act** | Seta Mágica | Losttower 7 | Rune Wizard |
+| **Plasma Ball Act** | Bola de Plasma | Icarus | Rune Spell Master |
+| **Burst Act** | Explosão | Tarkan 2 | Rune Spell Master |
+| **Haste Act** | Aceleração | Ubaid | Grand Rune Master |
+| **Sword Inertia Bead** | Inércia da Espada | Devias | Slayer |
+| **Detection Bead** | Detecção | Tarkan | Master Slayer |
+| **Bat Flock Bead** | Bando de Morcegos | Dungeon, Devias | Royal Slayer |
+
+---
+
+## 5. SKILLS COMPRADAS POR RUUD (SACERDOTE JAMES)
+
+As skills de Ruud são as habilidades de maior poder ofensivo no jogo (PvM e PvP).
+- **NPC Vendedor:** **Sacerdote James** em Lorencia (131, 122), Noria (173, 93), Elbeland (32, 238) e Event Square (219, 26).
+
+| Habilidade de Ruud | Tradução | Classe Requerida (Master/Evoluída) |
+|---|---|---|
+| **Scroll of Meteor Strike** | Impacto Meteorítico | Grand Master, Duel Master |
+| **Scroll of Meteor Storm** | Tempestade Meteorítica | Grand Master |
+| **Scroll of Soul Seeker** | Caçador de Almas | Grand Master |
+| **Orb of Fire Blow** | Golpe de Fogo | Blade Master |
+| **Orb of Focus Shot** | Tiro Focado | High Elf |
+| **Orb of Ice Blood / Fire Blood** | Sangue de Gelo / Fogo | Duel Master |
+| **Scroll of Dark Blast** | Explosão Sombria | Duel Master |
+| **Scroll of Wind Soul** | Alma do Vento | Lord Emperor |
+| **Parchment of Fire / Aqua Beast** | Fera de Fogo / Água | Dimension Master |
+| **Death Side Parchment** | Lado da Morte | Dimension Master |
+| **Dark Phoenix Shot Parchment** | Tiro da Fênix Negra | Fist Master |
+| **Spirit Hook Parchment** | Gancho Espiritual | Fist Master |
+| **Lightning Storm Act** | Tempestade de Raios | Rune Grand Master |
+| **Pierce Attack Bead** | Ataque Penetrante | Master Slayer |
+| **Demolish Bead** | Esfera Demolidora | Master Slayer |

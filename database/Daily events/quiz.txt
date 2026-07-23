@@ -1,0 +1,11 @@
+[BASE DE DADOS MEGAMU] - GUIA DO EVENTO QUIZ MEGAMU
+1. CONCEITO GERAL E LORE
+O que é: Durante a guerra contra Lord Silvester, um enigmático Oráculo apareceu, desafiando os jogadores com perguntas gerais. Só quem mostrar sabedoria suficiente será recompensado.
+
+2. COMO PARTICIPAR E REGRAS
+Como Responder: Para participar, digite o comando /r seguido da resposta correta.
+
+Dinâmica: O primeiro a responder certo ganha o prêmio da pergunta.
+
+3. RECOMPENSAS
+MPoints: Serão dados para cada resposta correta.

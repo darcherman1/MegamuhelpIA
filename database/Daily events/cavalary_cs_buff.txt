@@ -1,0 +1,20 @@
+[BASE DE DADOS MEGAMU] - NOVO SISTEMA DE BUFF NO CS (EFICIÊNCIA PROGRESSIVA)
+1. CONCEITO GERAL E FUNCIONAMENTO
+Eficiência Progressiva: O NPC inicia com 0% de eficiência no efeito dos buffs.
+
+Progressão da Eficiência: A eficiência pode ser aumentada matando os cavaleiros que aparecem no mapa de Castle Siege (CS). A cada mob eliminado, a eficiência dos NPCs é incrementada em 1%.
+
+Disponibilidade: Os NPCs ficam disponíveis exclusivamente durante o CS e são de uso exclusivo para membros de guilds atacantes.
+
+Reset da Eficiência: A porcentagem de eficiência é resetada a cada CS com troca de Guild, ou seja, quando uma Guild defensora é destronada do castelo.
+
+2. SPAWN DOS MONSTROS (CAVALEIROS)
+Quantidade e Localização: Aparecem 3 Cavalry Captain próximos em uma posição aleatória fora do castelo.
+
+Tempo para Eliminação: Os jogadores têm 30 minutos para matar os mobs.
+
+Defesa da Guild Dona do Castelo: A guild que atualmente possui o castelo pode defender os mobs através do PvP.
+
+Regra Oficial (Spawns): O spawn oficial ocorre a cada 25 horas, sempre no minuto 0.
+
+Fase de Testes (Observação): Durante a fase de testes, o respawn está ocorrendo a cada hora, e os valores e funcionamento estão sob observação para serem ajustados conforme a necessidade.

@@ -1,0 +1,123 @@
+# SISTEMA COMPLETO DE RUUD E EQUIPAMENTOS MASTERY (SETS E ARMAS)
+
+---
+
+## 1. CONCEITO E REGRAS DA MOEDA RUUD
+- **Natureza:** Moeda não-negociável e intransferível.
+- **Armazenamento:** Saldo visível na parte inferior do inventário (atalho `V`). Não pode ser guardada no baú nem trocada entre jogadores.
+- **Uso:** Utilizada exclusivamente para compras no NPC **Sacerdote James**.
+- **NPC Vendedor (Sacerdote James):** Localizado em **Event Square** ou **Elbeland**.
+
+---
+
+## 2. ONDE FARMAR RUUD (BOSSES PRINCIPAIS)
+
+Os Ruuds são concedidos ao jogador que causar o **maior dano** nos seguintes Bosses:
+1. **Lord Silvester** (Uruk Mountain, via Acheron): **1.000 Ruuds**
+2. **Nix** (Nixie's Lake, via Raklion): **450 Ruuds**
+3. **Core Magriffy** (Nars, via Acheron): **400 Ruuds**
+4. **Lord of Ferea** (Ferea, via Tarkan ou tecla M): **200 Ruuds**
+
+---
+
+## 3. ITENS VENDIDOS PELO SACERDOTE JAMES
+
+- **Partes Desativadas do Set Bloodangel:**
+  - Custo: Verificar no npc, pode mudar de tempos em tempos.
+  - Vende apenas as peças correspondentes à classe do personagem logado.
+  - *Nota de Composição:* A 5ª peça que não é vendida no NPC pode ser obtida derrotando o Boss Nix.
+- **Armas Bloodangel:**
+  - Vem pronta e ativada com no mínimo 2 opcionais Excellent.
+  - Não possui Sockets e nem opção roxa (380), mas aceita opção amarela da Jewel of Harmony.
+- **Materiais de Evolução (Souls, Anvils e Spirits):** Utilizados na Chaos Machine para evoluir Sets e Armas de tier.
+- **Outros Itens:** Sphere Upgrade Rune Capsule, Socket Upgrade Note, Skills de Ruud, Spirit Nixies's Shard x5.
+
+---
+
+## 4. ESTRUTURA DOS SETS MASTERY (EQUIPAMENTO POR CLASSE)
+- **Quantidade de Peças:** Apenas 4 partes ativam o Kit Ancient do Set.
+  - **Magic Gladiator (MG):** Usa 4 peças (Armor, Pants, Gloves, Boots — não possui Helm).
+  - **Demais Classes:** Usam 4 partes de acordo com a distribuição do kit da classe.
+
+---
+
+## 5. HIERARQUIA COMPLETA DE EVOLUÇÃO MASTERY (SETS E ARMAS)
+
+### A) Cadeia de Evolução de Sets:
+$$\text{Bloodangel (Desativado)} \xrightarrow[\text{Ancient Hero's Soul}]{\text{Ativação}} \text{Bloodangel} \xrightarrow[\text{Darkangel Soul}]{\text{Chaos Machine}} \text{Darkangel} \xrightarrow[\text{Holyangel Soul}]{\text{Chaos Machine}} \text{Holyangel} \xrightarrow[\text{Awakening Soul}]{\text{Chaos Machine}} \text{Awakening Soul} \xrightarrow[\text{Cold Marriage}]{\text{Chaos Machine}} \text{Frosty Blue Eye} \xrightarrow[\text{Ancestral Spirit}]{\text{Chaos Machine}} \text{Fleet Silver Heart}$$
+
+### B) Cadeia de Evolução de Armas:
+$$\text{Bloodangel Weapon} \xrightarrow[\text{Darkangel Anvil}]{\text{Chaos Machine}} \text{Darkangel} \xrightarrow[\text{Holyangel Anvil}]{\text{Chaos Machine}} \text{Holyangel} \xrightarrow[\text{Soul Moru}]{\text{Chaos Machine}} \text{Soul Weapon} \xrightarrow[\text{Blue Eye Anvil}]{\text{Chaos Machine}} \text{Blue Eye Weapon} \xrightarrow[\text{Silver Heart Anvil}]{\text{Chaos Machine}} \text{Silver Heart Weapon}$$
+
+---
+
+## 6. REGRAS E RECEITAS DE CRAFT NA CHAOS MACHINE
+
+### Ativação do Set Bloodangel (Desativado -> Ativado):
+1. **Criar Ancient Hero's Soul:**
+   - **Requisito:** 1 parte de Set Ancient (+11 no mínimo) das linhas *Vicious, Hion, Aegis, Anubis, Aruan, Gywen, Gaion, Muren, Broy, Agnis, Semeden, Chrono, Vega, Chamer, Akhir, Carthu, Camill ou Inas*.
+   - **Taxa de Sucesso:** 25% (Free), 30% (VIP), 35% (MEGAVIP).
+2. **Ativar a Peça:**
+   - Misture o **Ancient Hero's Soul** + **Peça Desativada do Bloodangel**.
+   - **Taxa de Sucesso:** **100%** para todas as contas.
+
+---
+
+### Regras de Upgrades Continuos (Darkangel, Holyangel, Awakening, Blue Eye, Silver Heart):
+
+- **Requisitos Obrigatórios do Item Base:**
+  - O Set ou Arma atual deve estar no **mínimo +11**.
+  - Deve possuir **obrigatoriamente a opção de Jewel of Life +16** (não funciona com valor menor ou maior).
+- **Receita Padrão na Chaos Machine:**
+  - **1x Item Base** (+11 e +16 Life)
+  - **1x Insumo Específico da Evolução** (*Soul*, *Anvil* ou *Spirit* correspondente)
+  - **1x Jewel of Chaos**
+  - **1x Jewel of Creation**
+  - **Pack de Jewel of Bless** (10 ou 30)
+  - **Pack de Jewel of Soul** (10 ou 30)
+- **Resultado e Garantias:**
+  - **Taxa de Sucesso:** **100%** para todos os tipos de conta.
+  - **Preservação de Opcionais:** O item evoluído **retorna ao nível +0**, porém **MANTÉM todos os opcionais Excellent e adicionais prévios** (se era Full, continuará Full).
+
+---
+
+## 7. STATUS ANCIENT DOS SETS MASTERY (BLOODANGEL / DARKANGEL / HOLYANGEL)
+
+LEGENDA DOS BÔNUS: `(Status Bloodangel) (Status Darkangel) (Status Holyangel)`
+
+### A) Classes Físicas / Dano (BM, FM, ML, DM, LE):
+- Aumenta dano das skills em **(+25) (+30) (+35)**
+- Aumenta Força em **(+50) (+70) (+90)**
+- Aumenta chance de dano duplo em **(+10%) (+15%) (+18%)**
+- Aumenta dano físico em **(+50) (+75) (+100)**
+- Aumenta chance de dano crítico em **(+15%) (+18%) (+20%)**
+- Aumenta chance de dano excelente em **(+15%) (+18%) (+20%)**
+- Ignora a defesa do inimigo em **(+5%) (+7%) (+9%)**
+- Aumenta todos os status em **(+10) (+15) (+20)**
+- Aumenta a defesa base em **(+20) (+30) (+40)**
+- Aumenta o dano crítico em **(+30) (+35) (+40)**
+- Aumenta o dano excelente em **(+30) (+50) (+70)**
+
+### B) Classes Mágicas / Suporte Mágico (GM, DM Magico):
+- Aumenta dano das skills em **(+25) (+40) (+50)**
+- Aumenta Energia em **(+50) (+70) (+90)**
+- Aumenta chance de dano duplo em **(+10%) (+15%) (+18%)**
+- Aumenta dano mágico em **(+50) (+75) (+100)**
+- Aumenta chance de dano crítico em **(+15%) (+18%) (+20%)**
+- Aumenta chance de dano excelente em **(+15%) (+18%) (+20%)**
+- Ignora a defesa do inimigo em **(+5%) (+7%) (+9%)**
+- Aumenta todos os status em **(+10) (+15) (+20)**
+- Aumenta a defesa base em **(+20) (+40) (+60)**
+- Aumenta o dano crítico em **(+30) (+35) (+40)**
+- Aumenta o dano excelente em **(+30) (+50) (+70)**
+
+### C) High Elf (HE):
+- Aumenta Energia em **(+50) (+70) (+100)**
+- Aumenta opt. DEFESA de Harmony em **(+7%) (+16%) (+35%)**
+- Aumenta opt. DANO de Harmony em **(+7%) (+16%) (+35%)**
+- Aumenta defesa quando usando escudo em **(+7%) (+14%) (+25%)**
+- Aumenta eficiência da skill "Bless" em **(+10) (+20) (+35)**
+- Aumenta defesa em **(+40) (+80) (+150)**
+- Aumenta vida máxima em **(+70) (+150) (+300)**
+- Aumenta todos os status em **(+10) (+15) (+20)**
+- Aumenta a defesa base em **(+40) (+65) (+100)**

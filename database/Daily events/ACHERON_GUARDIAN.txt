@@ -1,0 +1,46 @@
+# [BASE DE DADOS MEGAMU] - GUIA COMPLETO DO EVENTO ARCA WAR (ACHERON GUARDIAN)
+
+* **Link de Referência (Fórum MEGAMU):** [https://megamu.net/forum/showthread.php?tid=7605](https://megamu.net/forum/showthread.php?tid=7605)
+
+---
+
+## 1. CONCEITO GERAL E MECÂNICA
+
+* **O que é:** O **Arca War** (também conhecido como *Acheron Guardian*) é um evento onde guilds se enfrentam competitivamente para dominar os obeliscos espalhados por Acheron.
+* **Os Obeliscos:** Possuem elementos aleatórios (*Darkness, Wind, Fire, Water, Earth*) e contam com **3 barreiras protetoras** que precisam ser desativadas ao mesmo tempo pelos membros da guild.
+
+---
+
+## 2. COMO PARTICIPAR E REGISTRO DE GUILDS
+
+* **NPC de Registro:** Registre-se com o NPC **"Sir Lesnar"**, localizado nas seguintes coordenadas:
+* **Lorencia:** `114,132` (ou `113,131`)
+* **Noria:** `183,126`
+* **Devias:** `240,53`
+
+
+* **Requisitos de Inscrição:**
+* É preciso registrar pelo menos **10 Sign of Lords** e ter no mínimo **10 membros** cadastrados por guild.
+* O limite máximo é de **20 membros por guild**.
+* **Vagas:** Apenas **6 guilds** podem participar. Caso alguma guild tenha menos de 10 membros registrados, ela será desclassificada.
+
+
+
+---
+
+## 3. ENTRADA NO EVENTO E LOCALIZAÇÃO DO OBELISCO
+
+* **Como Entrar:** No horário do evento, vá até o NPC Sir Lesnar em Lorencia e selecione a opção **6 (Entrar como protetor de Acheron)** para ser levado a *Acheron Town*.
+* **Onde o Obelisco Nasce:** O obelisco vai nascer em um dos seguintes mapas de Acheron de forma aleatória:
+* **Alcmaru**
+* **Ubaid**
+* **Debenter**
+
+
+
+---
+
+## 4. RECOMPENSAS
+
+* **Destruição do Obelisco:** Quem conseguir destruir o obelisco recebe de **300 a 500 Ruud** mais **2 Jóias sem dono**.
+* **Troféus PvP:** Troféus de Guerra (*Trophy of War*) adquiridos no PvP do evento podem ser trocados por vários itens diretamente com o NPC **Sir Lesnar**.

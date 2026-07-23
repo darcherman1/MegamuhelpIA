@@ -1,0 +1,52 @@
+[BASE DE DADOS MEGAMU] - GUIA COMPLETO DO EVENTO BATTLE ROYALE
+Vídeos e Links de Referência:
+
+MEGAMU - Evento Battle Royale Como Funciona (Gabriel Faro): https://www.youtube.com/watch?v=iMJm4ZsWYRE
+
+MEGAMU - Evento Battle Royale (SrWins): https://www.youtube.com/watch?v=7BPicVuSXsE
+
+1. CONCEITO GERAL E DURAÇÃO
+O que é: Um evento exclusivo onde os jogadores são enviados para uma região limitada de um mapa aleatório, iniciando com status zerados e evoluindo enquanto sobrevivem em meio ao PvP.
+
+Condição de Vitória: Vencem os jogadores que conseguirem sobreviver até o final.
+
+Duração: O evento possui 3 minutos para entrada e 8 minutos de batalha.
+
+2. SISTEMA DE VIDAS E ENTRADA
+Vidas: Cada jogador pode morrer até 5 vezes, renascendo a cada morte em um local aleatório do evento (com os pontos de status sendo resetados para redistribuição).
+
+Como Entrar: Digite o comando /br durante o período de entrada.
+
+Reposicionamento na Entrada: O comando pode ser repetido durante o tempo de entrada para que o jogador receba uma nova posição no mapa.
+
+3. ÁREA DO EVENTO E REDUÇÃO
+Formato e Limites: A área possui formato circular, envolvendo inicialmente todo o mapa e reduzindo de tamanho conforme o evento avança.
+
+Identificação: Os limites da área são sinalizados por uma barreira de estátuas, e o status completo (incluindo a localização do personagem no mapa) é informado no dashboard.
+
+Fuga da Área Permitida: Ao cruzar os limites da área segura, o jogador tem 8 segundos para retornar; caso contrário, é removido do evento (o tempo limite para voltar é exibido no centro da tela).
+
+4. MOBS DE UP, PARTYS E ROUBO DE PONTOS
+Tipos de Mobs: No local do evento encontram-se dois tipos de monstros para up: Shadow e Poison Shadow.
+
+Recompensa por Abate:
+
+Shadow: Concede 200 pontos para distribuir nos status ao ser derrotado.
+
+Poison Shadow (mais forte): Concede 2000 pontos de status ao ser derrotado.
+
+Vantagem em Party: Quando os jogadores formam uma party, os pontos conquistados são repartidos com um bônus extra, facilitando o crescimento rápido de todos os membros (mesmo estando distantes no mapa).
+
+Roubo de Pontos (PvP): Ao matar outro player, o assassino rouba 10% dos pontos de status da vítima.
+
+Dica de Distribuição: Recomenda-se o uso de comandos automáticos de distribuição de status (ex: /auto) logo no início para garantir os requisitos de skills e dano inicial (como focar em ataque speed/pendant para matar os mobs mais rápido).
+
+5. NPCS DE BUFF
+Funcionamento: Estão presentes na região do evento para conceder buffs de dano aos jogadores que ficarem próximos a eles.
+
+Carga Máxima: É necessário aguardar um tempo para que o buff atinja sua força máxima, sendo o status do carregamento exibido diretamente no NPC.
+
+6. PREMIAÇÕES
+Premiação por Participação (Mobs): Os monstros do evento possuem 30% de chance de dropar de 10 a 50 ruuds.
+
+Premiação Final (Sobreviventes): Os jogadores que conseguirem sobreviver até o final repartem um total de 3000 ruuds.

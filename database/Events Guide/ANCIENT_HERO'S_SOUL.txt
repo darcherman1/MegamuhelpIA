@@ -1,0 +1,88 @@
+# CRAFT DE ITENS: ANCIENT HERO'S SOUL (INSUMO BLOODANGEL)
+
+- Link Original (PT-BR): https://megamu.net/forum/showthread.php?tid=11001
+- Link em Espanhol (ES): https://megamu.net/forum/showthread.php?tid=17660
+- Link em Inglês (EN): https://megamu.net/forum/showthread.php?tid=17661
+- Link em Chinês (ZH): https://megamu.net/forum/showthread.php?tid=17662
+- Link em Vietnamita (VI): https://megamu.net/forum/showthread.php?tid=17663
+
+---
+
+## PARA QUE SERVE O ANCIENT HERO'S SOUL?
+- É o item essencial utilizado na Chaos Machine para remover os selos dos equipamentos e armas da categoria **BloodAngel** (Sets Mastery de 4ª/3ª Classe).
+
+---
+
+## 1º PASSO: ONDE OBTER ITENS ANCIENT
+
+Os itens Anciões (Ancient) necessários podem ser obtidos das seguintes formas:
+
+### Eventos do Jogo:
+- Blood Castle *(Dica para novatos: Evento sem PvP, ideal para farm tranquilo)*
+- Chaos Castle
+- Golden Evolution Crywolf
+- Dark Evolution
+- Fuga Das Galinhas
+- Castle Siege
+- Arka War
+- Leilão de Boss
+- Illusion Temple
+- Ice Temple
+
+### Bosses e Spawns:
+- Drop dos Bosses **Kundun** e **Erohim**.
+- Spawns aleatórios de bosses no mapa de **Crywolf** ao longo do dia.
+
+### Lives e Comunidade Twitch:
+- Sorteios de **Red Chocolate Box** (concede 1 item Ancient aleatório) em transmissões de streamers parceiros.
+- Live oficial do MEGAMU na Twitch (`https://www.twitch.tv/megamuoficial`) toda segunda-feira às 20h (Horário de Brasília).
+
+---
+
+## 2º PASSO: ITENS ANCIENT ACEITOS NO CRAFT
+
+Diferente de outras combinações, a criação do Ancient Hero's Soul aceita **apenas** os seguintes conjuntos de itens Ancient:
+
+- **Vicious** ou **Hion**
+- **Aegis** ou **Anubis**
+- **Gaion** ou **Muren**
+- **Broy** ou **Agnes**
+- **Semeden** ou **Crono**
+- **Vega** ou **Chamer**
+- **Akhir** ou **Carthy**
+- **Camill** ou **Inas**
+- **Arkadin** ou **Emile**
+- **Vesper** ou **Moloso**
+
+---
+
+## 3º PASSO: PREPARAÇÃO DO ITEM E CRAFT NA CHAOS MACHINE
+
+### Requisitos Obrigatórios do Item Ancient:
+1. O item Ancient aceito deve ser refinado até **+11** (use Jewel of Bless, Soul e Chaos Machine).
+2. O item Ancient deve possuir o adicional de Life em **+16** (use Jewel of Life).
+
+### Procedimento na Chaos Machine:
+1. Vá até **Noria** e abra a **Chaos Machine** nas coordenadas **(180, 102)**.
+2. Selecione a opção **"Outras Combinações"** no menu da máquina.
+3. Coloque o item Ancient (+11 e +16 de Life).
+4. Clique em **Craftar**.
+
+### Resultado:
+- Em caso de **falha**: O item Ancient é destruído.
+- Em caso de **sucesso**: O **Ancient Hero's Soul** é gerado.
+
+---
+
+## ALTERNATIVA DE OBTENÇÃO (DROP DIRETO)
+- O Ancient Hero's Soul também pode dropado diretamente do Boss **Lord Ferea** (porém com uma taxa de drop extremamente baixa).
+
+---
+
+## TAXAS DE SUCESSO DA CHAOS MACHINE (SERVER MEGAMU)
+
+A porcentagem informada na interface original do jogo difere da taxa real aplicada pelo servidor MEGAMU:
+
+| Combinação | Taxa Máxima (Normal) | Taxa Máxima (VIP) | Taxa Máxima (MEGAVIP) |
+|---|---|---|---|
+| **Ancient Hero's Soul** | 25% | 30% | 35% |

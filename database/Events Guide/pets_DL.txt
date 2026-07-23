@@ -1,0 +1,52 @@
+# PETS DO DARK LORD (DL): CRAFT DO CAVALO (DARK HORSE) E CORVO (DARK SPIRIT)
+
+- Fonte/Link Original: https://megamu.net/forum/showthread.php?tid=16744
+
+---
+
+## LOCALIZAÇÃO DO NPC DE CRAFT
+- NPC responsável: Trainer
+- Localização: Lorencia (Coordenadas: 122, 111)
+- Opção do Menu: "Ressuscitar Guardião"
+
+---
+
+## RECEITAS DE CRAFT E ITENS NECESSÁRIOS
+
+### 1. Receita do Cavalo (Dark Horse / Dark Horse Spirit)
+- 1 Spirit of Dark Horse
+- 5 Jewels of Bless
+- 5 Jewels of Soul
+- 1 Jewel of Creation
+- 1 Jewel of Chaos
+
+### 2. Receita do Corvo (Dark Spirit / Dark Raven Spirit)
+- 1 Spirit of Dark Spirit
+- 5 Jewels of Bless
+- 5 Jewels of Soul
+- 1 Jewel of Creation
+- 1 Jewel of Chaos
+
+---
+
+## ONDE DROPAR OS ESPÍRITOS (SPIRIT OF DARK HORSE / SPIRIT OF DARK SPIRIT)
+- Regra de Drop: Dropam em quase todos os mapas do jogo.
+- Melhores Mapas Recomendados para Farm:
+  - Devias
+  - Lost Tower 2, Lost Tower 3 e Lost Tower 7
+  - Arena - todos os mobs
+
+---
+
+## PASSO A PASSO DO PROCEDIMENTO DE CRAFT
+1. Vá até Lorencia nas coordenadas (122, 111) e abra o menu do NPC Trainer.
+2. Selecione a opção "Ressuscitar Guardião".
+3. Coloque ou selecione o pet que deseja criar (Cavalo ou Corvo).
+4. Verifique se possui todos os itens necessários (Espírito + Joias) no seu inventário.
+5. Clique no botão "Criar".
+6. Se o procedimento for bem-sucedido, o pet (Dark Horse ou Dark Spirit) será enviado diretamente para o seu inventário.
+
+---
+
+## OBSERVAÇÃO IMPORTANTE SOBRE A TAXA DE SUCESSO
+- Porcentagem de Sucesso: A taxa de porcentagem de sucesso exibida no painel do jogo pode não corresponder exatamente à taxa aplicada internamente pelo servidor MEGAMU.

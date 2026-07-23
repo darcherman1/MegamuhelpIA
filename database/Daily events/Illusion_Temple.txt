@@ -1,0 +1,102 @@
+# EVENTO COMPLEMENTAR: ILLUSION TEMPLE (GUIA E RANKING)
+
+tema em espanhol : https://megamu.net/forum/showthread.php?tid=16482
+topic in English : https://megamu.net/forum/showthread.php?tid=16483
+中文主题 : https://megamu.net/forum/showthread.php?tid=16484
+chủ đề trong tiếng Việt : https://megamu.net/forum/showthread.php?tid=16516
+
+---
+
+## 1. O QUE É O ILLUSION TEMPLE
+- O Illusion Temple é um evento competitivo PvP/PvE no estilo "Capture a Bandeira", disputado entre dois times de até 5 jogadores (Time Amarelo vs Time Azul).
+- Objetivo Principal: Conquistar o artefato sagrado no centro do mapa e entregá-lo em uma das bases do seu time enquanto enfrenta o time adversário e os mobs do percurso.
+
+---
+
+## 2. SISTEMA DE RANKING (/rank)
+- O evento possui um ranking exclusivo que determina a categoria do jogador e suas premiações.
+- Comando para verificar status: Digite `/rank` no chat.
+- Pontuação de Score:
+  - Vitória: +3 Pontos
+  - Derrota: -2 Pontos
+  - Abandono: -5 Pontos
+
+### Tabela de Ranks por Score:
+- **Rank 1:** 0 a 9 Score
+- **Rank 2:** 10 a 19 Score
+- **Rank 3:** 20 a 39 Score
+- **Rank 4:** 40 a 99 Score
+- **Rank 5:** 100 a 200 Score
+
+---
+
+## 3. COMO ACESSAR O EVENTO (OLD SCROLL E NPC MIRAGE)
+- Item de Acesso: É necessário ter o item **Old Scroll** no inventário.
+- Como conseguir o Old Scroll: Dropa de um mob especial de Illusion que respawna a cada 90 minutos em todos os mapas (1 mob por mapa).
+- Mover para o NPC Mirage:
+  - Teclado (PC): Pressione M e selecione 'Illusion Temple'.
+  - Mobile: Ícone Geral (canto superior direito do MEGAHELPER) -> Opção de Mapas -> 'Illusion Temple'.
+  - Comandos: `/m illusion` ou `/automove illusion`.
+- Regra de Entrada: É necessário ter o rank adequado. Se não tiver, o jogador é movido automaticamente para Event Square ao respawnar no NPC.
+- Área de Espera: Mínimo de 4 jogadores e máximo de 10 jogadores por sala.
+
+---
+
+## 4. DINÂMICA DO EVENTO E ARTEFATO
+1. Ao iniciar o evento (alerta de 'Start'), vá até o centro do mapa e clique no NPC **Stone Statue**.
+2. É necessário aguardar 15 segundos vulnerável a ataques inimigos para liberar o artefato **Cursed Castle Water**.
+3. Efeito do Artefato: Ao carregar o artefato, o personagem sofre um debuff de velocidade de movimento.
+4. Entrega do Artefato: Leve o artefato até a base do seu time e clique. Uma contagem de 15 segundos vulnerável iniciará para validar a entrega.
+
+---
+
+## 5. MOBS DO PERCURSO
+Durante o trajeto até a base, surgem mobs que atrapalham os jogadores:
+- **Illusion Sorcerer Spirit (Atordoamento):** Habilidade de atordoar o inimigo (paralisia curta).
+- **Illusion Sorcerer Spirit (Congelamento):** Habilidade de congelar o inimigo (paralisia curta).
+- **Illusion Sorcerer Spirit (Raio):** Dispara feixe elétrico que empurra o inimigo para outra direção.
+
+---
+
+## 6. PONTUAÇÃO DE KILLS E HABILIDADES EXCLUSIVAS
+- Matar Mobs: Ganha 2 pontos + chance de dropar Stardust (>190 resets) ou Ruud (<190 resets).
+- Matar Jogadores: Ganha 5 pontos + chance de dropar Stardust (>190 resets) ou Ruud (<190 resets).
+- Requisito de Uso: Necessário ter no mínimo **90 pontos de mortes** para ativar as habilidades.
+- Comandos/Atalhos: Teclas A, B, D, F para selecionar, e `Shift + Botão Direito do Mouse` para ativar.
+
+### Tabela de Habilidades Exclusivas:
+- **Spell of Protection:** Cria escudo temporário que absorve 100% do dano | Mana: 30 | Cooldown: 5s | Custo: 50 Kill Points | Duração: 15s.
+- **Spell of Restriction:** Paralisa o inimigo temporariamente | Mana: 30 | Cooldown: 5s | Custo: 50 Kill Points | Duração: 15s.
+- **Spell of Pursuit:** Teletransporta você diretamente para a posição de quem está com a Relíquia Sagrada | Mana: 30 | Cooldown: 10s | Custo: 50 Kill Points.
+- **Shield Burn:** Reduz em 50% o valor atual do escudo (SD) do alvo | Mana: 30 | Cooldown: 5s | Custo: 50 Kill Points.
+
+---
+
+## 7. CRITÉRIOS DE VITÓRIA
+- Objetivo do evento: Atingir 5 pontos.
+- **REGRA CRÍTICA:** Para validar a vitória, a equipe OBRIGATORIAMENTE precisa ter feito pelo menos 1 ponto entregando o artefato. Se o time fizer 0 pontos de artefato, ele NÃO VENCE mesmo se tiver mais kills.
+- Critério de Desempate: Se houver empate nos pontos de artefato, vence a equipe que tiver a maior pontuação por eliminação de mobs/jogadores.
+
+---
+
+## 8. PREMIAÇÕES POR RANK
+
+### Tabela de Premiação Fixa e Drops Extras:
+- **Rank 1:** Jarro + Drop + 100 Ruuds + 100 MPs | Drop Jarro Extra: 10% | Drop Extra: 0%
+- **Rank 2:** Jarro + Drop + 200 Ruuds + 200 MPs | Drop Jarro Extra: 20% | Drop Extra: 2%
+- **Rank 3:** Jarro + Drop + 300 Ruuds + 300 MPs | Drop Jarro Extra: 40% | Drop Extra: 5%
+- **Rank 4:** Jarro + Drop + 400 Ruuds + 400 MPs + 200 Hunts Ativo | Drop Jarro Extra: 60% | Drop Extra: 10%
+- **Rank 5:** Jarro + Drop + 500 Ruuds + 500 MPs + 500 Hunts Ativo | Drop Jarro Extra: 80% | Drop Extra: 15%
+
+### Tabela de Opções de Drop:
+- **Drop Normal (2 por jogador):** Jewel of Bless, Jewel of Soul, Bênção 50%, Bênção 100%.
+- **Drop Extra (Sem dono):** Garuda Flame, 10x Bless of Light Greater, Horn of Fenrir, Steel of Heaven.
+- Resgate do Jarro: Pressione a tecla 'K' (PC) ou acesse Menu -> Recompensas (Mobile) para retirar o Jarro na Caixa de Resgate.
+
+---
+
+## 9. SISTEMA ANTI-AFK E ANTI-JOGO
+- Limite Inativo: Máximo de 50 segundos sem movimentação.
+- Punição Automática: O personagem é removido do evento automaticamente se estourar o tempo.
+- Alertas: Avisos aparecem na tela antes da remoção.
+- Anti-Jogo: Práticas maliciosas de prejudicar a equipe estão sujeitas a punições que variam de banimento de 1 dia até banimento permanente.

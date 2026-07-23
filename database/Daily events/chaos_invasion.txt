@@ -1,0 +1,37 @@
+# [BASE DE DADOS MEGAMU] - GUIA COMPLETO DO EVENTO CHAOS INVASION
+
+- **Vídeos de Referência:**
+  - Guia para Iniciantes (Chaos Invasion): https://www.youtube.com/watch?v=nbZXCO-3_eA
+  - Tutorial Chaos Invasion (Atualizado S XV): https://www.youtube.com/watch?v=8zS-AX-E1ig
+
+---
+
+## 1. CONCEITO GERAL E LOCALIZAÇÃO
+* **O que é:** O **Chaos Invasion** é um evento periódico focado em farm de itens de suporte úteis para o desenvolvimento e up de personagens, sendo excelente para iniciantes e veteranos.
+* **Onde acontece:** No mapa da guerra do Castelo (*Castle Siege*).
+* **Como chegar:** Utilize o comando `/mcs` ou abra o mapa com a tecla **M** e selecione a opção **Castel** (Castle Siege).
+* **Área de PvP Ativo:** Diferente de eventos puramente PvE, o Chaos Invasion é uma **área de PvP**. O confronto entre membros de alianças e guildas rivais é comum, o que torna altamente recomendável ir acompanhado de amigos/guilda ou em grupo (PT) para garantir proteção enquanto fatura os itens.
+
+---
+
+## 2. MECÂNICA DE ACESSO AO INTERIOR DO CASTELO
+* **Portões Fechados:** Geralmente, os portões do castelo pertencentes à guilda dominante ficam fechados para jogadores de fora.
+* **Estratégia de Entrada (Party):** Para conseguir acessar a parte interna (onde a densidade de monstros é maior e, consequentemente, a chance de drop é superior), utilize a dinâmica de party: peça para um membro do seu grupo que já esteja posicionado ou com acesso ao lado de dentro usar o comando de puxar/teleportar ou fique bem rente ao portão para que o sistema de PT ajude na mobilidade.
+
+---
+
+## 3. PREMIAÇÕES E ITENS OBTIDOS
+Ao derrotar as hordas de monstros que invadem o castelo durante o evento, os jogadores podem obter:
+
+* **Brown Panda Ring (Brav Panda):**
+  * **Validade:** 24 horas.
+  * **Regra Importante:** O Brown Panda **não pode ser negociado** (não é tradable/passável por comércio ou baú). Cada jogador precisa conquistar o seu próprio participando do evento.
+  * **Vantagens de XP:** Oferece bônus substanciais de experiência e zen na barra, potencializando o rendimento do up diário quando combinado com outros pets de suporte.
+* **Bless of Light (Bênçãos de XP):**
+  * Itens de suporte que dropam nas versões de **50%** e **100%**.
+  * Aumentam temporariamente o ganho de experiência. Personagens mais avançados costumam configurar o MegaHelper para o consumo automático dessas bênçãos em ciclos de reset.
+
+---
+
+## 4. DICA TÁTICA
+* **Trabalho em Equipe:** Como o mapa envolve disputa e combate entre players, a formação de uma PT defensiva é ideal: enquanto alguns membros focam em abater os monstros e coletar os drops (Brown Panda e bênçãos), outros dão suporte no PvP para afastar competidores rivais da área de respawn.

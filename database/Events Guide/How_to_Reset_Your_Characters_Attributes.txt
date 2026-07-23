@@ -1,0 +1,57 @@
+# GUIA COMPLETO: REDEFINIR ATRIBUTOS BASE, ÁRVORE DE TALENTOS E SKILL ENHANCEMENT
+
+- Link em Português (PT-BR): https://megamu.net/forum/showthread.php?tid=17523
+- Link em Espanhol (ES): https://megamu.net/forum/showthread.php?tid=17651
+- Link em Inglês (EN): https://megamu.net/forum/showthread.php?tid=17650
+- Link em Chinês (ZH): https://megamu.net/forum/showthread.php?tid=17652
+- Link em Vietnamita (VI): https://megamu.net/forum/showthread.php?tid=17653
+
+---
+
+## 1º PASSO: REDEFINIÇÃO DE ATRIBUTOS BASE
+
+Os atributos base do personagem (Força, Agilidade, Vitalidade, Energia e Comando) podem ser redefinidos através de 4 métodos:
+
+### Método 1: Pelo Jogo (Comando Generico)
+- **Como usar:** Digite o comando `/rebuild` no chat do jogo em qualquer servidor.
+- **Elegibilidade:** Disponível para **todas as categorias de conta** (Free, VIP e MEGAVIP).
+
+### Método 2: Pelo Jogo (Comando Servidor 1)
+- **Como usar:** Digite o comando `/br` no chat enquanto estiver conectado no **Servidor 1**.
+
+### Método 3: Pelo Jogo (Interface de Personagem - Tecla C)
+- **Como usar:** Pressione a tecla **C** (no PC) para abrir a janela do personagem e clique no ícone/botão de redefinição localizado perto do ícone vermelho na parte inferior da interface.
+
+### Método 4: Pelo Site Oficial (Exclusivo VIP/MEGAVIP)
+1. **Requisito Obligatório:** A conta deve estar **completamente desconectada do jogo**.
+2. Faça login no site do MEGAMU, clique no seu apelido no canto superior direito e selecione **"Minha Conta"**.
+3. Na lista de personagens vinculados, localize o personagem desejado e clique em **"Redistribuir pontos (VIP)"**.
+4. Conconecte no jogo novamente para redistribuir os pontos liberados.
+
+---
+
+## 2º PASSO: ÁRVORE DE TALENTOS (SKILL TREE)
+
+A Árvore de Talentos **não pode** ser redefinida por comandos ou pelo site. Ela exige o uso dos itens **Scroll of Oblivion** (Pergaminho do Esquecimento).
+
+### Tipos de Pergaminhos e Suas Funções:
+
+| Item em Inglês | Tradução | Função no Jogo | Custo em Ruud |
+|---|---|---|---|
+| **Scroll of Green Oblivion** | Pergaminho Verde do Esquecimento | Redefine os pontos da aba **Bravura** | 1.000 Ruud |
+| **Scroll of Blue Oblivion** | Pergaminho Azul do Esquecimento | Redefine os pontos da aba **Justiça** | 1.000 Ruud |
+| **Scroll of Red Oblivion** | Pergaminho Vermelho do Esquecimento | Redefine os pontos da aba **Conquista** | 1.000 Ruud |
+| **Scroll of Gray Oblivion** | Pergaminho Cinza do Esquecimento | **Redefine TODOS os pontos** da Árvore de Talentos (todas as abas) | 2.000 Ruud |
+
+### Localização do NPC de Venda (Sacerdote James):
+Os pergaminhos são vendidos pelo NPC **James** nos seguintes mapas:
+- **Lorencia:** Coordenadas (131, 122)
+- **Noria:** Coordenadas (173, 93)
+- **Elbeland:** Coordenadas (32, 238)
+- **Event Square (Free / VIP):** Coordenadas (219, 26)
+
+---
+
+## 3º PASSO: APRIMORAMENTO DE HABILIDADES (SKILL ENHANCEMENT)
+
+- Para redefinir completamente a aba de **Aprimoramento de Habilidades** (Skill Enhancement de 4ª classe), utilize o **Scroll of Gray Oblivion** (Pergaminho Cinza do Esquecimento), comprado por 2.000 Ruud no NPC James.

@@ -1,0 +1,76 @@
+# BOT OFICIAL: GUIA COMPLETO DO MEGAHELPER (PC E MOBILE)
+
+- Fonte/Link Original (PT-BR): https://megamu.net/forum/showthread.php?tid=15206
+- Link em Espanhol (ES): https://megamu.net/forum/showthread.php?tid=15204
+- Link em Vietnamita (VI): https://megamu.net/forum/showthread.php?tid=15205
+- Link em Chinês (ZH): https://megamu.net/forum/showthread.php?tid=15207
+- Link em Inglês (EN): https://megamu.net/forum/showthread.php?tid=15206
+
+---
+
+## COMO ABRIR O MEGAHELPER
+- **No PC:** Pressione a tecla **Z** do teclado ou clique no ícone de engrenagem no canto superior esquerdo da tela.
+- **No Mobile:** Toque no ícone de engrenagem no canto superior esquerdo (localizado acima da barra de HP/vida).
+
+---
+
+## 1. ABA "ATAQUE" (CONFIGURAÇÃO DE COMBATE)
+
+### Alcance:
+- **Alcance de Ataque (1 a 8):** Define a distância máxima em que o personagem irá buscar e atacar os alvos. Se o inimigo estiver além dessa distância, o personagem não se moverá até ele.
+
+### Configurações de Ataque e Posição:
+- **Corpo a corpo:** Foca em ataques de combate físico de curta distância.
+- **Concentrado:** Foca o dano em um único inimigo por vez em vez de dispersar ataques entre múltiplos alvos.
+- **Curta distância / Longa distância:** Ativa o comportamento de combate para curta ou longa distância dependendo da classe.
+- **Party:** Define se o personagem usará habilidades de suporte em membros do grupo (party) e o tempo de recarga entre essas habilidades.
+- **Cura (Classe ELF):** Ativa o uso de cura automática para a classe Elf/Muse Elf/High Elf.
+- **Voltar para a posição:** Define o tempo (em segundos) para o personagem retornar ao ponto inicial de spawn caso se afaste perseguindo monstros.
+
+### Habilidades (Skills de Dano):
+- **Habilidade Básica:** Seleciona a skill principal de ataque.
+- **Habilidade Secundária:** Adiciona uma segunda skill com regras de intervalo de tempo e condições de ativação.
+
+### Buffs e Consumíveis:
+- **Skill de Buffs:** Seleciona e adiciona as habilidades de buff do personagem para renovação automática.
+- **Itens de Buffs:** Seleciona e adiciona consumíveis/poções de buff temporário do inventário.
+
+---
+
+## 2. ABA "PEGAR" (COLETA E PICK LIST DE ITENS)
+
+### Alcance de Coleta:
+- **Alcance (1 a 8):** Define o raio de busca de itens no chão. Recomenda-se deixar no valor máximo (8) para garantir a coleta total ao redor do spot.
+
+### Opções Gerais de Coleta:
+- **Pegar todos os itens:** Coleta absolutamente tudo o que dropar no chão dentro do alcance.
+- **Pegar itens selecionados (Filtros padrão):**
+  - **Joias:** Coleta todas as joias (Jewel of Bless, Soul, Chaos, Life, Creation, etc.).
+  - **Zen:** Coleta moedas de Zen.
+  - **Item Ancient:** Coleta itens anciões (Ancients).
+  - **Item Excellent:** Coleta equipamentos com opcionais excelentes.
+  - **Itens de Evento:** Coleta itens de entrada ou drops de eventos ativos.
+
+### Lista de Itens Específicos (Pick List Customizada):
+- Permite adicionar itens específicos digitando o nome exato do item (exemplo: `Devil's Eye`, `Old Scroll`, `Spirit of Dark Horse`).
+- **Como adicionar:** Digite o nome do item e clique no botão `+`.
+- **Como remover:** Clique no sinal `X` ao lado do item cadastrado na lista.
+
+---
+
+## 3. ABA "EXTRA" (AUTOMAÇÕES E MANUTENÇÃO)
+
+### Automações de Interação:
+- **Aceitar Convite de Amizade:** Aceita solicitações de amizade de outros jogadores automaticamente.
+- **Aceitar Solicitação de Guild:** Aceita convites para entrar em Party vindos de membros do mesmo Clã/Guild automaticamente.
+
+### Manutenção do Personagem e Pets:
+- **Usar Poções de Elite:** Ativa o consumo automático de poções de elite para regeneração rápida de HP/Mana.
+- **Reparar o Equipamento:** Repara o durabilidade das armas e armaduras automaticamente para evitar perda de atributos.
+- **Curar Pets e Guardiões:** Cura e recupera a vida de pets e guardiões equipados (ex: Uniria, Dinorant, Fenrir, Dark Horse, etc.).
+
+---
+
+## CONTROLES DO MENU
+- **Resetar:** Restaura todas as configurações do MEGAHELPER para o padrão original.
+- **Salvar:** Aplica e salva todas as alterações configuradas nas abas.

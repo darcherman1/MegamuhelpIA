@@ -1,0 +1,402 @@
+# DROPS COMPLETO: MAPAS, MOBS, BOXES E EVENTOS DOS ITENS QUEST
+
+---
+
+## 1. SETS DE ARMADURA (EQUIPAMENTOS)
+
+### Set Ashcrow
+- **Helm, Armor, Gloves, Pants e Boots:**
+  - **Boxes:** Silver Box, Golden Box, Box of Kundun +4.
+
+---
+
+### Set Eclipse
+- **Helm, Armor, Gloves, Pants e Boots:**
+  - **Boxes:** Silver Box, Golden Box, Box of Kundun +4.
+
+---
+
+### Set Dark Phoenix
+- **Helm:**
+  - **Mapas:** Arena, ArenaVIP, Kanturu.
+  - **Mobs:** Kentauros.
+  - **Boxes:** Golden Box, Box of Kundun +3.
+- **Armor:**
+  - **Mapas:** Arena, ArenaVIP, Kanturu.
+  - **Mobs:** Kentauros.
+  - **Boxes:** Golden Box, Box of Kundun +3.
+- **Gloves:**
+  - **Mapas:** Arena, ArenaVIP, Kanturu.
+  - **Mobs:** Blade Hunter.
+  - **Boxes:** Golden Box, Box of Kundun +3.
+- **Pants:**
+  - **Mapas:** Arena, ArenaVIP, Kanturu.
+  - **Mobs:** Kentauros.
+  - **Boxes:** Golden Box, Box of Kundun +3.
+- **Boots:**
+  - **Mapas:** Arena, ArenaVIP, Kanturu.
+  - **Mobs:** Kentauros.
+  - **Boxes:** Golden Box, Box of Kundun +3.
+
+---
+
+### Set Grand Soul
+- **Helm:**
+  - **Mapas:** Arena, ArenaVIP, Kanturu.
+  - **Mobs:** Satyros.
+  - **Boxes:** Golden Box, Box of Kundun +3.
+- **Armor:**
+  - **Mapas:** Arena, ArenaVIP, Kanturu.
+  - **Mobs:** Kentauros.
+  - **Boxes:** Golden Box, Box of Kundun +3.
+- **Gloves:**
+  - **Mapas:** Arena, ArenaVIP.
+  - **Mobs:** Chaos Castle.
+  - **Boxes:** Golden Box, Box of Kundun +3.
+- **Pants:**
+  - **Mapas:** Arena, ArenaVIP, Kanturu.
+  - **Mobs:** Blade Hunter.
+  - **Boxes:** Golden Box, Box of Kundun +3.
+- **Boots:**
+  - **Mapas:** Arena, ArenaVIP, Aida.
+  - **Mobs:** Forest Orc.
+  - **Boxes:** Golden Box, Box of Kundun +3.
+
+---
+
+### Set Black Dragon
+- **Helm:**
+  - **Mapas:** Arena, ArenaVIP, Kanturu, Tarkan.
+  - **Mobs:** Tantalos, Iron Wheel, Iron Rider.
+  - **Boxes:** Silver Box, Golden Box, Box of Kundun +5.
+- **Armor:**
+  - **Mapas:** Arena.
+  - **Mobs:** Magic Skeleton.
+  - **Boxes:** Silver Box, Golden Box, Box of Kundun +5.
+- **Gloves:**
+  - **Mapas:** Tarkan.
+  - **Mobs:** Iron Wheel.
+  - **Boxes:** Silver Box, Golden Box, Box of Kundun +5.
+- **Pants:**
+  - **Mapas:** Arena, Tarkan 2.
+  - **Mobs:** Tantalos.
+  - **Boxes:** Silver Box, Golden Box, Box of Kundun +5.
+- **Boots:**
+  - **Mapas:** Tarkan, Kanturu.
+  - **Mobs:** Iron Wheel, Bloody Wolf, Iron Rider.
+  - **Boxes:** Silver Box, Golden Box, Box of Kundun +5.
+
+---
+
+### Set Holy Spirit
+- **Helm:**
+  - **Mapas:** Arena, ArenaVIP, Kanturu.
+  - **Mobs:** Chief Skeleton Warrior, Blade Hunter.
+  - **Boxes:** Golden Box, Box of Kundun +4.
+- **Armor:**
+  - **Mapas:** Arena, ArenaVIP, Kanturu.
+  - **Mobs:** Magic Skeleton, Kentauros.
+  - **Boxes:** Golden Box, Box of Kundun +4.
+- **Gloves:**
+  - **Mapas:** Arena, Icarus.
+  - **Mobs:** Alquamos.
+  - **Boxes:** Golden Box, Box of Kundun +4.
+- **Pants:**
+  - **Mapas:** Arena, ArenaVIP, Kanturu.
+  - **Mobs:** Blade Hunter.
+  - **Boxes:** Golden Box, Box of Kundun +4.
+- **Boots:**
+  - **Mapas:** Arena, ArenaVIP.
+  - **Mobs:** Chief Skeleton Warrior.
+  - **Boxes:** Golden Box, Box of Kundun +4.
+
+---
+
+### Set Dark Steel
+- **Helm:**
+  - **Mapas:** Arena, ArenaVIP, Kanturu.
+  - **Mobs:** Blade Hunter.
+  - **Boxes:** Silver Box, Golden Box, Box of Kundun +3.
+- **Armor:**
+  - **Boxes:** Silver Box, Golden Box, Box of Kundun +3.
+- **Gloves:**
+  - **Mapas:** Arena, ArenaVIP, Icarus.
+  - **Mobs:** Alquamos.
+  - **Boxes:** Silver Box, Golden Box, Box of Kundun +3.
+- **Pants:**
+  - **Mapas:** Arena, ArenaVIP, Kanturu.
+  - **Mobs:** Kentauros.
+  - **Boxes:** Silver Box, Golden Box, Box of Kundun +3.
+- **Boots:**
+  - **Mapas:** Arena, ArenaVIP, Tarkan.
+  - **Mobs:** Tantalos.
+  - **Boxes:** Silver Box, Golden Box, Box of Kundun +3.
+
+---
+
+### Set Red Spirit
+- **Helm:**
+  - **Mapas:** Tarkan.
+  - **Mobs:** Death Beam Knight.
+  - **Boxes:** Golden Box, Box of Kundun +5.
+- **Armor:**
+  - **Mapas:** Debenter.
+  - **Mobs:** Debenter Elemental Knight.
+  - **Boxes:** Golden Box, Box of Kundun +5.
+- **Gloves:**
+  - **Mapas:** Arena, ArenaVIP, Tarkan, Kanturu.
+  - **Mobs:** Chief Skeleton Warrior, Tantalos, Satyros.
+  - **Boxes:** Golden Box, Box of Kundun +5.
+- **Pants:**
+  - **Mapas:** Ubaid.
+  - **Mobs:** Elemental DevilFairy, Elemental Beast.
+  - **Boxes:** Golden Box, Box of Kundun +5.
+- **Boots:**
+  - **Mapas:** Arena.
+  - **Mobs:** Chief Skeleton Warrior, Satyros.
+  - **Boxes:** Golden Box, Box of Kundun +5.
+
+---
+
+## 2. ARMAS (STAFFS E SWORDS)
+
+### Staffs (Cajados)
+- **Gorgon Staff:**
+  - **Mapas:** Arena, ArenaVIP, Dungeon.
+  - **Mobs:** Gorgon.
+  - **Boxes:** Silver Box, Box of Kundun +1.
+  - **Evento:** Moss Merchant.
+- **Legendary Staff:**
+  - **Mapas:** Losttower.
+  - **Mobs:** Death Knight.
+  - **Boxes:** Silver Box, Box of Kundun +2.
+  - **Evento:** Moss Merchant.
+- **Staff of Resurrection:**
+  - **Mapas:** Dungeon.
+  - **Mobs:** Gorgon.
+  - **Boxes:** Silver Box, Golden Box, Box of Kundun +3.
+  - **Evento:** Moss Merchant.
+- **Staff of Destruction:**
+  - **Mapas:** Arena, ArenaVIP, Kanturu.
+  - **Mobs:** Blade Hunter, Kentauros.
+  - **Boxes:** Silver Box, Golden Box, Box of Kundun +4.
+  - **Evento:** Moss Merchant.
+- **Dragon Soul Staff:**
+  - **Mapas:** Ubaid.
+  - **Mobs:** Ubaid Elemental Beast.
+  - **Boxes:** Silver Box, Golden Box, Box of Kundun +3.
+  - **Evento:** Moss Merchant.
+
+---
+
+### Swords (Espadas)
+- **Short Sword:**
+  - **Mapas:** Lorencia.
+  - **Mobs:** Spider, Budge Dragon.
+  - **Boxes:** Box of Kundun +1.
+  - **Evento:** Moss Merchant.
+- **Legendary Sword:**
+  - **Mapas:** Elbeland.
+  - **Mobs:** Grizzly.
+  - **Boxes:** Silver Box, Box of Kundun +3.
+  - **Evento:** Moss Merchant.
+- **Giant Sword:**
+  - **Mapas:** Arena, ArenaVIP, Losttower.
+  - **Mobs:** Poison Shadow.
+  - **Boxes:** Box of Kundun +3.
+  - **Evento:** Moss Merchant.
+- **Sword of Destruction:**
+  - **Mapas:** Arena, ArenaVIP, Tarkan, Kanturu.
+  - **Mobs:** Blade Tantalos, Iron Rider.
+  - **Boxes:** Silver Box, Golden Box, Box of Kundun +4.
+  - **Evento:** Moss Merchant.
+- **Sword Dancer:**
+  - **Boxes:** Golden Box, Box of Kundun +4.
+  - **Evento:** Moss Merchant.
+
+# DROPS COMPLETO (PARTE 2): SCEPTERS, SHIELDS, CROSSBOWS, STICKS/BOOKS, SPEAR/MACE E BOWS/AXES
+
+---
+
+## 1. SCEPTERS (CETROS - DARK LORD)
+
+- **Battle Scepter:**
+  - **Mapa:** Dungeon
+  - **Mob:** Gorgon
+  - **Box:** Box of Kundun +1
+  - **Evento:** Moss Merchant
+
+- **Master Scepter:**
+  - **Mapas:** Arena, Icarus
+  - **Mob:** Alquamos
+  - **Box:** Box of Kundun +1
+  - **Evento:** Moss Merchant
+
+- **Great Scepter:**
+  - **Mapas:** Arena, ArenaVIP, Kanturu
+  - **Mob:** Iron Rider
+  - **Boxes:** Silver Box, Box of Kundun +2
+  - **Evento:** Moss Merchant
+
+- **Lord Scepter:**
+  - **Boxes:** Silver Box, Golden Box, Box of Kundun +3
+  - **Evento:** Moss Merchant
+
+- **Shining Scepter:**
+  - **Boxes:** Golden Box, Box of Kundun +5
+  - **Evento:** Moss Merchant
+
+---
+
+## 2. SHIELDS (ESCUDOS)
+
+- **Elven Shield:**
+  - **Mapa:** Dungeon
+  - **Mob:** Larva
+  - **Boxes:** Silver Box, Box of Kundun +3
+
+- **Spiked Shield:**
+  - **Mapa:** Dungeon
+  - **Mob:** Cyclope
+  - **Box:** Box of Kundun +2
+
+- **Dragon Shield:**
+  - **Mapa:** Losttower
+  - **Mob:** Death Knight
+  - **Boxes:** Golden Box, Box of Kundun +5
+
+- **Elemental Shield:**
+  - **Mapa:** Losttower
+  - **Mob:** Death Knight
+  - **Boxes:** Silver Box, Box of Kundun +5
+
+- **Cross Shield:**
+  - **Boxes:** Golden Box, Box of Kundun +5
+
+---
+
+## 3. CROSSBOWS (BESTAS - FAIRY ELF)
+
+- **Arquebus:**
+  - **Mapas:** Lorencia, Devias
+  - **Mobs:** Skeleton, Elite Yeti, Ice Monster
+  - **Box:** Box of Kundun +1
+  - **Evento:** Moss Merchant
+
+- **Bluewing Crossbow:**
+  - **Mapas:** Arena, ArenaVIP, Tarkan
+  - **Mobs:** Chaos Castle, Death Tree, Mutant
+  - **Boxes:** Silver Box, Golden Box, Box of Kundun +3
+  - **Evento:** Moss Merchant
+
+- **Aquagold Crossbow:**
+  - **Mapas:** Tarkan, Arena
+  - **Mobs:** Mutant, Forest Orc
+  - **Boxes:** Silver Box, Golden Box, Box of Kundun +4
+  - **Evento:** Moss Merchant
+
+- **Saint Crossbow:**
+  - **Mapas:** Arena, Kanturu
+  - **Mobs:** Chief Skeleton Warrior, Iron Rider
+  - **Boxes:** Silver Box, Golden Box, Box of Kundun +4
+  - **Evento:** Moss Merchant
+
+- **Great Reign Crossbow:**
+  - **Mapa:** Ubaid
+  - **Mob:** Ubaid Elemental Beast
+  - **Box:** Box of Kundun +5
+  - **Evento:** Moss Merchant
+
+---
+
+## 4. STICKS E BOOKS (CAJADOS E LIVROS DE SUMMONER)
+
+- **Red Wing Stick:**
+  - **Mapa:** Losttower
+  - **Mob:** Devil
+  - **Box:** Box of Kundun +2
+  - **Evento:** Moss Merchant
+
+- **Ancient Stick:**
+  - **Boxes:** Silver Box, Golden Box, Box of Kundun +3
+  - **Evento:** Moss Merchant
+
+- **Demonic Stick:**
+  - **Boxes:** Golden Box, Box of Kundun +4
+  - **Evento:** Moss Merchant
+
+- **Book of Neil:**
+  - **Mapa:** Elbeland
+  - **Boxes:** Silver Box, Golden Box, Box of Kundun +3
+  - **Evento:** Moss Merchant
+  - **NPC:** Marce
+
+- **Book of Samut:**
+  - **Mapa:** Elbeland
+  - **Boxes:** Box of Kundun +1, Box of Kundun +2
+  - **Evento:** Moss Merchant
+  - **NPC:** Marce
+
+---
+
+## 5. SPEAR E MACE (LANÇAS E MAÇAS)
+
+- **Crystal Morning Star:**
+  - **Mapas:** Arena, Atlans 2
+  - **Box:** Box of Kundun +1
+  - **Evento:** Moss Merchant
+
+- **Elemental Mace:**
+  - **Mapas:** Arena, ArenaVIP, Kanturu / Ubaid, Alchmaru
+  - **Mob:** Blade Hunter
+  - **Boxes:** Silver Box, Box of Kundun +1
+  - **Evento:** Moss Merchant
+
+- **Serpent Spear:**
+  - **Mapa:** Dungeon
+  - **Mob:** Poison Bull Fighter
+  - **Box:** Box of Kundun +1
+  - **Evento:** Moss Merchant
+
+- **Great Scythe:**
+  - **Mapas:** Arena, Dungeon
+  - **Mob:** Gorgon
+  - **Box:** Box of Kundun +2
+  - **Evento:** Moss Merchant
+
+- **Dragon Spear:**
+  - **Mapas:** Arena, Dungeon / Ubaid
+  - **Box:** Box of Kundun +3
+  - **Evento:** Moss Merchant
+
+---
+
+## 6. BOWS E AXES (ARCOS E MACHADOS)
+
+- **Larkan Axe:**
+  - **Mapa:** Arena
+  - **Mob:** Poison Shadow
+  - **Box:** Box of Kundun +2
+  - **Evento:** Moss Merchant
+
+- **Crescent Axe:**
+  - **Mapa:** Dungeon
+  - **Mob:** Gorgon
+  - **Box:** Box of Kundun +2
+  - **Evento:** Moss Merchant
+
+- **Silver Bow:**
+  - **Mapa:** Arena
+  - **Mob:** Cursed Wizard
+  - **Box:** Box of Kundun +2
+  - **Evento:** Moss Merchant
+
+- **Celestial Bow:**
+  - **Mapas:** Arena, ArenaVIP, Kanturu
+  - **Mobs:** Magic Skeleton, Kentauros, Iron Rider
+  - **Box:** Box of Kundun +3
+  - **Evento:** Moss Merchant
+
+- **Albatross Bow:**
+  - **Boxes:** Golden Box, Box of Kundun +5
+  - **Evento:** Moss Merchant
